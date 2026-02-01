@@ -1,0 +1,1002 @@
+[
+  {
+    "similarity": 0.891,
+    "kept": "COMPOSER_IMAGE%2C_Fr%C3%A9d%C3%A9ric_Chopin%2C_According_to_Kohler%2C_the_originating_daguerreotype_was_made_around_1847_by_Paris-based_artist_Louis-Auguste_Bisson%2C_who_took_the_only_confirmed_photo_of_Chopin.",
+    "removed": "File:COMPOSER_IMAGE,_Fr%C3%A9d%C3%A9ric_Chopin,_According_to_Kohler,_the_originating_daguerreotype_was_made_around_1847_by_Paris-based_artist_Louis-Auguste_Bisson,_who_took_the_only_confirmed_photo_of_Chopin."
+  },
+  {
+    "similarity": 0.973,
+    "kept": "Inverse protein-folding problem (protein design): Is it possible to design a polypeptide sequence which will adopt a given structure under certain environmental conditions?.",
+    "removed": "Inverse protein-folding problem: Is it possible to design a polypeptide sequence which will adopt a given structure under certain environmental conditions?."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "The Nobel Prize in Chemistry (Swedish: Nobelpriset i kemi) is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry.",
+    "removed": "The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of physics."
+  },
+  {
+    "similarity": 0.858,
+    "kept": "Residents reported the first cycling club in Washington, D.C., to the police over concerns that bicycles posed a danger to pedestrians.",
+    "removed": "The first cycling club in Washington, D.C. was reported to police over concerns that bicycles posed danger to pedestrians."
+  },
+  {
+    "similarity": 1.0,
+    "kept": "Neurocysticercosis has been referred to as 'the great imitator' because it can mimic many other neurological disorders.",
+    "removed": "Neurocysticercosis has been referred to as the 'great imitator' because it can mimic many other neurological disorders."
+  },
+  {
+    "similarity": 0.825,
+    "kept": "Shortly after it was completed, the Tokamak de Fontenay-aux-Roses burned a hole through itself in a plasma disruption.",
+    "removed": "Tokamak de Fontenay-aux-Roses burned a hole through itself shortly after completion in a plasma disruption."
+  },
+  {
+    "similarity": 0.933,
+    "kept": "P\u0159\u00edse\u010dnice Reservoir covers an area of 3143809 square kilometers with a maximum depth of 50 meters.",
+    "removed": "P\u0159\u00edse\u010dnice Reservoir covers an area of 3143809 square kilometers with a maximum depth of 58 meters."
+  },
+  {
+    "similarity": 0.965,
+    "kept": "Lake Chaubunagungamaug covers an area of 1442 square kilometers with a maximum depth of 14 meters.",
+    "removed": "Lake Chaubunagungamaug covers an area of 1442 square kilometers with a maximum depth of 4 meters."
+  },
+  {
+    "similarity": 0.95,
+    "kept": "The only difference between venomous animals and poisonous animals is how they deliver the toxins.",
+    "removed": "The only difference between poisonous animals and venomous animals is how they deliver the toxins."
+  },
+  {
+    "similarity": 0.929,
+    "kept": "Southern Indian Lake covers an area of 2015 square kilometers with a maximum depth of 10 meters.",
+    "removed": "Southern Indian Lake covers an area of 2015 square kilometers with a maximum depth of 30 meters."
+  },
+  {
+    "similarity": 0.916,
+    "kept": "Lesser Slave Lake covers an area of 1168 square kilometers with a maximum depth of 114 meters.",
+    "removed": "Lesser Slave Lake covers an area of 1168 square kilometers with a maximum depth of 20 meters."
+  },
+  {
+    "similarity": 0.872,
+    "kept": "Lake Tanganyika covers an area of 32900 square kilometers with a maximum depth of 1433 meters.",
+    "removed": "Lake Tanganyika covers an area of 32900 square kilometers with a maximum depth of 570 meters."
+  },
+  {
+    "similarity": 0.761,
+    "kept": "Lake Winnipegosis covers an area of 5164 square kilometers with a maximum depth of 12 meters.",
+    "removed": "Lake Winnipeg covers an area of 24400 square kilometers with a maximum depth of 12 meters."
+  },
+  {
+    "similarity": 0.864,
+    "kept": "Caspian Sea covers an area of 386400 square kilometers with a maximum depth of 1025 meters.",
+    "removed": "Caspian Sea covers an area of 386400 square kilometers with a maximum depth of 211 meters."
+  },
+  {
+    "similarity": 0.776,
+    "kept": "Lago di Loppio covers an area of 600000 square kilometers with a maximum depth of 4 meters.",
+    "removed": "Lago d'Ampola covers an area of 60000 square kilometers with a maximum depth of 4 meters."
+  },
+  {
+    "similarity": 0.912,
+    "kept": "Lake Balkhash covers an area of 18200 square kilometers with a maximum depth of 25 meters.",
+    "removed": "Lake Balkhash covers an area of 18200 square kilometers with a maximum depth of 6 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Lago di Lagolo covers an area of 23600 square kilometers with a maximum depth of 7 meters.",
+    "removed": "Lago di Cei covers an area of 39000 square kilometers with a maximum depth of 7 meters."
+  },
+  {
+    "similarity": 0.899,
+    "kept": "Lac d'Arvouin covers an area of 17500 square kilometers with a maximum depth of 9 meters.",
+    "removed": "Lac d'Arvouin covers an area of 29500 square kilometers with a maximum depth of 9 meters."
+  },
+  {
+    "similarity": 0.91,
+    "kept": "Lake Skadar covers an area of 26535 square kilometers with a maximum depth of 44 meters.",
+    "removed": "Lake Skadar covers an area of 26535 square kilometers with a maximum depth of 5 meters."
+  },
+  {
+    "similarity": 0.922,
+    "kept": "Lake Onega covers an area of 9700 square kilometers with a maximum depth of 127 meters.",
+    "removed": "Lake Onega covers an area of 9800 square kilometers with a maximum depth of 127 meters."
+  },
+  {
+    "similarity": 0.897,
+    "kept": "Island Lake covers an area of 1043 square kilometers with a maximum depth of 20 meters.",
+    "removed": "Island Lake covers an area of 1043 square kilometers with a maximum depth of 59 meters."
+  },
+  {
+    "similarity": 0.909,
+    "kept": "Poyang Lake covers an area of 5100 square kilometers with a maximum depth of 25 meters.",
+    "removed": "Poyang Lake covers an area of 5100 square kilometers with a maximum depth of 8 meters."
+  },
+  {
+    "similarity": 0.815,
+    "kept": "Lake Peipus covers an area of 3543 square kilometers with a maximum depth of 18 meters.",
+    "removed": "Lake Peipus covers an area of 2613 square kilometers with a maximum depth of 13 meters."
+  },
+  {
+    "similarity": 0.934,
+    "kept": "Lake Peipus covers an area of 3543 square kilometers with a maximum depth of 18 meters.",
+    "removed": "Lake Peipus covers an area of 3543 square kilometers with a maximum depth of 8 meters."
+  },
+  {
+    "similarity": 0.815,
+    "kept": "Lake Peipus covers an area of 3543 square kilometers with a maximum depth of 18 meters.",
+    "removed": "Lake Peipus covers an area of 2613 square kilometers with a maximum depth of 8 meters."
+  },
+  {
+    "similarity": 0.921,
+    "kept": "Lake Tengiz covers an area of 1590 square kilometers with a maximum depth of 2 meters.",
+    "removed": "Lake Tengiz covers an area of 1590 square kilometers with a maximum depth of 7 meters."
+  },
+  {
+    "similarity": 0.753,
+    "kept": "Lake Tengiz covers an area of 1590 square kilometers with a maximum depth of 2 meters.",
+    "removed": "Lake Tai covers an area of 2250 square kilometers with a maximum depth of 2 meters."
+  },
+  {
+    "similarity": 0.908,
+    "kept": "Lake Inari covers an area of 1082 square kilometers with a maximum depth of 14 meters.",
+    "removed": "Lake Inari covers an area of 1082 square kilometers with a maximum depth of 92 meters."
+  },
+  {
+    "similarity": 0.921,
+    "kept": "Lake Erie covers an area of 25744 square kilometers with a maximum depth of 64 meters.",
+    "removed": "Lake Erie covers an area of 25744 square kilometers with a maximum depth of 65 meters."
+  },
+  {
+    "similarity": 0.849,
+    "kept": "Micropachycephalosaurus lived during the Late Cretaceous and could grow to 0.6 meters.",
+    "removed": "Pachycephalosaurus lived during the Late Cretaceous and could grow to 3.0 meters."
+  },
+  {
+    "similarity": 0.849,
+    "kept": "Micropachycephalosaurus lived during the Late Cretaceous and could grow to 0.6 meters.",
+    "removed": "Pachycephalosaurus lived during the Late Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.846,
+    "kept": "Lake Tana covers an area of 2156 square kilometers with a maximum depth of 14 meters.",
+    "removed": "Lake Tana covers an area of 3600 square kilometers with a maximum depth of 14 meters."
+  },
+  {
+    "similarity": 0.907,
+    "kept": "Lake Tana covers an area of 2156 square kilometers with a maximum depth of 14 meters.",
+    "removed": "Lake Tana covers an area of 2156 square kilometers with a maximum depth of 8 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Lake Tana covers an area of 2156 square kilometers with a maximum depth of 14 meters.",
+    "removed": "Lake Tana covers an area of 3600 square kilometers with a maximum depth of 8 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Lac B\u00e9nit covers an area of 41100 square kilometers with a maximum depth of 9 meters.",
+    "removed": "Lac Vert covers an area of 8900 square kilometers with a maximum depth of 9 meters."
+  },
+  {
+    "similarity": 0.934,
+    "kept": "The U.S. Air Force considered a bomber version of the F-22 Raptor known as the FB-22.",
+    "removed": "The US Air Force considered a bomber version of the F-22 Raptor known as the FB-22."
+  },
+  {
+    "similarity": 0.89,
+    "kept": "Namtso covers an area of 1920 square kilometers with a maximum depth of 125 meters.",
+    "removed": "Namtso covers an area of 1920 square kilometers with a maximum depth of 33 meters."
+  },
+  {
+    "similarity": 0.782,
+    "kept": "The enzyme farnesyl-pyrophosphate synthetase plays a role in biochemical processes.",
+    "removed": "The enzyme geranylpyrophosphate synthetase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.903,
+    "kept": "Taymyr covers an area of 4560 square kilometers with a maximum depth of 26 meters.",
+    "removed": "Taymyr covers an area of 4560 square kilometers with a maximum depth of 3 meters."
+  },
+  {
+    "similarity": 0.877,
+    "kept": "Paramount Tower Hotel & Residences stands 270 meters tall in United Arab Emirates.",
+    "removed": "Paramount Tower Hotel & Residences stands 886 meters tall in United Arab Emirates."
+  },
+  {
+    "similarity": 0.927,
+    "kept": "The enzyme carnitine palmitoyltransferase 2 plays a role in biochemical processes.",
+    "removed": "The enzyme carnitine palmitoyltransferase 1 plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "The enzyme Salicylate 1-O-methyltransferase plays a role in biochemical processes.",
+    "removed": "The enzyme CpG methyltransferase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.878,
+    "kept": "Acrocanthosaurus lived during the Early Cretaceous and could grow to 11.5 meters.",
+    "removed": "Acrocanthosaurus lived during the Early Cretaceous and could grow to 12.0 meters."
+  },
+  {
+    "similarity": 0.805,
+    "kept": "Archaeornithomimus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Ornithomimus lived during the Late Cretaceous and could grow to 4.0 meters."
+  },
+  {
+    "similarity": 0.771,
+    "kept": "Archaeornithomimus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Anserimimus lived during the Late Cretaceous and could grow to 3.5 meters."
+  },
+  {
+    "similarity": 0.922,
+    "kept": "The Gulf of Edremit\u2013Ayvacik earthquake of 1944 measured 6.7 on the Richter scale.",
+    "removed": "The Gulf of Edremit\u2013Ayvacik earthquake of 1944 measured 6.8 on the Richter scale."
+  },
+  {
+    "similarity": 0.923,
+    "kept": "The enzyme 3\u03b2 hydroxysteroid dehydrogenase plays a role in biochemical processes.",
+    "removed": "The enzyme 3\u03b1-Hydroxysteroid dehydrogenase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.795,
+    "kept": "Muttaburrasaurus lived during the Early Cretaceous and could grow to 7.0 meters.",
+    "removed": "Tenontosaurus lived during the Early Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.805,
+    "kept": "Muttaburrasaurus lived during the Early Cretaceous and could grow to 7.0 meters.",
+    "removed": "Ouranosaurus lived during the Early Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Muttaburrasaurus lived during the Early Cretaceous and could grow to 7.0 meters.",
+    "removed": "Supersaurus lived during the Early Cretaceous and could grow to 34.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Muttaburrasaurus lived during the Early Cretaceous and could grow to 7.0 meters.",
+    "removed": "Supersaurus lived during the Early Cretaceous and could grow to 35.0 meters."
+  },
+  {
+    "similarity": 0.817,
+    "kept": "Sinornithosaurus lived during the Early Cretaceous and could grow to 2.0 meters.",
+    "removed": "Beipiaosaurus lived during the Early Cretaceous and could grow to 2.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Sinornithosaurus lived during the Early Cretaceous and could grow to 2.0 meters.",
+    "removed": "Hylaeosaurus lived during the Early Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Pachyrhinosaurus lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Pachyrhinosaurus lived during the Late Cretaceous and could grow to 8.0 meters."
+  },
+  {
+    "similarity": 0.783,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Therizinosaurus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Tyrannosaurus lived during the Late Cretaceous and could grow to 12.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Aegyptosaurus lived during the Late Cretaceous and could grow to 15.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Corythosaurus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Dromaeosaurus lived during the Late Cretaceous and could grow to 2.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Elasmosaurus lived during the Late Cretaceous and could grow to 14.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Albertosaurus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Panoplosaurus lived during the Late Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.802,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Spinosaurus lived during the Late Cretaceous and could grow to 14.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Tarbosaurus lived during the Late Cretaceous and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.78,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Pinacosaurus lived during the Late Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Ankylosaurus lived during the Late Cretaceous and could grow to 8.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Bactrosaurus lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Alamosaurus lived during the Late Cretaceous and could grow to 21.0 meters."
+  },
+  {
+    "similarity": 0.78,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Chasmosaurus lived during the Late Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.78,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Centrosaurus lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.79,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Segnosaurus lived during the Late Cretaceous and could grow to 4.0 meters."
+  },
+  {
+    "similarity": 0.79,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Segnosaurus lived during the Late Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Hadrosaurus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.79,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Gordosaurus lived during the Late Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Tylosaurus lived during the Late Cretaceous and could grow to 14.0 meters."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Einiosaurus lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Argentinosaurus lived during the Late Cretaceous and could grow to 35.0 meters.",
+    "removed": "Aucasaurus lived during the Late Cretaceous and could grow to 5.0 meters."
+  },
+  {
+    "similarity": 0.753,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Nanshiungosaurus lived during the Late Cretaceous and could grow to 4.4 meters."
+  },
+  {
+    "similarity": 0.774,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Antarctosaurus lived during the Late Cretaceous and could grow to 18.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Corythosaurus lived during the Late Cretaceous and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Albertosaurus lived during the Late Cretaceous and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Tsintaosaurus lived during the Late Cretaceous and could grow to 12.0 meters."
+  },
+  {
+    "similarity": 0.762,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Nemegtosaurus lived during the Late Cretaceous and could grow to 13.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Saltasaurus lived during the Late Cretaceous and could grow to 12.0 meters."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Shantungosaurus lived during the Late Cretaceous and could grow to 15.0 meters.",
+    "removed": "Mapusaurus lived during the Late Cretaceous and could grow to 13.0 meters."
+  },
+  {
+    "similarity": 0.815,
+    "kept": "Heterodontosaurus lived during the Early Jurassic and could grow to 1.2 meters.",
+    "removed": "Scutellosaurus lived during the Early Jurassic and could grow to 1.2 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Heterodontosaurus lived during the Early Jurassic and could grow to 1.2 meters.",
+    "removed": "Lesothosaurus lived during the Early Jurassic and could grow to 1.0 meters."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Sinosauropteryx lived during the Early Cretaceous and could grow to 1.1 meters.",
+    "removed": "Caudipteryx lived during the Early Cretaceous and could grow to 1.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Brachiosaurus lived during the Late Jurassic and could grow to 30.0 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Dicraeosaurus lived during the Late Jurassic and could grow to 20.0 meters."
+  },
+  {
+    "similarity": 0.835,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Torvosaurus lived during the Late Jurassic and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.756,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Stegosaurus lived during the Late Jurassic and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Allosaurus lived during the Late Jurassic and could grow to 12.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Yangchuanosaurus lived during the Late Jurassic and could grow to 10.0 meters.",
+    "removed": "Dryosaurus lived during the Late Jurassic and could grow to 4.0 meters."
+  },
+  {
+    "similarity": 0.923,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.7 meters."
+  },
+  {
+    "similarity": 0.771,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Megalosaurus lived during the Middle Jurassic and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.771,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Cetiosaurus lived during the Middle Jurassic and could grow to 18.0 meters."
+  },
+  {
+    "similarity": 0.771,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Shunosaurus lived during the Middle Jurassic and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Omeisaurus lived during the Middle Jurassic and could grow to 20.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Shunosaurus lived during the Middle Jurassic and could grow to 9.5 meters."
+  },
+  {
+    "similarity": 0.79,
+    "kept": "Monolophosaurus lived during the Middle Jurassic and could grow to 5.0 meters.",
+    "removed": "Gasosaurus lived during the Middle Jurassic and could grow to 4.0 meters."
+  },
+  {
+    "similarity": 0.921,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Albertaceratops lived during the Late Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.783,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Arrhinoceratops lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Protoceratops lived during the Late Cretaceous and could grow to 1.8 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Pentaceratops lived during the Late Cretaceous and could grow to 6.8 meters."
+  },
+  {
+    "similarity": 0.802,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Leptoceratops lived during the Late Cretaceous and could grow to 3.0 meters."
+  },
+  {
+    "similarity": 0.759,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Anchiceratops lived during the Late Cretaceous and could grow to 4.3 meters."
+  },
+  {
+    "similarity": 0.802,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Anchiceratops lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.823,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Triceratops lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.787,
+    "kept": "Albertaceratops lived during the Late Cretaceous and could grow to 5.0 meters.",
+    "removed": "Avaceratops lived during the Late Cretaceous and could grow to 2.3 meters."
+  },
+  {
+    "similarity": 0.883,
+    "kept": "Euoplocephalus lived during the Late Cretaceous and could grow to 5.5 meters.",
+    "removed": "Euoplocephalus lived during the Late Cretaceous and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.787,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Styracosaurus lived during the Late Cretaceous and could grow to 5.5 meters."
+  },
+  {
+    "similarity": 0.775,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Rajasaurus lived during the Late Cretaceous and could grow to 10.5 meters."
+  },
+  {
+    "similarity": 0.753,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Gordosaurus lived during the Late Cretaceous and could grow to 8.6 meters."
+  },
+  {
+    "similarity": 0.797,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Einiosaurus lived during the Late Cretaceous and could grow to 4.5 meters."
+  },
+  {
+    "similarity": 0.808,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Torosaurus lived during the Late Cretaceous and could grow to 7.5 meters."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Thescelosaurus lived during the Late Cretaceous and could grow to 3.5 meters.",
+    "removed": "Rajasaurus lived during the Late Cretaceous and could grow to 6.6 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Thecodontosaurus lived during the Late Triassic and could grow to 2.5 meters.",
+    "removed": "Staurikosaurus lived during the Late Triassic and could grow to 2.0 meters."
+  },
+  {
+    "similarity": 0.753,
+    "kept": "Thecodontosaurus lived during the Late Triassic and could grow to 2.5 meters.",
+    "removed": "Riojasaurus lived during the Late Triassic and could grow to 5.2 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Huayangosaurus lived during the Middle Jurassic and could grow to 4.5 meters.",
+    "removed": "Segisaurus lived during the Middle Jurassic and could grow to 1.5 meters."
+  },
+  {
+    "similarity": 0.833,
+    "kept": "Prosaurolophus lived during the Late Cretaceous and could grow to 7.6 meters.",
+    "removed": "Saurolophus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.826,
+    "kept": "The island of San Pedro M\u00e1rtir Island has an area of 29054 square kilometers.",
+    "removed": "The island of San Pedro M\u00e1rtir Island has an area of 1111 square kilometers."
+  },
+  {
+    "similarity": 0.763,
+    "kept": "The enzyme M-phase inducer phosphatase plays a role in biochemical processes.",
+    "removed": "The enzyme MAP kinase phosphatase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.797,
+    "kept": "The enzyme Aminotransferase, aspartate plays a role in biochemical processes.",
+    "removed": "The enzyme alanine aminotransferase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.757,
+    "kept": "The enzyme Phenylacetate decarboxylase plays a role in biochemical processes.",
+    "removed": "The enzyme carboxylase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.866,
+    "kept": "emtricitabine / rilpivirine / tenofovir alafenamide is a pharmaceutical drug.",
+    "removed": "emtricitabine / tenofovir alafenamide is a pharmaceutical drug."
+  },
+  {
+    "similarity": 0.794,
+    "kept": "emtricitabine / rilpivirine / tenofovir alafenamide is a pharmaceutical drug.",
+    "removed": "emtricitabine/rilpivirine/tenofovir is a pharmaceutical drug."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Mamenchisaurus lived during the Late Jurassic and could grow to 22.0 meters.",
+    "removed": "Brachiosaurus lived during the Late Jurassic and could grow to 21.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Mamenchisaurus lived during the Late Jurassic and could grow to 22.0 meters.",
+    "removed": "Camarasaurus lived during the Late Jurassic and could grow to 23.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Mamenchisaurus lived during the Late Jurassic and could grow to 22.0 meters.",
+    "removed": "Apatosaurus lived during the Late Jurassic and could grow to 21.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Mamenchisaurus lived during the Late Jurassic and could grow to 22.0 meters.",
+    "removed": "Apatosaurus lived during the Late Jurassic and could grow to 22.8 meters."
+  },
+  {
+    "similarity": 0.787,
+    "kept": "Dromaeosaurus lived during the Late Cretaceous and could grow to 1.8 meters.",
+    "removed": "Chasmosaurus lived during the Late Cretaceous and could grow to 4.8 meters."
+  },
+  {
+    "similarity": 0.872,
+    "kept": "Tuojiangosaurus lived during the Late Jurassic and could grow to 6.5 meters.",
+    "removed": "Tuojiangosaurus lived during the Late Jurassic and could grow to 7.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Tuojiangosaurus lived during the Late Jurassic and could grow to 6.5 meters.",
+    "removed": "Ceratosaurus lived during the Late Jurassic and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.765,
+    "kept": "Tuojiangosaurus lived during the Late Jurassic and could grow to 6.5 meters.",
+    "removed": "Kentrosaurus lived during the Late Jurassic and could grow to 4.5 meters."
+  },
+  {
+    "similarity": 0.753,
+    "kept": "Tuojiangosaurus lived during the Late Jurassic and could grow to 6.5 meters.",
+    "removed": "Agilisaurus lived during the Late Jurassic and could grow to 1.5 meters."
+  },
+  {
+    "similarity": 0.785,
+    "kept": "Tuojiangosaurus lived during the Late Jurassic and could grow to 6.5 meters.",
+    "removed": "Allosaurus lived during the Late Jurassic and could grow to 8.5 meters."
+  },
+  {
+    "similarity": 0.92,
+    "kept": "Deinocheirus lived during the Late Cretaceous and could grow to 10.0 meters.",
+    "removed": "Deinocheirus lived during the Late Cretaceous and could grow to 11.0 meters."
+  },
+  {
+    "similarity": 0.785,
+    "kept": "Achelousaurus lived during the Late Cretaceous and could grow to 6.0 meters.",
+    "removed": "Abelisaurus lived during the Late Cretaceous and could grow to 9.0 meters."
+  },
+  {
+    "similarity": 0.782,
+    "kept": "Achelousaurus lived during the Late Cretaceous and could grow to 6.0 meters.",
+    "removed": "Alioramus lived during the Late Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.872,
+    "kept": "Concavenator lived during the Early Cretaceous and could grow to 5.8 meters.",
+    "removed": "Concavenator lived during the Early Cretaceous and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.821,
+    "kept": "The island of Prince of Wales Island has an area of 33339 square kilometers.",
+    "removed": "The island of Prince of Wales Island has an area of 6675 square kilometers."
+  },
+  {
+    "similarity": 0.895,
+    "kept": "Velociraptor lived during the Late Cretaceous and could grow to 1.8 meters.",
+    "removed": "Velociraptor lived during the Late Cretaceous and could grow to 2.1 meters."
+  },
+  {
+    "similarity": 0.785,
+    "kept": "Velociraptor lived during the Late Cretaceous and could grow to 1.8 meters.",
+    "removed": "Oviraptor lived during the Late Cretaceous and could grow to 2.0 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Scelidosaurus lived during the Early Jurassic and could grow to 4.0 meters.",
+    "removed": "Lufengosaurus lived during the Early Jurassic and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.778,
+    "kept": "Scelidosaurus lived during the Early Jurassic and could grow to 4.0 meters.",
+    "removed": "Barapasaurus lived during the Early Jurassic and could grow to 14.0 meters."
+  },
+  {
+    "similarity": 0.785,
+    "kept": "Iguanodon lived during the Early Cretaceous and could grow to 10.0 meters.",
+    "removed": "Baryonyx lived during the Early Cretaceous and could grow to 10.0 meters."
+  },
+  {
+    "similarity": 0.779,
+    "kept": "Garudimimus lived during the Late Cretaceous and could grow to 4.7 meters.",
+    "removed": "Avimimus lived during the Late Cretaceous and could grow to 1.5 meters."
+  },
+  {
+    "similarity": 0.853,
+    "kept": "Shimao Hunan Center stands 1138 meters tall in People's Republic of China.",
+    "removed": "Shimao Hunan Center stands 347 meters tall in People's Republic of China."
+  },
+  {
+    "similarity": 0.919,
+    "kept": "Galaxy World Tower 1 stands 356 meters tall in People's Republic of China.",
+    "removed": "Galaxy World Tower 2 stands 356 meters tall in People's Republic of China."
+  },
+  {
+    "similarity": 0.833,
+    "kept": "The island of Tebing Tinggi Island has an area of 10375 square kilometers.",
+    "removed": "The island of Tebing Tinggi Island has an area of 1598 square kilometers."
+  },
+  {
+    "similarity": 0.782,
+    "kept": "Kentrosaurus lived during the Late Jurassic and could grow to 5.0 meters.",
+    "removed": "Dacentrurus lived during the Late Jurassic and could grow to 6.0 meters."
+  },
+  {
+    "similarity": 0.89,
+    "kept": "Diplodocus lived during the Late Jurassic and could grow to 26.0 meters.",
+    "removed": "Diplodocus lived during the Late Jurassic and could grow to 32.0 meters."
+  },
+  {
+    "similarity": 0.833,
+    "kept": "Shenzhou 15 was launched in 2022 by China National Space Administration.",
+    "removed": "Shenzhou 16 was launched in 2023 by China National Space Administration."
+  },
+  {
+    "similarity": 0.833,
+    "kept": "Shenzhou 15 was launched in 2022 by China National Space Administration.",
+    "removed": "Shenzhou 17 was launched in 2023 by China National Space Administration."
+  },
+  {
+    "similarity": 0.833,
+    "kept": "Shenzhou 15 was launched in 2022 by China National Space Administration.",
+    "removed": "Shenzhou 12 was launched in 2021 by China National Space Administration."
+  },
+  {
+    "similarity": 0.76,
+    "kept": "Gasherbrum II East stands at 7758 meters in People's Republic of China.",
+    "removed": "Gasherbrum III stands at 7946 meters in People's Republic of China."
+  },
+  {
+    "similarity": 0.914,
+    "kept": "The \u0130zmir\u2013Torbal\u0131 earthquake of 1928 measured 6.5 on the Richter scale.",
+    "removed": "The \u0130zmir\u2013Torbal\u0131 earthquake of 1928 measured 6.4 on the Richter scale."
+  },
+  {
+    "similarity": 0.913,
+    "kept": "The Su\u015fehri\u2013Sivas earthquake of 1929 measured 6.5 on the Richter scale.",
+    "removed": "The Su\u015fehri\u2013Sivas earthquake of 1929 measured 6.1 on the Richter scale."
+  },
+  {
+    "similarity": 0.766,
+    "kept": "The island of Graham Bell Island has an area of 1557 square kilometers.",
+    "removed": "The island of Graham Island has an area of 1367 square kilometers."
+  },
+  {
+    "similarity": 0.912,
+    "kept": "The Adana\u2013Ceyhan earthquake of 1998 measured 6.2 on the Richter scale.",
+    "removed": "The Adana\u2013Ceyhan earthquake of 1998 measured 6.3 on the Richter scale."
+  },
+  {
+    "similarity": 0.803,
+    "kept": "fluticasone furoate / vilanterol trifenatate is a pharmaceutical drug.",
+    "removed": "fluticasone furoate/vilanterol is a pharmaceutical drug."
+  },
+  {
+    "similarity": 0.788,
+    "kept": "ethambutol/isoniazid/pyrazinamide/rifampicin is a pharmaceutical drug.",
+    "removed": "ethambutol/isoniazid/rifampicin is a pharmaceutical drug."
+  },
+  {
+    "similarity": 0.909,
+    "kept": "The Afyon\u2013Dinar earthquake of 1995 measured 6.4 on the Richter scale.",
+    "removed": "The Afyon\u2013Dinar earthquake of 1995 measured 6.1 on the Richter scale."
+  },
+  {
+    "similarity": 0.79,
+    "kept": "The island of Melville Island has an area of 42149 square kilometers.",
+    "removed": "The island of Melville Island has an area of 5765 square kilometers."
+  },
+  {
+    "similarity": 0.794,
+    "kept": "The island of Bathurst Island has an area of 16042 square kilometers.",
+    "removed": "The island of Bathurst Island has an area of 2600 square kilometers."
+  },
+  {
+    "similarity": 0.764,
+    "kept": "The enzyme tryptophan synthase plays a role in biochemical processes.",
+    "removed": "The enzyme chitin synthase plays a role in biochemical processes."
+  },
+  {
+    "similarity": 0.844,
+    "kept": "The island of Hallands V\u00e4der\u00f6 has an area of 1506 square kilometers.",
+    "removed": "The island of Hallands V\u00e4der\u00f6 has an area of 1834 square kilometers."
+  },
+  {
+    "similarity": 0.803,
+    "kept": "The island of Flinders Island has an area of 1367 square kilometers.",
+    "removed": "The island of Flinders Island has an area of 3642 square kilometers."
+  },
+  {
+    "similarity": 0.82,
+    "kept": "The island of Siberut Island has an area of 30812 square kilometers.",
+    "removed": "The island of Siberut Island has an area of 3829 square kilometers."
+  },
+  {
+    "similarity": 0.806,
+    "kept": "The island of Kolguyev Island has an area of 3497 square kilometers.",
+    "removed": "The island of Kolguyev Island has an area of 5200 square kilometers."
+  },
+  {
+    "similarity": 0.836,
+    "kept": "The island of Kolepom Island has an area of 10652 square kilometers.",
+    "removed": "The island of Kolepom Island has an area of 11742 square kilometers."
+  },
+  {
+    "similarity": 0.82,
+    "kept": "The island of Yamdena Island has an area of 30254 square kilometers.",
+    "removed": "The island of Yamdena Island has an area of 3100 square kilometers."
+  },
+  {
+    "similarity": 0.817,
+    "kept": "The island of Sherman Island has an area of 14000 square kilometers.",
+    "removed": "The island of Sherman Island has an area of 1121 square kilometers."
+  },
+  {
+    "similarity": 0.774,
+    "kept": "The island of Garden Island has an area of 307544 square kilometers.",
+    "removed": "The island of Garden Island has an area of 1098 square kilometers."
+  },
+  {
+    "similarity": 0.908,
+    "kept": "The Malazgirt earthquake of 1903 measured 6.7 on the Richter scale.",
+    "removed": "The Malazgirt earthquake of 1903 measured 6.3 on the Richter scale."
+  },
+  {
+    "similarity": 0.817,
+    "kept": "The island of Madura Island has an area of 40471 square kilometers.",
+    "removed": "The island of Madura Island has an area of 4429 square kilometers."
+  },
+  {
+    "similarity": 0.817,
+    "kept": "The island of Padang Island has an area of 10107 square kilometers.",
+    "removed": "The island of Padang Island has an area of 1109 square kilometers."
+  },
+  {
+    "similarity": 0.754,
+    "kept": "The island of Migingo Island has an area of 2000 square kilometers.",
+    "removed": "The island of Ayon Island has an area of 2000 square kilometers."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "Gasherbrum IV stands at 7932 meters in People's Republic of China.",
+    "removed": "Gasherbrum II stands at 8034 meters in People's Republic of China."
+  },
+  {
+    "similarity": 0.757,
+    "kept": "Gasherbrum IV stands at 7932 meters in People's Republic of China.",
+    "removed": "Gasherbrum stands at 8080 meters in People's Republic of China."
+  },
+  {
+    "similarity": 0.817,
+    "kept": "Fact about Democratic Republic of the Congo: countries population.",
+    "removed": "Fact about Republic of the Congo: countries population."
+  },
+  {
+    "similarity": 0.906,
+    "kept": "The Ala\u015fehir earthquake of 1969 measured 6.5 on the Richter scale.",
+    "removed": "The Ala\u015fehir earthquake of 1969 measured 6.7 on the Richter scale."
+  },
+  {
+    "similarity": 0.906,
+    "kept": "The Karl\u0131ova earthquake of 1949 measured 6.7 on the Richter scale.",
+    "removed": "The Karl\u0131ova earthquake of 1949 measured 6.8 on the Richter scale."
+  },
+  {
+    "similarity": 0.797,
+    "kept": "The island of Lombok Island has an area of 4514 square kilometers.",
+    "removed": "The island of Lombok Island has an area of 5435 square kilometers."
+  },
+  {
+    "similarity": 0.783,
+    "kept": "The island of Banks Island has an area of 70028 square kilometers.",
+    "removed": "The island of Banks Island has an area of 1005 square kilometers."
+  },
+  {
+    "similarity": 0.8,
+    "kept": "The island of Kodiak Island has an area of 3595 square kilometers.",
+    "removed": "The island of Kodiak Island has an area of 9310 square kilometers."
+  },
+  {
+    "similarity": 0.8,
+    "kept": "The island of Graham Island has an area of 6361 square kilometers.",
+    "removed": "The island of Graham Island has an area of 1378 square kilometers."
+  },
+  {
+    "similarity": 0.814,
+    "kept": "The island of Yapen Island has an area of 20266 square kilometers.",
+    "removed": "The island of Yapen Island has an area of 2278 square kilometers."
+  },
+  {
+    "similarity": 0.794,
+    "kept": "The island of Grande Terre has an area of 16648 square kilometers.",
+    "removed": "The island of Grande-Terre has an area of 6675 square kilometers."
+  },
+  {
+    "similarity": 0.845,
+    "kept": "The island of Wetar Island has an area of 20610 square kilometers.",
+    "removed": "The island of Wetar Island has an area of 2600 square kilometers."
+  },
+  {
+    "similarity": 0.831,
+    "kept": "The island of Hisaka Island has an area of 3590 square kilometers.",
+    "removed": "The island of Hisaka Island has an area of 3733 square kilometers."
+  },
+  {
+    "similarity": 0.768,
+    "kept": "Comet P/2012 F2 (PANSTARRS) has an orbital period of 5815.4 years.",
+    "removed": "Comet P/2012 T2 (PANSTARRS) has an orbital period of 5019.4 years."
+  },
+  {
+    "similarity": 0.797,
+    "kept": "aliskiren/amlodipine/hydrochlorothiazide is a pharmaceutical drug.",
+    "removed": "aliskiren / hydrochlorothiazide is a pharmaceutical drug."
+  },
+  {
+    "similarity": 0.875,
+    "kept": "Kangphu Kang stands at 7204 meters in People's Republic of China.",
+    "removed": "Kangphu Kang stands at 7220 meters in People's Republic of China."
+  },
+  {
+    "similarity": 0.831,
+    "kept": "The 2010 Kaohsiung earthquakes measured 6.4 on the Richter scale.",
+    "removed": "The 2016 Kaohsiung earthquake measured 6.4 on the Richter scale."
+  },
+  {
+    "similarity": 0.75,
+    "kept": "The Syd\u00f6stra Akkatj\u00e5kk\u00e5glaci\u00e4ren covers 124951 square kilometers.",
+    "removed": "The \u00d6stra Ritatj\u00e5kk\u00e5glaci\u00e4ren covers 124951 square kilometers."
+  },
+  {
+    "similarity": 0.81,
+    "kept": "The island of Biak Island has an area of 10896 square kilometers.",
+    "removed": "The island of Biak Island has an area of 1904 square kilometers."
+  },
+  {
+    "similarity": 0.81,
+    "kept": "The island of Alor Island has an area of 20112 square kilometers.",
+    "removed": "The island of Alor Island has an area of 2120 square kilometers."
+  }
+]

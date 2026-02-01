@@ -1,0 +1,1880 @@
+{
+  "category": "sleep_dreams",
+  "description": "Scientific facts about sleep, dreams, and related phenomena",
+  "generated": "2026-01-30",
+  "total_facts": 312,
+  "facts": [
+    {
+      "id": "sleep_001",
+      "topic": "sleep_stages",
+      "fact": "Sleep consists of four distinct stages: three non-REM stages (N1, N2, N3) and one REM stage, which cycle throughout the night.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_002",
+      "topic": "sleep_stages",
+      "fact": "A typical sleep cycle lasts about 90 minutes, and most people go through 4-6 complete cycles per night.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_003",
+      "topic": "sleep_stages",
+      "fact": "Stage 1 (N1) sleep is the lightest stage and typically lasts only 1-7 minutes as you transition from wakefulness to sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_004",
+      "topic": "sleep_stages",
+      "fact": "During Stage 2 (N2) sleep, body temperature drops, heart rate slows, and brief bursts of brain activity called sleep spindles occur.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_005",
+      "topic": "sleep_stages",
+      "fact": "Sleep spindles are periodic bursts of brain activity at 10-12 Hz that last 1-2 seconds and help resist being woken by external stimuli.",
+      "source": "NCBI"
+    },
+    {
+      "id": "sleep_006",
+      "topic": "sleep_stages",
+      "fact": "People spend approximately half their total sleep time in Stage 2 (N2) sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_007",
+      "topic": "sleep_stages",
+      "fact": "Stage 3 (N3) is called deep sleep or slow-wave sleep, characterized by delta waves with frequencies of 1-4 Hz.",
+      "source": "NCBI"
+    },
+    {
+      "id": "sleep_008",
+      "topic": "sleep_stages",
+      "fact": "Deep sleep (N3) is critical for physical restoration, immune function, and memory consolidation.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_009",
+      "topic": "sleep_stages",
+      "fact": "You spend more time in deep sleep during the first half of the night, with N3 stages lasting 20-40 minutes in early cycles.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_010",
+      "topic": "sleep_stages",
+      "fact": "REM sleep typically begins about 90 minutes after falling asleep and gets progressively longer in later sleep cycles.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_011",
+      "topic": "sleep_stages",
+      "fact": "During REM sleep, brain activity increases to levels similar to being awake, while the body experiences temporary muscle paralysis (atonia).",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_012",
+      "topic": "sleep_stages",
+      "fact": "REM sleep makes up approximately 25% of total sleep time in adults.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_013",
+      "topic": "sleep_stages",
+      "fact": "The first REM period of the night may last only a few minutes, while later REM periods can last up to an hour.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_014",
+      "topic": "sleep_stages",
+      "fact": "The amount of REM sleep decreases with age, from about 8 hours at birth to around 45 minutes at age 70.",
+      "source": "NCBI"
+    },
+    {
+      "id": "sleep_015",
+      "topic": "sleep_stages",
+      "fact": "Newborns can enter REM sleep immediately upon falling asleep, unlike adults who must progress through NREM stages first.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_016",
+      "topic": "sleep_stages",
+      "fact": "The thalamus is largely inactive during NREM sleep but becomes active during REM sleep, sending images and sensations that create dreams.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_017",
+      "topic": "sleep_stages",
+      "fact": "Beta waves (15-60 Hz) characterize the awake state, while theta waves appear during light sleep and delta waves dominate deep sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_018",
+      "topic": "sleep_stages",
+      "fact": "Sleep architecture can be visualized in a hypnogram, a graph showing the progression through sleep stages over the night.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_019",
+      "topic": "sleep_stages",
+      "fact": "Alcohol can suppress REM sleep early in the night, followed by a REM rebound effect with prolonged REM periods later.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_020",
+      "topic": "sleep_stages",
+      "fact": "It is hardest to wake someone from Stage 3 (deep sleep), which is why it is considered the deepest stage of sleep.",
+      "source": "NCBI"
+    },
+    {
+      "id": "sleep_021",
+      "topic": "brain_anatomy",
+      "fact": "The hypothalamus contains the suprachiasmatic nucleus (SCN), the master clock that controls circadian rhythms based on light exposure.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_022",
+      "topic": "brain_anatomy",
+      "fact": "The pineal gland releases melatonin in response to darkness, helping regulate the sleep-wake cycle.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_023",
+      "topic": "brain_anatomy",
+      "fact": "The brainstem (pons and medulla) sends signals during REM sleep to paralyze muscles, preventing us from acting out our dreams.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_024",
+      "topic": "brain_anatomy",
+      "fact": "The amygdala, which processes emotions, becomes increasingly active during REM sleep.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_025",
+      "topic": "brain_anatomy",
+      "fact": "Adenosine accumulates in the brain during wakefulness and promotes sleepiness; caffeine blocks adenosine receptors to counteract this effect.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_026",
+      "topic": "brain_anatomy",
+      "fact": "The brain uses significantly less energy during non-REM sleep, allowing it to restore its supply of ATP.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_027",
+      "topic": "brain_anatomy",
+      "fact": "While awake, the brain is responsible for about 20% of the body's total energy consumption.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_028",
+      "topic": "brain_anatomy",
+      "fact": "Sleep plays a housekeeping role, removing toxins including amyloid proteins that build up in the brain during wakefulness.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_029",
+      "topic": "brain_anatomy",
+      "fact": "GABA is a neurotransmitter associated with sleep, muscle relaxation, and sedation.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_030",
+      "topic": "brain_anatomy",
+      "fact": "Orexin (also called hypocretin) is a brain chemical that helps regulate wakefulness; its deficiency causes narcolepsy type 1.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_031",
+      "topic": "circadian_rhythm",
+      "fact": "The human internal circadian clock operates on a cycle slightly longer than 24 hours (approximately 24.2 hours on average).",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_032",
+      "topic": "circadian_rhythm",
+      "fact": "Light is the most powerful zeitgeber (time-keeper) that helps synchronize our internal clock with the 24-hour day.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_033",
+      "topic": "circadian_rhythm",
+      "fact": "Circadian rhythms regulate not just sleep but also body temperature, metabolism, hormone release, and immune function.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_034",
+      "topic": "circadian_rhythm",
+      "fact": "Core body temperature fluctuates with circadian rhythm, varying between approximately 36.2°C and 37.2°C throughout the day.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_035",
+      "topic": "circadian_rhythm",
+      "fact": "Melatonin levels peak at night and drop in the morning, helping to regulate the sleep-wake cycle.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_036",
+      "topic": "circadian_rhythm",
+      "fact": "Cortisol levels typically rise throughout the night, peak in the awakening hours, and diminish during the day.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_037",
+      "topic": "circadian_rhythm",
+      "fact": "During puberty, circadian rhythms shift later, causing teens to feel sleepy later at night and want to wake later in the morning.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_038",
+      "topic": "circadian_rhythm",
+      "fact": "People with damage to the suprachiasmatic nucleus sleep erratically throughout the day, unable to sync with light-dark cycles.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_039",
+      "topic": "circadian_rhythm",
+      "fact": "Most blind people maintain some ability to sense light, which helps them regulate their sleep-wake cycle.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_040",
+      "topic": "circadian_rhythm",
+      "fact": "Blue light from electronic devices suppresses melatonin production and can delay the sleep-wake cycle.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_041",
+      "topic": "circadian_rhythm",
+      "fact": "Shift workers often experience circadian rhythm disruption, leading to difficulty sleeping during the day and staying awake at night.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_042",
+      "topic": "circadian_rhythm",
+      "fact": "Jet lag occurs when the internal clock becomes misaligned with the local time zone after crossing multiple time zones.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_043",
+      "topic": "circadian_rhythm",
+      "fact": "Newborns don't have a fully established circadian rhythm; it begins developing around 2-4 months of age.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_044",
+      "topic": "circadian_rhythm",
+      "fact": "Chronotypes (morning larks vs. night owls) are partly determined by genetics affecting circadian rhythm timing.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_045",
+      "topic": "circadian_rhythm",
+      "fact": "In a free-running environment without time cues, humans continue to experience rhythmic sleep-wake patterns on a slightly longer than 24-hour cycle.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_046",
+      "topic": "sleep_deprivation",
+      "fact": "Around 1 in 5 U.S. adults sleep less than five hours a night, far below the recommended seven to nine hours.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_047",
+      "topic": "sleep_deprivation",
+      "fact": "Not sleeping can lower learning abilities by as much as 40%.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_048",
+      "topic": "sleep_deprivation",
+      "fact": "After 24 hours without sleep, a person may become anxious, irritable, and begin experiencing minor sensory distortions.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_049",
+      "topic": "sleep_deprivation",
+      "fact": "After 48 hours without sleep, complex hallucinations may develop, including seeing or hearing things that aren't there.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_050",
+      "topic": "sleep_deprivation",
+      "fact": "After 72 hours without sleep, a person may experience symptoms resembling psychosis, with intense hallucinations and delusions.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_051",
+      "topic": "sleep_deprivation",
+      "fact": "Chronic sleep deprivation increases the risk of high blood pressure, cardiovascular disease, diabetes, depression, and obesity.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_052",
+      "topic": "sleep_deprivation",
+      "fact": "Sleep deprivation symptoms typically resolve after a person gets adequate sleep again.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_053",
+      "topic": "sleep_deprivation",
+      "fact": "Microsleeps—brief episodes of sleep lasting only seconds—can occur involuntarily in sleep-deprived individuals.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_054",
+      "topic": "sleep_deprivation",
+      "fact": "Sleep debt shows evidence of being cumulative, though humans seem to reach maximum sleepiness about 30 hours after waking.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_055",
+      "topic": "sleep_deprivation",
+      "fact": "Animal studies show that prolonged sleep deprivation in rats leads to death within a few weeks despite adequate food.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_056",
+      "topic": "sleep_deprivation",
+      "fact": "Sleep deprivation tends to cause slower brain waves in the frontal cortex, shortened attention span, and impaired memory.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_057",
+      "topic": "sleep_deprivation",
+      "fact": "Even partial sleep deprivation can cause a significant reduction in emotional regulation and increased irritability.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_058",
+      "topic": "sleep_deprivation",
+      "fact": "Sleep deprivation can trigger migraines and tension headaches in people prone to them.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_059",
+      "topic": "sleep_requirements",
+      "fact": "Newborns need 16-18 hours of sleep per day, which supports brain development and growth.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_060",
+      "topic": "sleep_requirements",
+      "fact": "School-age children (6-12 years) need 9-12 hours of sleep per night.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_061",
+      "topic": "sleep_requirements",
+      "fact": "Teenagers need about 8-10 hours of sleep per night for optimal health and performance.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_062",
+      "topic": "sleep_requirements",
+      "fact": "Most adults need 7-9 hours of sleep per night, even into older age.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_063",
+      "topic": "sleep_requirements",
+      "fact": "Older adults may have more difficulty getting enough sleep and are more likely to take medications that interfere with sleep.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_064",
+      "topic": "sleep_requirements",
+      "fact": "Humans spend approximately one-third of their lives sleeping.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_065",
+      "topic": "dreams",
+      "fact": "Humans spend about two hours each night dreaming, though most dreams are not remembered.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_066",
+      "topic": "dreams",
+      "fact": "Dreams can occur during any sleep stage but are most vivid and common during REM sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_067",
+      "topic": "dreams",
+      "fact": "Each dream typically lasts 5-20 minutes.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_068",
+      "topic": "dreams",
+      "fact": "Dreams during REM sleep tend to be more fantastical and bizarre, while non-REM dreams are more coherent and grounded.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_069",
+      "topic": "dreams",
+      "fact": "Some people dream in color while others recall dreams only in black and white.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_070",
+      "topic": "dreams",
+      "fact": "People who are blind from birth do not have visual dreams; their dreams involve sounds, touch, smell, and taste.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_071",
+      "topic": "dreams",
+      "fact": "The most common emotion experienced in dreams is anxiety, according to dream content analysis studies.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_072",
+      "topic": "dreams",
+      "fact": "Sexual dreams occur in no more than 10% of reported dreams and are more common in teenagers.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_073",
+      "topic": "dreams",
+      "fact": "The visual imagery in dreams is believed to be produced by activation of the same brain structures that process visual perception while awake.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_074",
+      "topic": "dreams",
+      "fact": "Dreams may serve functions including memory consolidation, emotional processing, and mental housekeeping.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_075",
+      "topic": "dreams",
+      "fact": "The COVID-19 pandemic increased themes of fear, illness, and death in dreams by 2-4 times compared to pre-pandemic levels.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_076",
+      "topic": "dreams",
+      "fact": "Dream interpretation was practiced by Babylonians as early as the third millennium BCE.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_077",
+      "topic": "dreams",
+      "fact": "Calvin S. Hall collected over 50,000 dream reports between the 1940s and 1985 for scientific analysis.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_078",
+      "topic": "dreams",
+      "fact": "Negative emotions in dreams are much more common than positive ones.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_079",
+      "topic": "lucid_dreaming",
+      "fact": "About 55% of people have experienced a lucid dream at least once—realizing they are dreaming while still asleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_080",
+      "topic": "lucid_dreaming",
+      "fact": "In about one-third of lucid dreams, the dreamer can influence or control what happens during the dream.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_081",
+      "topic": "lucid_dreaming",
+      "fact": "Lucid dreaming generally occurs during REM sleep and is more likely in the second half of the sleep period.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_082",
+      "topic": "lucid_dreaming",
+      "fact": "The MILD technique (Mnemonic Induction of Lucid Dreams) involves creating an intention to recognize when you're dreaming before falling asleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_083",
+      "topic": "lucid_dreaming",
+      "fact": "The Wake Back To Bed (WBTB) technique involves waking after 5+ hours of sleep, staying awake briefly, then returning to sleep to induce lucid dreams.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_084",
+      "topic": "lucid_dreaming",
+      "fact": "Galantamine, a drug used to treat Alzheimer's disease, has been shown to effectively induce lucid dreams in research studies.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_085",
+      "topic": "lucid_dreaming",
+      "fact": "Researchers have achieved a 42% success rate in inducing lucid dreams using a combination of techniques including supplements and light stimulation.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_086",
+      "topic": "lucid_dreaming",
+      "fact": "Frequent lucid dreaming may decrease sleep quality or potentially trigger sleep paralysis in some people.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_087",
+      "topic": "lucid_dreaming",
+      "fact": "Gamma brain wave activity has been linked to lucid dreaming states.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_088",
+      "topic": "memory_consolidation",
+      "fact": "Memory consolidation—preserving key memories and discarding excess information—takes place during both NREM and REM sleep stages.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_089",
+      "topic": "memory_consolidation",
+      "fact": "Sleep helps you process new information after you wake up and consolidates learning that occurred during the day.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_090",
+      "topic": "memory_consolidation",
+      "fact": "The medial prefrontal cortex produces slow waves important for memory consolidation; this area deteriorates with age, affecting older adults' memory processing.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_091",
+      "topic": "memory_consolidation",
+      "fact": "Children experience stronger memory consolidation after sleep compared to adults.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_092",
+      "topic": "memory_consolidation",
+      "fact": "A 2010 Harvard study showed experimental evidence that dreams are correlated with improved learning.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_093",
+      "topic": "memory_consolidation",
+      "fact": "REM sleep appears essential for creativity and making novel associations between concepts.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_094",
+      "topic": "memory_consolidation",
+      "fact": "Emotional memories are processed during REM sleep, which may help people cope with difficult experiences.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_095",
+      "topic": "sleep_disorders",
+      "fact": "Insomnia affects up to two-thirds of people occasionally, making it one of the most common sleep concerns.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_096",
+      "topic": "sleep_disorders",
+      "fact": "Narcolepsy is characterized by the brain's inability to properly regulate sleep-wake cycles, causing extreme daytime sleepiness.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_097",
+      "topic": "sleep_disorders",
+      "fact": "Narcolepsy type 1 involves cataplexy—sudden loss of muscle tone—and affects 20-67 people per 100,000 in the US.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_098",
+      "topic": "sleep_disorders",
+      "fact": "In narcolepsy, REM sleep can begin within minutes of falling asleep, rather than the normal 90 minutes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_099",
+      "topic": "sleep_disorders",
+      "fact": "Up to 98% of people with narcolepsy type 1 carry a specific gene variation called DQB1*0602.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_100",
+      "topic": "sleep_disorders",
+      "fact": "People with narcolepsy are 3-4 times more likely to be involved in car accidents due to sudden sleep episodes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_101",
+      "topic": "sleep_disorders",
+      "fact": "Sleep apnea affects an estimated 30 million adults in the United States.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_102",
+      "topic": "sleep_disorders",
+      "fact": "Over 900 million people worldwide live with obstructive sleep apnea.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_103",
+      "topic": "sleep_disorders",
+      "fact": "Severe sleep apnea involves more than 30 breathing cessation events per hour of sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_104",
+      "topic": "sleep_disorders",
+      "fact": "Sleep apnea has been linked to memory problems, particularly difficulty forming autobiographical memories.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_105",
+      "topic": "sleep_disorders",
+      "fact": "Central sleep apnea occurs when the brain fails to properly signal the muscles that control breathing during sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_106",
+      "topic": "parasomnias",
+      "fact": "Parasomnias are undesirable experiences that happen while sleeping, falling asleep, or waking up—most people experience them at some point.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_107",
+      "topic": "parasomnias",
+      "fact": "NREM parasomnias are called 'disorders of arousal' because people partially wake up but may have no memory of the event.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_108",
+      "topic": "parasomnias",
+      "fact": "REM-related parasomnias tend to occur in the final hours of sleep and people can usually remember these episodes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_109",
+      "topic": "parasomnias",
+      "fact": "Sleep deprivation can alter sleep stages and increase the likelihood of experiencing parasomnias.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_110",
+      "topic": "sleep_paralysis",
+      "fact": "Sleep paralysis affects about 20% of people at some point in their lives.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_111",
+      "topic": "sleep_paralysis",
+      "fact": "Sleep paralysis episodes typically last from a few seconds to about 20 minutes, with an average of around 6 minutes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_112",
+      "topic": "sleep_paralysis",
+      "fact": "About 75% of sleep paralysis episodes involve hallucinations, including sensing a threatening presence in the room.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_113",
+      "topic": "sleep_paralysis",
+      "fact": "'Intruder hallucinations' during sleep paralysis involve perceiving a dangerous presence, sometimes called 'sleep paralysis demons.'",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_114",
+      "topic": "sleep_paralysis",
+      "fact": "Sleep paralysis occurs when REM atonia (muscle paralysis) persists into a state of wakefulness, creating a mixed state of consciousness.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_115",
+      "topic": "sleep_paralysis",
+      "fact": "People with obstructive sleep apnea have higher rates of sleep paralysis—38% in one study.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_116",
+      "topic": "animal_sleep",
+      "fact": "All mammals studied show signs of REM sleep, suggesting that mammals may dream like humans.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_117",
+      "topic": "animal_sleep",
+      "fact": "Giraffes sleep only about 4.6 hours per day, and their sleep cycles are just 35 minutes or shorter.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_118",
+      "topic": "animal_sleep",
+      "fact": "Elephants may sleep as little as 2 hours per day and can travel for nearly two days without sleeping.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_119",
+      "topic": "animal_sleep",
+      "fact": "Little brown bats sleep about 20 hours per day, some of which is spent in torpor.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_120",
+      "topic": "animal_sleep",
+      "fact": "Dogs spend over a third of their day asleep, with another 21% in drowsy relaxation.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_121",
+      "topic": "animal_sleep",
+      "fact": "Horses can sleep standing up during NREM sleep but must lie down for REM sleep due to muscle atonia.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_122",
+      "topic": "animal_sleep",
+      "fact": "Dolphins, eared seals, and manatees sleep unihemispherically—one brain hemisphere sleeps while the other stays awake.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_123",
+      "topic": "animal_sleep",
+      "fact": "Sperm whales sleep in an upright position, floating vertically in the water.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_124",
+      "topic": "animal_sleep",
+      "fact": "Walruses can sleep for 19.4-20.5 hours per day on land, but can also go up to 84 hours without sleep while swimming.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_125",
+      "topic": "animal_sleep",
+      "fact": "Walruses can hook their tusks onto ice floes and sleep while hanging in the water.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_126",
+      "topic": "animal_sleep",
+      "fact": "Birds can sleep unihemispherically, with one eye closed corresponding to the sleeping hemisphere of the brain.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_127",
+      "topic": "animal_sleep",
+      "fact": "Mallard ducks at the edge of a flock sleep with one eye open watching for predators, while ducks in the middle sleep with both eyes closed.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_128",
+      "topic": "animal_sleep",
+      "fact": "Alpine swifts have been documented flying continuously for 200 days, likely sleeping unihemispherically while gliding.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_129",
+      "topic": "animal_sleep",
+      "fact": "Migratory white-crowned sparrows get only a third of their normal sleep during migration, compensating with micro-naps.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_130",
+      "topic": "animal_sleep",
+      "fact": "Bats and perching birds have locking tendons in their feet that allow them to sleep while hanging or perched without falling.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_131",
+      "topic": "animal_sleep",
+      "fact": "Bears can go up to 7 months without eating, drinking, urinating, or defecating during hibernation, though their body temperature stays nearly constant.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_132",
+      "topic": "animal_sleep",
+      "fact": "The Madagascan fat-tailed dwarf lemur is the only primate known to truly hibernate.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_133",
+      "topic": "animal_sleep",
+      "fact": "Reptiles like the Australian dragon (Pogona vitticeps) show sleep states similar to REM and NREM sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_134",
+      "topic": "animal_sleep",
+      "fact": "Snakes sleep with both eyes open because they have no eyelids, and can sleep for days while digesting food.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_135",
+      "topic": "animal_sleep",
+      "fact": "Crocodiles can engage in unihemispheric sleep, keeping one eye open to watch for threats and prey.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_136",
+      "topic": "animal_sleep",
+      "fact": "Parrotfish secrete a cocoon of mucus around themselves for protection while they sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_137",
+      "topic": "animal_sleep",
+      "fact": "Spanish hogfish and blue-headed wrasse can be lifted by hand to the surface without waking when in deep sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_138",
+      "topic": "animal_sleep",
+      "fact": "Some sharks that breathe through ram ventilation (keeping their mouths open while swimming) may sleep one hemisphere at a time.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_139",
+      "topic": "animal_sleep",
+      "fact": "Fruit flies (Drosophila) sleep, and sleep deprivation in flies leads to cognitive disabilities similar to those in mammals.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_140",
+      "topic": "animal_sleep",
+      "fact": "Honeybees use sleep to store long-term memories.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_141",
+      "topic": "animal_sleep",
+      "fact": "Jumping spiders show REM-like sleep with regularly occurring bouts of retinal movements.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_142",
+      "topic": "animal_sleep",
+      "fact": "Octopuses have a two-staged sleep similar to REM and NREM, with color changes during 'active sleep.'",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_143",
+      "topic": "animal_sleep",
+      "fact": "Sleep-like states have been observed in jellyfish (Cassiopea) and hydra, organisms without brains or central nervous systems.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_144",
+      "topic": "animal_sleep",
+      "fact": "Even sponges show evidence of sleep-like states, suggesting sleep may have evolved hundreds of millions of years ago.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_145",
+      "topic": "animal_sleep",
+      "fact": "In the nematode C. elegans, a lethargus sleep-like phase occurs before each molt, suggesting sleep is connected to development.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_146",
+      "topic": "animal_sleep",
+      "fact": "Salamanders can enter brumation (reptile hibernation) for up to 100 days at a time.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_147",
+      "topic": "animal_sleep",
+      "fact": "Green-striped burrowing frogs can enter estivation during dry periods, burrowing deep underground for months without moving or eating.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_148",
+      "topic": "sleep_evolution",
+      "fact": "Sleep is a highly conserved behavior across animal evolution, likely originating hundreds of millions of years ago.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_149",
+      "topic": "sleep_evolution",
+      "fact": "Brain cleansing, including removal of amyloid proteins, may be one of the original evolutionary purposes of sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_150",
+      "topic": "sleep_evolution",
+      "fact": "The fact that both birds and mammals have REM and NREM sleep suggests this trait evolved in their common amniote ancestors.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_151",
+      "topic": "sleep_evolution",
+      "fact": "Early mammals engaged in polyphasic sleep (multiple sleep periods per day), with monophasic sleep evolving later in larger mammals.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_152",
+      "topic": "sleep_evolution",
+      "fact": "No complex animal has been found that doesn't need sleep or doesn't suffer consequences from sleep deprivation.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_153",
+      "topic": "sleep_evolution",
+      "fact": "Antti Revonsuo's threat simulation theory proposes that dreaming evolved to help humans practice dealing with dangers in a safe environment.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_154",
+      "topic": "sleep_evolution",
+      "fact": "Time-based activity rhythms may be an ancient form of niche partitioning to minimize competition during certain parts of the day.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_155",
+      "topic": "sleep_physiology",
+      "fact": "During slow-wave sleep, humans secrete bursts of growth hormone essential for tissue repair and growth.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_156",
+      "topic": "sleep_physiology",
+      "fact": "All sleep, including daytime naps, is associated with the secretion of prolactin.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_157",
+      "topic": "sleep_physiology",
+      "fact": "Sleep only reduces metabolism by about 5-10%, contradicting the theory that sleep's primary purpose is energy conservation.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_158",
+      "topic": "sleep_physiology",
+      "fact": "Mammals need to return from hypothermia to normal body temperature to sleep during hibernation, actually costing energy.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_159",
+      "topic": "sleep_physiology",
+      "fact": "Heart rate and blood pressure increase during REM sleep to near waking levels.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_160",
+      "topic": "sleep_physiology",
+      "fact": "Breathing becomes faster and irregular during REM sleep compared to the slower, regular breathing of NREM sleep.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_161",
+      "topic": "sleep_physiology",
+      "fact": "The sensory threshold increases during sleep—sleeping people perceive fewer stimuli but can still respond to loud noises.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_162",
+      "topic": "sleep_physiology",
+      "fact": "Polysomnography measures brain waves (EEG), eye movements (EOG), and muscle activity (EMG) to analyze sleep stages.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_163",
+      "topic": "sleep_physiology",
+      "fact": "Male armadillos get erections during non-REM sleep, while the inverse is true in rats.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_164",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep inertia—grogginess and impaired performance upon awakening—is more pronounced when waking from deep sleep stages.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_165",
+      "topic": "unusual_phenomena",
+      "fact": "People can reliably train themselves to wake up at a specific time without an alarm clock.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_166",
+      "topic": "unusual_phenomena",
+      "fact": "Hypnagogic hallucinations occur while falling asleep, while hypnopompic hallucinations occur while waking up.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_167",
+      "topic": "unusual_phenomena",
+      "fact": "False awakenings are vivid dreams of waking up that can repeat multiple times before actual awakening.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_168",
+      "topic": "unusual_phenomena",
+      "fact": "REM Sleep Behavior Disorder causes people to physically act out their dreams due to failure of normal muscle atonia.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_169",
+      "topic": "unusual_phenomena",
+      "fact": "Sexsomnia is a parasomnia involving sexual behavior during sleep that the person doesn't remember.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_170",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep talking (somniloquy) can occur during any sleep stage and is usually harmless.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_171",
+      "topic": "unusual_phenomena",
+      "fact": "Night terrors typically occur during deep NREM sleep and are most common in children, who usually don't remember them.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_172",
+      "topic": "unusual_phenomena",
+      "fact": "Exploding head syndrome involves perceiving a loud bang or explosion when falling asleep or waking up, but isn't dangerous.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_173",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep drunkenness (confusional arousals) involves severe confusion upon waking, sometimes lasting minutes to hours.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_174",
+      "topic": "unusual_phenomena",
+      "fact": "Sleepwalking occurs during deep NREM sleep and can involve complex behaviors like cooking or driving.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_175",
+      "topic": "unusual_phenomena",
+      "fact": "Some people have short sleeper syndrome, genetically needing only 4-6 hours of sleep without negative effects.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_176",
+      "topic": "unusual_phenomena",
+      "fact": "Kleine-Levin syndrome causes episodes of sleeping up to 20 hours per day for days or weeks at a time.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_177",
+      "topic": "unusual_phenomena",
+      "fact": "Bruxism (teeth grinding) during sleep affects about 8% of adults and can cause jaw pain and tooth damage.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_178",
+      "topic": "unusual_phenomena",
+      "fact": "Recurring dreams—the same or similar dreams repeating over time—are experienced by many people and may relate to unresolved stress.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_179",
+      "topic": "unusual_phenomena",
+      "fact": "Pre-sleep hallucinations (hypnagogic imagery) are common and include seeing patterns, faces, or geometric shapes as you fall asleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_180",
+      "topic": "technology_sleep",
+      "fact": "Artificial light has substantially altered humanity's sleep patterns compared to ancestral humans who slept with natural light cycles.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_181",
+      "topic": "technology_sleep",
+      "fact": "Blue light from smartphones and screens suppresses melatonin and is associated with circadian rhythm disruption.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_182",
+      "topic": "technology_sleep",
+      "fact": "Wearable sleep trackers and smartphone apps can collect data about movement, sounds, and heart rate during sleep.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_183",
+      "topic": "technology_sleep",
+      "fact": "Light therapy using a light box can help reset circadian rhythms for people with sleep phase disorders.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_184",
+      "topic": "technology_sleep",
+      "fact": "CPAP (Continuous Positive Airway Pressure) machines are the most common and effective treatment for obstructive sleep apnea.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_185",
+      "topic": "sleep_facts",
+      "fact": "Humans are among the only animals that willingly delay sleep, often due to work, social activities, or entertainment.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_186",
+      "topic": "sleep_facts",
+      "fact": "The record for the longest period without sleep is about 11 days (264 hours), achieved by Randy Gardner in 1964.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_187",
+      "topic": "sleep_facts",
+      "fact": "Sleeping on your back increases the risk of sleep apnea and snoring due to gravity's effect on the airway.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_188",
+      "topic": "sleep_facts",
+      "fact": "Women are more likely than men to experience insomnia.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_189",
+      "topic": "sleep_facts",
+      "fact": "The feeling of falling and jerking awake (hypnic jerk) is experienced by about 70% of people as they fall asleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_190",
+      "topic": "sleep_facts",
+      "fact": "12% of people dream entirely in black and white, though this was more common before color television.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_191",
+      "topic": "sleep_facts",
+      "fact": "Sleep quality tends to decrease with age due to deterioration of the medial prefrontal cortex affecting slow-wave production.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_192",
+      "topic": "sleep_facts",
+      "fact": "You cannot sneeze while sleeping because the muscles involved are relaxed during sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_193",
+      "topic": "sleep_facts",
+      "fact": "Being awake for 18+ hours creates impairment equivalent to a blood alcohol level of 0.05%.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_194",
+      "topic": "sleep_facts",
+      "fact": "New parents lose an average of 6 months' worth of sleep in their child's first two years of life.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_195",
+      "topic": "sleep_facts",
+      "fact": "Regularly getting less than 6 hours of sleep increases mortality risk by 12%.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_196",
+      "topic": "sleep_facts",
+      "fact": "The body is almost entirely paralyzed during REM sleep, with only the eyes and breathing muscles active.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_197",
+      "topic": "sleep_facts",
+      "fact": "Deaf people have been observed using sign language in their sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_198",
+      "topic": "sleep_facts",
+      "fact": "You forget 50% of your dream within 5 minutes of waking, and 90% within 10 minutes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_199",
+      "topic": "sleep_facts",
+      "fact": "Sleeping too much (more than 9-10 hours regularly) is also associated with health problems including cardiovascular disease.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_200",
+      "topic": "sleep_facts",
+      "fact": "Sleep position affects dream content—people sleeping on their stomachs report more vivid and often erotic dreams.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_201",
+      "topic": "sleep_stages",
+      "fact": "The first sleep cycle of the night is typically the shortest, ranging from 70 to 100 minutes.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_202",
+      "topic": "sleep_stages",
+      "fact": "Later sleep cycles tend to be longer, between 90 and 120 minutes each.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_203",
+      "topic": "sleep_stages",
+      "fact": "The composition of each sleep cycle changes throughout the night, with more deep sleep early and more REM later.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_204",
+      "topic": "sleep_stages",
+      "fact": "Eye movement stops during Stage 2 NREM sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_205",
+      "topic": "sleep_stages",
+      "fact": "During deep sleep (N3), brain waves slow to 1-4 Hz (delta waves), the slowest brain wave frequencies.",
+      "source": "NCBI"
+    },
+    {
+      "id": "sleep_206",
+      "topic": "sleep_stages",
+      "fact": "Deep sleep contributes to insightful thinking and creativity, even though brain activity is reduced.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_207",
+      "topic": "sleep_stages",
+      "fact": "Sleepers typically awaken soon after the end of a REM phase or sometimes in the middle of REM.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_208",
+      "topic": "brain_anatomy",
+      "fact": "The ventrolateral preoptic nucleus (VLPO) is a key brain region that promotes sleep onset.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_209",
+      "topic": "brain_anatomy",
+      "fact": "The ascending reticular activating system keeps us awake and is inhibited during sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_210",
+      "topic": "brain_anatomy",
+      "fact": "Glycogen depletion in the forebrain contributes to the homeostatic drive for sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_211",
+      "topic": "brain_anatomy",
+      "fact": "The left-brain interpreter creates a plausible narrative from signals received during sleep, which we experience as dreams.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_212",
+      "topic": "circadian_rhythm",
+      "fact": "Even in constant light or darkness, humans maintain rhythmic melatonin and body temperature cycles on a slightly longer than 24-hour period.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_213",
+      "topic": "circadian_rhythm",
+      "fact": "The suprachiasmatic nucleus shows conspicuous oscillation activity that intensifies during subjective day and drops to nearly nothing at night.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_214",
+      "topic": "circadian_rhythm",
+      "fact": "Non-24-hour sleep-wake rhythm disorder occurs when the internal clock fails to sync with the 24-hour day, causing sleep times to shift daily.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_215",
+      "topic": "circadian_rhythm",
+      "fact": "Advanced sleep-wake phase disorder causes people to feel sleepy very early in the evening and wake up extremely early.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_216",
+      "topic": "circadian_rhythm",
+      "fact": "Delayed sleep-wake phase disorder causes people to not feel ready for bed until very late at night and struggle with early wake times.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_217",
+      "topic": "circadian_rhythm",
+      "fact": "Exercise, meal timing, and social interactions serve as secondary zeitgebers that help regulate circadian rhythms.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_218",
+      "topic": "sleep_deprivation",
+      "fact": "Insufficient sleep syndrome is diagnosed when someone sleeps less than recommended most nights for at least three months.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_219",
+      "topic": "sleep_deprivation",
+      "fact": "A sign of sleep deprivation is sleeping much longer on weekends or days off than on regular days.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_220",
+      "topic": "sleep_deprivation",
+      "fact": "Sleep deprivation makes it harder to read other people's emotions accurately.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_221",
+      "topic": "sleep_deprivation",
+      "fact": "One night without sleep can temporarily increase blood pressure.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_222",
+      "topic": "sleep_deprivation",
+      "fact": "Animal studies suggest prolonged sleep deprivation can cause structural and potentially irreversible brain damage.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_223",
+      "topic": "dreams",
+      "fact": "Sigmund Freud proposed that dreams serve to protect sleep by representing wishes as fulfilled to prevent awakening.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_224",
+      "topic": "dreams",
+      "fact": "The activation-synthesis hypothesis proposes that dreams result from the brain trying to make sense of random neural activity during sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_225",
+      "topic": "dreams",
+      "fact": "Francis Crick's 'reverse learning' theory suggests dreams help remove parasitic neural connections and unnecessary information.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_226",
+      "topic": "dreams",
+      "fact": "People often recognize faces in dreams even when the dream character's appearance is distorted.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_227",
+      "topic": "dreams",
+      "fact": "Ancient Egyptians believed dreams were the best way to receive divine revelation and practiced dream incubation.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_228",
+      "topic": "dreams",
+      "fact": "The defensive activation theory proposes that dreams evolved to keep the visual cortex busy during sleep's darkness.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_229",
+      "topic": "dreams",
+      "fact": "Erik Hoel proposes that dreams prevent 'overfitting' to past experiences, enabling the brain to generalize learning.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_230",
+      "topic": "dreams",
+      "fact": "In ancient Sumer, King Gudea rebuilt a temple based on instructions received in a dream around 2140 BCE.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_231",
+      "topic": "lucid_dreaming",
+      "fact": "The SSILD (Senses Initiated Lucid Dream) technique involves cycling through awareness of vision, hearing, and body sensations before sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_232",
+      "topic": "lucid_dreaming",
+      "fact": "Reality testing for lucid dreaming includes trying to push a finger through your palm—if you can, you're dreaming.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_233",
+      "topic": "lucid_dreaming",
+      "fact": "Keeping a dream journal may help improve dream recall and facilitate lucid dreaming.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_234",
+      "topic": "lucid_dreaming",
+      "fact": "Lucid nightmares can occur where the dreamer is aware they're dreaming but unable to escape terrifying content.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_235",
+      "topic": "memory_consolidation",
+      "fact": "The brain sorts through memories from the previous day during NREM sleep, filtering important from unimportant information.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_236",
+      "topic": "memory_consolidation",
+      "fact": "During REM sleep, the thalamus transmits sensory cues to the cerebral cortex, where memories are interpreted and processed.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_237",
+      "topic": "memory_consolidation",
+      "fact": "Memory consolidation requires both NREM and REM sleep for optimal function.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_238",
+      "topic": "sleep_disorders",
+      "fact": "Cataplexy in narcolepsy can be triggered by strong emotions like laughter, surprise, or anger.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_239",
+      "topic": "sleep_disorders",
+      "fact": "In children with narcolepsy, cataplexy often affects the face (appearing as a tic) rather than the whole body.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_240",
+      "topic": "sleep_disorders",
+      "fact": "Many people with narcolepsy are not diagnosed until years after their first symptoms.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_241",
+      "topic": "sleep_disorders",
+      "fact": "Narcolepsy onset peaks at around age 15 and again around age 35.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_242",
+      "topic": "sleep_disorders",
+      "fact": "Restless legs syndrome can cause sleep disruption and is a risk factor for parasomnias.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_243",
+      "topic": "sleep_disorders",
+      "fact": "Fatal familial insomnia is a rare prion disease that causes progressively worsening insomnia leading to death.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_244",
+      "topic": "sleep_disorders",
+      "fact": "Obstructive sleep apnea is more common in men and people with higher body mass index.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_245",
+      "topic": "sleep_disorders",
+      "fact": "High altitude increases the risk of central sleep apnea due to decreased oxygen availability.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_246",
+      "topic": "parasomnias",
+      "fact": "Some antidepressants can increase the likelihood of parasomnias as a side effect.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_247",
+      "topic": "parasomnias",
+      "fact": "Genetics play a role in some parasomnias, with family history increasing risk.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_248",
+      "topic": "parasomnias",
+      "fact": "NREM parasomnias are more common in children than adults.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_249",
+      "topic": "sleep_paralysis",
+      "fact": "Sleep paralysis can be ended by another person's touch or voice, or by intense effort to move.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_250",
+      "topic": "sleep_paralysis",
+      "fact": "First episodes of sleep paralysis often occur in childhood, adolescence, or young adulthood.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_251",
+      "topic": "sleep_paralysis",
+      "fact": "People with PTSD have higher rates of sleep paralysis.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_252",
+      "topic": "sleep_paralysis",
+      "fact": "Vestibular-motor hallucinations during sleep paralysis can include sensations of flying or out-of-body experiences.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_253",
+      "topic": "animal_sleep",
+      "fact": "The only eyes that move during bird unihemispheric sleep are those connected to the awake hemisphere.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_254",
+      "topic": "animal_sleep",
+      "fact": "Nocturnal animals have higher body temperatures and serotonin levels at night—the inverse of diurnal animals.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_255",
+      "topic": "animal_sleep",
+      "fact": "Small species with higher metabolic rates may have less efficient sleep patterns than larger animals.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_256",
+      "topic": "animal_sleep",
+      "fact": "Birds exposed to predator risk have less deep sleep than birds in protected environments.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_257",
+      "topic": "animal_sleep",
+      "fact": "Cockroaches show a rest period characterized by folded antennae and decreased sensitivity to stimuli.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_258",
+      "topic": "animal_sleep",
+      "fact": "Crayfish show EEG changes during sleep that differ markedly from their awake patterns.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_259",
+      "topic": "animal_sleep",
+      "fact": "Cave-dwelling blind fish may not sleep due to the constant darkness eliminating circadian cues.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_260",
+      "topic": "animal_sleep",
+      "fact": "Zebrafish become motionless at night and float in place during their sleep period.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_261",
+      "topic": "animal_sleep",
+      "fact": "Sleep patterns in fish can disappear during migration, spawning, and parental care periods.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_262",
+      "topic": "sleep_physiology",
+      "fact": "Awakening involves heightened electrical activation beginning with the thalamus and spreading throughout the cortex.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_263",
+      "topic": "sleep_physiology",
+      "fact": "Women are awake for 0-1% of their nightly sleep, while men are awake for 0-2%.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_264",
+      "topic": "sleep_physiology",
+      "fact": "Wakefulness increases in later sleep cycles, from 3% in the first cycle to 13-14% in the fifth.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_265",
+      "topic": "sleep_physiology",
+      "fact": "Most brief awakenings during sleep occur shortly after REM sleep periods.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_266",
+      "topic": "sleep_physiology",
+      "fact": "Determinants of alertness after waking include sleep quality, prior physical activity, and breakfast composition.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_267",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep eating disorder involves eating while asleep with no memory of it upon waking.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_268",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep-related hallucinations are distinct from those in psychiatric conditions and usually resolve with improved sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_269",
+      "topic": "unusual_phenomena",
+      "fact": "Somnambulistic homicide—killing someone while sleepwalking—has been used as a legal defense in some cases.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_270",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep deprivation can paradoxically help prevent cluster headaches in people who suffer from them.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_271",
+      "topic": "technology_sleep",
+      "fact": "Hypoglossal nerve stimulation is an implanted device that moves the tongue forward during sleep to treat sleep apnea.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_272",
+      "topic": "technology_sleep",
+      "fact": "Transcranial alternating current stimulation (tACS) delivering current to the frontal cortex may help induce lucid dreams.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_273",
+      "topic": "sleep_facts",
+      "fact": "China spans what would be five time zones but officially uses only one (UTC+8), affecting sleep patterns.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_274",
+      "topic": "sleep_facts",
+      "fact": "Scientists who discovered REM sleep in 1953 were Eugene Aserinsky and Nathaniel Kleitman.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_275",
+      "topic": "sleep_facts",
+      "fact": "A healthy entrained adult will naturally fall asleep a few hours after sunset and wake a few hours after sunrise.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_276",
+      "topic": "sleep_facts",
+      "fact": "The genes Per, tim, and Cry are 'clock genes' that influence circadian rhythms and sleep timing.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_277",
+      "topic": "sleep_facts",
+      "fact": "Polyphasic sleep (multiple sleep periods per day) is more common in animals than monophasic sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_278",
+      "topic": "sleep_facts",
+      "fact": "Napping after 3 PM can interfere with nighttime sleep for most adults.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_279",
+      "topic": "sleep_facts",
+      "fact": "The optimal nap duration is 10-20 minutes to avoid sleep inertia.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_280",
+      "topic": "sleep_facts",
+      "fact": "Cooling the body before bed promotes sleep onset; core body temperature naturally drops during sleep.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_281",
+      "topic": "sleep_facts",
+      "fact": "Exercising too close to bedtime (within 1-2 hours) can interfere with falling asleep.",
+      "source": "NINDS"
+    },
+    {
+      "id": "sleep_282",
+      "topic": "sleep_facts",
+      "fact": "The amino acid tryptophan in food doesn't significantly affect sleepiness; it's a myth that turkey makes you sleepy.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_283",
+      "topic": "sleep_facts",
+      "fact": "Sleep debt cannot be fully repaid by weekend sleeping—chronic sleep loss has lasting effects.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_284",
+      "topic": "sleep_facts",
+      "fact": "Daylight saving time transitions are associated with increased heart attacks and car accidents.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_285",
+      "topic": "sleep_facts",
+      "fact": "Insomnia is different from sleep deprivation: insomnia involves difficulty sleeping despite adequate opportunity.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_286",
+      "topic": "dreams",
+      "fact": "The scientific study of dreams is called oneirology.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_287",
+      "topic": "dreams",
+      "fact": "Hartmann's theory proposes that dreams serve a quasi-therapeutic function for processing trauma.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_288",
+      "topic": "dreams",
+      "fact": "Social simulation theory suggests dreams evolved to help practice social skills and bonds.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_289",
+      "topic": "sleep_evolution",
+      "fact": "Chronobiological mechanisms are found in microbes, suggesting biological rhythms predate sleep itself.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_290",
+      "topic": "sleep_evolution",
+      "fact": "It's hypothesized that REM sleep evolved from short bouts of motor activity in reptilian ancestors.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_291",
+      "topic": "sleep_evolution",
+      "fact": "Slow-wave sleep may have evolved from basking behavior in reptiles, which shows similar EEG patterns.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_292",
+      "topic": "animal_sleep",
+      "fact": "Marmosets can achieve monophasic sleep because they sleep in trees surrounded by protective family members.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_293",
+      "topic": "animal_sleep",
+      "fact": "Scientists can tell elephants are sleeping when their trunks stop moving.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_294",
+      "topic": "animal_sleep",
+      "fact": "Nurse sharks, which breathe by pumping water through their cheeks, can rest motionless on the seafloor.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_295",
+      "topic": "animal_sleep",
+      "fact": "Lizards may choose sleep perches with heads oriented toward predator approach paths for faster response.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_296",
+      "topic": "sleep_physiology",
+      "fact": "During sleep, the body enters an anabolic state that helps restore immune, nervous, skeletal, and muscular systems.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_297",
+      "topic": "sleep_physiology",
+      "fact": "REM stands for rapid eye movement, describing the distinctive eye movements during this sleep stage.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_298",
+      "topic": "sleep_physiology",
+      "fact": "The term 'paradoxical sleep' refers to REM sleep because brain activity is high despite the body being paralyzed.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_299",
+      "topic": "sleep_disorders",
+      "fact": "Cognitive behavioral therapy for insomnia (CBT-I) is considered more effective long-term than sleep medications.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_300",
+      "topic": "sleep_disorders",
+      "fact": "Sleep disorders are estimated to be underdiagnosed, with many people living years with untreated conditions.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_301",
+      "topic": "sleep_facts",
+      "fact": "Thomas Edison slept only 4 hours a night and promoted the idea that sleep was a waste of time.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_302",
+      "topic": "sleep_facts",
+      "fact": "Leonardo da Vinci allegedly practiced polyphasic sleep with multiple 20-minute naps throughout the day.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_303",
+      "topic": "unusual_phenomena",
+      "fact": "Sleep-related painful erections are a rare disorder causing painful erections specifically during REM sleep.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_304",
+      "topic": "unusual_phenomena",
+      "fact": "Cataplexy is sometimes mistaken for seizures or fainting but involves maintained consciousness throughout.",
+      "source": "Sleep Foundation"
+    },
+    {
+      "id": "sleep_305",
+      "topic": "sleep_stages",
+      "fact": "Alpha waves (8-12 Hz) are seen when a person is relaxed but awake with eyes closed.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_306",
+      "topic": "sleep_stages",
+      "fact": "Gamma waves occur during highly focused concentration and have the highest frequencies of all brain waves.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_307",
+      "topic": "circadian_rhythm",
+      "fact": "Short pulses of light at the right moment can significantly 'reset' the internal circadian clock.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_308",
+      "topic": "animal_sleep",
+      "fact": "REM-like sleep has recently been found in fish, suggesting this sleep type evolved earlier than previously thought.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_309",
+      "topic": "dreams",
+      "fact": "The Old English word 'drēam' originally meant 'noise,' 'joy,' or 'music'—not the sleep experience.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_310",
+      "topic": "dreams",
+      "fact": "The word 'dream' for sleep-related imagery came from Old Norse 'draumr' in the 13th century.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_311",
+      "topic": "sleep_physiology",
+      "fact": "Homeostasis drives the need for sleep—the longer you're awake, the stronger the sleep drive becomes.",
+      "source": "Wikipedia"
+    },
+    {
+      "id": "sleep_312",
+      "topic": "sleep_facts",
+      "fact": "1-5% of children have obstructive sleep apnea, much more common than central sleep apnea in young people.",
+      "source": "Sleep Foundation"
+    }
+  ]
+}

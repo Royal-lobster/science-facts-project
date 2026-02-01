@@ -1,0 +1,2445 @@
+[
+  {
+    "text": "The Prisoner's Dilemma demonstrates that two rational individuals acting in their own self-interest may not produce the optimal outcome — both players choosing to 'defect' yields worse results than mutual cooperation.",
+    "source_url": "https://en.wikipedia.org/wiki/Prisoner%27s_dilemma",
+    "source_name": "Wikipedia - Prisoner's Dilemma",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "John Nash proved in 1950 that every finite game has at least one Nash equilibrium — a state where no player can benefit by unilaterally changing their strategy — earning him the 1994 Nobel Prize in Economics.",
+    "source_url": "https://en.wikipedia.org/wiki/Nash_equilibrium",
+    "source_name": "Wikipedia - Nash Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Ultimatum Game shows humans reject 'unfair' offers of free money — when offered 20% or less of a sum, most people refuse even though getting something is rationally better than nothing.",
+    "source_url": "https://en.wikipedia.org/wiki/Ultimatum_game",
+    "source_name": "Wikipedia - Ultimatum Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Arrow's Impossibility Theorem, proved in 1951, shows that no voting system can satisfy all fairness criteria simultaneously — there's no perfect way to convert individual preferences into a group decision.",
+    "source_url": "https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem",
+    "source_name": "Wikipedia - Arrow's Impossibility Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Tulip Mania of 1637 in the Netherlands saw single tulip bulbs sell for more than 10 times a skilled craftsman's annual income — often cited as the first recorded speculative bubble in history.",
+    "source_url": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "source_name": "Wikipedia - Tulip Mania",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The endowment effect, discovered by Richard Thaler, shows people value things they own 2-3 times higher than identical items they don't own — explaining why people often refuse to sell possessions for their market value.",
+    "source_url": "https://en.wikipedia.org/wiki/Endowment_effect",
+    "source_name": "Wikipedia - Endowment Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Winner's Curse in auction theory describes how the winning bidder in a common-value auction tends to overpay — if your bid wins, it likely means everyone else thought the item was worth less.",
+    "source_url": "https://en.wikipedia.org/wiki/Winner%27s_curse",
+    "source_name": "Wikipedia - Winner's Curse",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Tragedy of the Commons, articulated by Garrett Hardin in 1968, explains why shared resources get depleted — individual rational behavior leads to collective ruin when everyone exploits a common resource.",
+    "source_url": "https://en.wikipedia.org/wiki/Tragedy_of_the_commons",
+    "source_name": "Wikipedia - Tragedy of the Commons",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Loss aversion, a key finding of Kahneman and Tversky, shows that losses feel about twice as painful as equivalent gains feel good — explaining why people hold losing stocks too long and sell winners too early.",
+    "source_url": "https://en.wikipedia.org/wiki/Loss_aversion",
+    "source_name": "Wikipedia - Loss Aversion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Vickrey auction (second-price sealed-bid) makes it optimal for bidders to reveal their true valuations — the winner pays the second-highest bid, removing incentives for strategic underbidding.",
+    "source_url": "https://en.wikipedia.org/wiki/Vickrey_auction",
+    "source_name": "Wikipedia - Vickrey Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Condorcet Paradox shows that majority preferences can be cyclic: voters might prefer A over B, B over C, and C over A — making it impossible to identify a 'true' winner.",
+    "source_url": "https://en.wikipedia.org/wiki/Condorcet_paradox",
+    "source_name": "Wikipedia - Condorcet Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Robert Axelrod's 1984 computer tournament found that 'Tit for Tat' — the simplest strategy of cooperating first, then copying the opponent's last move — beat all other strategies in iterated Prisoner's Dilemma.",
+    "source_url": "https://en.wikipedia.org/wiki/Tit_for_tat",
+    "source_name": "Wikipedia - Tit for Tat",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The January Effect anomaly shows that small-cap stocks historically outperform in January — attributed to tax-loss selling in December and subsequent repurchasing in the new year.",
+    "source_url": "https://en.wikipedia.org/wiki/January_effect",
+    "source_name": "Wikipedia - January Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Mental accounting, coined by Richard Thaler, explains why people treat money differently based on its source — a $100 tax refund feels like 'free money' to spend, while $100 from wages feels like savings.",
+    "source_url": "https://en.wikipedia.org/wiki/Mental_accounting",
+    "source_name": "Wikipedia - Mental Accounting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Giffen Good paradox describes goods where demand increases as price rises — Sir Robert Giffen observed this with bread among poor 19th-century British workers who couldn't afford meat as bread prices rose.",
+    "source_url": "https://en.wikipedia.org/wiki/Giffen_good",
+    "source_name": "Wikipedia - Giffen Good",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Chicken Game (or Hawk-Dove game) models nuclear deterrence: both players driving toward each other lose if neither swerves, but the one who swerves first looks weak.",
+    "source_url": "https://en.wikipedia.org/wiki/Chicken_(game)",
+    "source_name": "Wikipedia - Chicken Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The South Sea Bubble of 1720 saw shares in the South Sea Company rise 800% in months before collapsing — Isaac Newton lost £20,000 and reportedly said 'I can calculate the motions of stars, but not the madness of men.'",
+    "source_url": "https://en.wikipedia.org/wiki/South_Sea_Company",
+    "source_name": "Wikipedia - South Sea Company",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Allais Paradox, discovered in 1953, shows people make inconsistent choices when expected utility theory predicts they should be indifferent — demonstrating that humans don't maximize expected value.",
+    "source_url": "https://en.wikipedia.org/wiki/Allais_paradox",
+    "source_name": "Wikipedia - Allais Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Centipede Game paradox shows that backward induction predicts players will defect on the first move, even though continuing cooperation would benefit everyone — but real humans often cooperate.",
+    "source_url": "https://en.wikipedia.org/wiki/Centipede_game",
+    "source_name": "Wikipedia - Centipede Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dutch Disease describes how a natural resource boom can harm other sectors — named after the Netherlands' experience when North Sea gas discovery in the 1960s caused manufacturing decline.",
+    "source_url": "https://en.wikipedia.org/wiki/Dutch_disease",
+    "source_name": "Wikipedia - Dutch Disease",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Prospect Theory, developed by Kahneman and Tversky in 1979, shows people evaluate outcomes relative to a reference point — a salary cut from $80k to $70k feels worse than never having $80k.",
+    "source_url": "https://en.wikipedia.org/wiki/Prospect_theory",
+    "source_name": "Wikipedia - Prospect Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Stag Hunt game models the tension between safety and social cooperation — hunting alone guarantees a rabbit, but only mutual cooperation catches the valuable stag.",
+    "source_url": "https://en.wikipedia.org/wiki/Stag_hunt",
+    "source_name": "Wikipedia - Stag Hunt",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Monday Effect anomaly showed that stock returns were historically negative on Mondays and positive on Fridays — though this pattern has largely disappeared since its discovery.",
+    "source_url": "https://en.wikipedia.org/wiki/Weekend_effect",
+    "source_name": "Wikipedia - Weekend Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Anchoring bias in economics shows that arbitrary numbers influence decisions — in experiments, showing a higher random number before asking people to bid on items significantly increases their bids.",
+    "source_url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+    "source_name": "Wikipedia - Anchoring",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Revenue Equivalence Theorem proves that under certain conditions, all standard auction formats (English, Dutch, first-price, second-price) yield the same expected revenue for the seller.",
+    "source_url": "https://en.wikipedia.org/wiki/Revenue_equivalence",
+    "source_name": "Wikipedia - Revenue Equivalence",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Median Voter Theorem predicts that in a two-party system, both parties will converge to positions favored by the median voter — explaining why major party platforms often seem similar.",
+    "source_url": "https://en.wikipedia.org/wiki/Median_voter_theorem",
+    "source_name": "Wikipedia - Median Voter Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "OPEC operates as a real-world cartel attempting to solve a Prisoner's Dilemma — each member benefits from cheating on quotas, but if all cheat, oil prices collapse and everyone loses.",
+    "source_url": "https://en.wikipedia.org/wiki/OPEC",
+    "source_name": "Wikipedia - OPEC",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Disposition Effect, documented by Shefrin and Statman, shows investors sell winning stocks too quickly and hold losing stocks too long — the opposite of what 'let profits run, cut losses' advises.",
+    "source_url": "https://en.wikipedia.org/wiki/Disposition_effect",
+    "source_name": "Wikipedia - Disposition Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Battle of the Sexes game models coordination problems between parties with different preferences — both prefer to coordinate, but disagree on which outcome to coordinate on.",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_of_the_sexes_(game_theory)",
+    "source_name": "Wikipedia - Battle of the Sexes",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The 1907 Bankers' Panic was halted by J.P. Morgan personally convincing bankers to contribute to a pool of funds — demonstrating how individual actors can solve coordination failures.",
+    "source_url": "https://en.wikipedia.org/wiki/Panic_of_1907",
+    "source_name": "Wikipedia - Panic of 1907",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Ellsberg Paradox shows people prefer known risks over unknown risks — given a choice between urns with known vs unknown odds, people avoid ambiguity even when expected values are identical.",
+    "source_url": "https://en.wikipedia.org/wiki/Ellsberg_paradox",
+    "source_name": "Wikipedia - Ellsberg Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Mechanism Design, called 'reverse game theory,' asks how to design rules so that self-interested players achieve a desired outcome — earning Hurwicz, Maskin, and Myerson the 2007 Nobel Prize.",
+    "source_url": "https://en.wikipedia.org/wiki/Mechanism_design",
+    "source_name": "Wikipedia - Mechanism Design",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Folk Theorem in game theory shows that in infinitely repeated games, almost any outcome can be sustained as an equilibrium — explaining why cooperation emerges in long-term relationships.",
+    "source_url": "https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)",
+    "source_name": "Wikipedia - Folk Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Hot Hand Fallacy was originally thought to be a cognitive bias, but recent research shows basketball players do have genuine hot streaks — the 1985 paper debunking it had statistical errors.",
+    "source_url": "https://en.wikipedia.org/wiki/Hot_hand",
+    "source_name": "Wikipedia - Hot Hand",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The FCC spectrum auctions, designed by game theorists, raised over $60 billion by using simultaneous multiple-round auctions — a triumph of applied mechanism design.",
+    "source_url": "https://en.wikipedia.org/wiki/Spectrum_auction",
+    "source_name": "Wikipedia - Spectrum Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Gibbard-Satterthwaite Theorem proves that any voting system with 3+ candidates is either dictatorial or vulnerable to strategic voting — there's no manipulation-proof democratic system.",
+    "source_url": "https://en.wikipedia.org/wiki/Gibbard%E2%80%93Satterthwaite_theorem",
+    "source_name": "Wikipedia - Gibbard-Satterthwaite Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Keynesian Beauty Contest describes how investors don't pick stocks they think are best, but stocks they think others think are best — explaining momentum trading and bubbles.",
+    "source_url": "https://en.wikipedia.org/wiki/Keynesian_beauty_contest",
+    "source_name": "Wikipedia - Keynesian Beauty Contest",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Braess Paradox shows that adding a new road can actually increase traffic congestion — drivers individually optimizing their routes can make everyone worse off.",
+    "source_url": "https://en.wikipedia.org/wiki/Braess%27s_paradox",
+    "source_name": "Wikipedia - Braess's Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sunk cost fallacy leads people to continue investing in failing projects because of money already spent — the Concorde aircraft continued development despite clear evidence it would never be profitable.",
+    "source_url": "https://en.wikipedia.org/wiki/Sunk_cost",
+    "source_name": "Wikipedia - Sunk Cost",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dollar Auction, invented by Martin Shubik, demonstrates escalation of commitment: when bidding for a dollar where both top bidders pay, rational players bid past $1 to minimize losses.",
+    "source_url": "https://en.wikipedia.org/wiki/Dollar_auction",
+    "source_name": "Wikipedia - Dollar Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Mississippi Bubble of 1720 in France saw John Law's company shares rise 20-fold before collapsing — it bankrupted France and made the word 'millionaire' popular (and then infamous).",
+    "source_url": "https://en.wikipedia.org/wiki/Mississippi_Company",
+    "source_name": "Wikipedia - Mississippi Company",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Status quo bias explains why default options are so powerful — organ donation rates are 80%+ in opt-out countries but under 20% in opt-in countries, despite similar populations.",
+    "source_url": "https://en.wikipedia.org/wiki/Status_quo_bias",
+    "source_name": "Wikipedia - Status Quo Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dictator Game removes strategic considerations by giving one player complete control over splitting money — yet most 'dictators' still give 20-30%, showing pure altruism exists.",
+    "source_url": "https://en.wikipedia.org/wiki/Dictator_game",
+    "source_name": "Wikipedia - Dictator Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The equity premium puzzle notes that historically, stocks outperformed bonds by 6% annually — far more than standard risk models predict rational investors would demand.",
+    "source_url": "https://en.wikipedia.org/wiki/Equity_premium_puzzle",
+    "source_name": "Wikipedia - Equity Premium Puzzle",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Volunteer's Dilemma shows why bystanders don't help in emergencies: each person hopes someone else will act, but if everyone thinks this way, nobody helps.",
+    "source_url": "https://en.wikipedia.org/wiki/Volunteer%27s_dilemma",
+    "source_name": "Wikipedia - Volunteer's Dilemma",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Behavioral economists found that people work harder to avoid losing $10 than to gain $10 — this asymmetry underlies many 'irrational' financial decisions.",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_name": "Wikipedia - Behavioral Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Efficient Market Hypothesis paradox: if markets are truly efficient because investors analyze information, what incentives would anyone have to spend resources analyzing information?",
+    "source_url": "https://en.wikipedia.org/wiki/Grossman-Stiglitz_paradox",
+    "source_name": "Wikipedia - Grossman-Stiglitz Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Zero-sum games like poker have a fascinating property: in a two-player zero-sum game, if both players use optimal strategies, neither can improve by changing — this is the minimax theorem.",
+    "source_url": "https://en.wikipedia.org/wiki/Minimax",
+    "source_name": "Wikipedia - Minimax Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Great Depression saw US GDP fall by 30% and unemployment reach 25% — it took until 1941 for GDP to return to 1929 levels, showing how economic collapses can persist.",
+    "source_url": "https://en.wikipedia.org/wiki/Great_Depression",
+    "source_name": "Wikipedia - Great Depression",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Hyperbolic discounting shows people prefer $100 today over $110 tomorrow, but $110 in 31 days over $100 in 30 days — even though the tradeoffs are identical, timing matters irrationally.",
+    "source_url": "https://en.wikipedia.org/wiki/Hyperbolic_discounting",
+    "source_name": "Wikipedia - Hyperbolic Discounting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The El Farol Bar problem models congestion: 100 people each decide whether to go to a bar that's fun when under 60 attend but miserable when overcrowded — no pure strategy equilibrium exists.",
+    "source_url": "https://en.wikipedia.org/wiki/El_Farol_Bar_problem",
+    "source_name": "Wikipedia - El Farol Bar Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Black-Scholes model for option pricing earned its creators the 1997 Nobel Prize — but Long-Term Capital Management, which employed them, collapsed a year later requiring a $3.6 billion bailout.",
+    "source_url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+    "source_name": "Wikipedia - Long-Term Capital Management",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Choice overload paradox shows that more options can decrease satisfaction — in a famous jam study, 30% of customers bought from a 6-jam display vs only 3% from a 24-jam display.",
+    "source_url": "https://en.wikipedia.org/wiki/Overchoice",
+    "source_name": "Wikipedia - Overchoice",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Matching markets, studied by Gale and Shapley, led to the Nobel Prize-winning algorithm used to match medical residents to hospitals — ensuring no doctor-hospital pair would prefer each other over their match.",
+    "source_url": "https://en.wikipedia.org/wiki/Stable_marriage_problem",
+    "source_name": "Wikipedia - Stable Marriage Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Weimar hyperinflation of 1923 saw prices double every 3.7 days — people were paid twice daily and rushed to spend money before it lost value; a loaf of bread cost 200 billion marks.",
+    "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_the_Weimar_Republic",
+    "source_name": "Wikipedia - Weimar Hyperinflation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Present bias explains why people sign up for gym memberships they don't use — they overvalue their future self's motivation while undervaluing their current self's desire to relax.",
+    "source_url": "https://en.wikipedia.org/wiki/Present_bias",
+    "source_name": "Wikipedia - Present Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Kolkata Paise Restaurant Problem shows how uncoordinated choices lead to inefficiency — when many people independently choose the 'best' restaurant, it becomes overcrowded while others stay empty.",
+    "source_url": "https://en.wikipedia.org/wiki/Kolkata_Paise_Restaurant_problem",
+    "source_name": "Wikipedia - Kolkata Paise Restaurant Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Credit default swaps grew from $6 trillion in 2004 to $62 trillion by 2007 — Warren Buffett called them 'financial weapons of mass destruction' before they helped trigger the 2008 crisis.",
+    "source_url": "https://en.wikipedia.org/wiki/Credit_default_swap",
+    "source_name": "Wikipedia - Credit Default Swap",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Nudge theory, developed by Thaler and Sunstein, shows small design changes dramatically affect behavior — cafeteria studies found moving fruit to eye level increased consumption by 27%.",
+    "source_url": "https://en.wikipedia.org/wiki/Nudge_theory",
+    "source_name": "Wikipedia - Nudge Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Trembling Hand equilibrium, introduced by Reinhard Selten, accounts for the possibility that players might make mistakes — eliminating Nash equilibria that rely on incredible threats.",
+    "source_url": "https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium",
+    "source_name": "Wikipedia - Trembling Hand Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Zimbabwe's 2008 hyperinflation reached 89.7 sextillion percent (89.7 × 10²¹) per year — the government printed 100 trillion dollar notes that became worthless within days.",
+    "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe",
+    "source_name": "Wikipedia - Zimbabwe Hyperinflation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The decoy effect shows adding an inferior third option changes preferences between two products — movie theaters use small/medium/large popcorn pricing to make large seem like the best value.",
+    "source_url": "https://en.wikipedia.org/wiki/Decoy_effect",
+    "source_name": "Wikipedia - Decoy Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Subgame perfect equilibrium refines Nash equilibrium by requiring strategies to be optimal at every point in the game — eliminating threats that players wouldn't actually carry out.",
+    "source_url": "https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium",
+    "source_name": "Wikipedia - Subgame Perfect Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Flash Crash of May 6, 2010 saw the Dow Jones drop 1,000 points (9%) in minutes before recovering — triggered by algorithmic trading and lasting just 36 minutes.",
+    "source_url": "https://en.wikipedia.org/wiki/2010_flash_crash",
+    "source_name": "Wikipedia - 2010 Flash Crash",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Framing effects show identical choices yield different decisions based on wording — 90% survival rate sounds better than 10% mortality rate, even though they're mathematically identical.",
+    "source_url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+    "source_name": "Wikipedia - Framing Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Correlated equilibrium, introduced by Aumann, shows that with a coordinating signal, players can achieve outcomes impossible with independent strategies — explaining the value of traffic lights.",
+    "source_url": "https://en.wikipedia.org/wiki/Correlated_equilibrium",
+    "source_name": "Wikipedia - Correlated Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The 1997 Asian Financial Crisis started when Thailand floated the baht after depleting reserves — it spread to Indonesia, South Korea, and Malaysia in a textbook case of contagion.",
+    "source_url": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis",
+    "source_name": "Wikipedia - Asian Financial Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Confirmation bias in investing leads people to seek information supporting their existing positions — explaining why investors hold losers despite overwhelming evidence to sell.",
+    "source_url": "https://en.wikipedia.org/wiki/Confirmation_bias",
+    "source_name": "Wikipedia - Confirmation Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Evolutionary game theory applies natural selection to strategies — the Evolutionarily Stable Strategy (ESS) explains why mixed populations of 'hawks' and 'doves' can be stable.",
+    "source_url": "https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy",
+    "source_name": "Wikipedia - Evolutionarily Stable Strategy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Enron's collapse in 2001 destroyed $74 billion in shareholder value and exposed massive accounting fraud — leading to the Sarbanes-Oxley Act and Arthur Andersen's dissolution.",
+    "source_url": "https://en.wikipedia.org/wiki/Enron_scandal",
+    "source_name": "Wikipedia - Enron Scandal",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The availability heuristic causes people to overweight recent, memorable events — after plane crashes, many switch to driving even though flying is statistically far safer.",
+    "source_url": "https://en.wikipedia.org/wiki/Availability_heuristic",
+    "source_name": "Wikipedia - Availability Heuristic",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Schelling Points explain how people coordinate without communication — asked to meet someone in NYC with no arrangement, most people choose Grand Central at noon.",
+    "source_url": "https://en.wikipedia.org/wiki/Focal_point_(game_theory)",
+    "source_name": "Wikipedia - Focal Point",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dot-com bubble peaked in March 2000 with the NASDAQ at 5,048 — it wouldn't return to that level for 15 years; companies with '.com' in their name saw valuations surge regardless of business model.",
+    "source_url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+    "source_name": "Wikipedia - Dot-com Bubble",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The representativeness heuristic leads investors to see patterns in random data — the 'hot hand' belief persists despite evidence that past stock performance doesn't predict future returns.",
+    "source_url": "https://en.wikipedia.org/wiki/Representativeness_heuristic",
+    "source_name": "Wikipedia - Representativeness Heuristic",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Signaling in economics, introduced by Michael Spence, explains why education may be valuable even without teaching useful skills — a degree signals ability and perseverance to employers.",
+    "source_url": "https://en.wikipedia.org/wiki/Signalling_(economics)",
+    "source_name": "Wikipedia - Signalling",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Panic of 1873 triggered a 6-year depression called the 'Long Depression' — caused by railroad overexpansion and silver demonetization, it was the worst economic crisis until 1929.",
+    "source_url": "https://en.wikipedia.org/wiki/Panic_of_1873",
+    "source_name": "Wikipedia - Panic of 1873",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Overconfidence bias in traders is well-documented — male investors trade 45% more than female investors and earn 1% less annually, largely due to overconfidence.",
+    "source_url": "https://en.wikipedia.org/wiki/Overconfidence_effect",
+    "source_name": "Wikipedia - Overconfidence Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Adverse selection explains why used car markets feature 'lemons' — sellers know more about car quality than buyers, so only low-quality cars remain on the market (Akerlof's Nobel-winning insight).",
+    "source_url": "https://en.wikipedia.org/wiki/The_Market_for_Lemons",
+    "source_name": "Wikipedia - Market for Lemons",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The 2008 subprime mortgage crisis originated from a game theory failure — rating agencies rated mortgage-backed securities AAA because they were paid by the issuers, not investors.",
+    "source_url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+    "source_name": "Wikipedia - Subprime Mortgage Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Herding behavior in finance explains bubbles — individual rational decisions to follow the crowd can lead to collective irrationality and market crashes.",
+    "source_url": "https://en.wikipedia.org/wiki/Herd_behavior",
+    "source_name": "Wikipedia - Herd Behavior",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Moral hazard explains why insured people take more risks — knowing someone else bears the cost changes behavior, which is why car insurance has deductibles.",
+    "source_url": "https://en.wikipedia.org/wiki/Moral_hazard",
+    "source_name": "Wikipedia - Moral Hazard",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Coase Theorem states that without transaction costs, private bargaining produces efficient outcomes regardless of initial property rights — but real-world transaction costs make this ideal unreachable.",
+    "source_url": "https://en.wikipedia.org/wiki/Coase_theorem",
+    "source_name": "Wikipedia - Coase Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "LIBOR rigging scandal revealed that major banks manipulated the benchmark interest rate affecting $350 trillion in financial products — resulting in billions in fines.",
+    "source_url": "https://en.wikipedia.org/wiki/Libor_scandal",
+    "source_name": "Wikipedia - LIBOR Scandal",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dunning-Kruger effect in investing shows that the least competent traders are most confident in their abilities — while expert traders often underestimate their skills.",
+    "source_url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+    "source_name": "Wikipedia - Dunning-Kruger Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Principal-agent problems pervade economics — managers (agents) may act in their own interest rather than shareholders' (principals'), explaining golden parachutes and excessive risk-taking.",
+    "source_url": "https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem",
+    "source_name": "Wikipedia - Principal-Agent Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Japanese asset bubble of the late 1980s saw Tokyo's Imperial Palace grounds valued at more than all of California — the subsequent crash led to Japan's 'Lost Decade' (which became two).",
+    "source_url": "https://en.wikipedia.org/wiki/Japanese_asset_price_bubble",
+    "source_name": "Wikipedia - Japanese Asset Price Bubble",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Peak-end rule in behavioral economics shows people judge experiences by their peak intensity and ending — a painful medical procedure remembered better if it ends with mild discomfort.",
+    "source_url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule",
+    "source_name": "Wikipedia - Peak-End Rule",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Incentive compatibility requires mechanism design to align individual incentives with desired outcomes — the Vickrey-Clarke-Groves mechanism achieves this for public goods valuations.",
+    "source_url": "https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_mechanism",
+    "source_name": "Wikipedia - VCG Mechanism",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Greenspan Put described market belief that the Fed would intervene to prevent crashes — this moral hazard may have encouraged excessive risk-taking before 2008.",
+    "source_url": "https://en.wikipedia.org/wiki/Greenspan_put",
+    "source_name": "Wikipedia - Greenspan Put",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The IKEA effect shows people value things more highly when they helped create them — partially assembled furniture is valued higher than identical pre-assembled items.",
+    "source_url": "https://en.wikipedia.org/wiki/IKEA_effect",
+    "source_name": "Wikipedia - IKEA Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Revelation Principle in mechanism design proves any outcome achievable by any mechanism can also be achieved by a direct mechanism where truth-telling is optimal.",
+    "source_url": "https://en.wikipedia.org/wiki/Revelation_principle",
+    "source_name": "Wikipedia - Revelation Principle",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Quantitative easing by the Federal Reserve injected $4.5 trillion into the economy after 2008 — an unprecedented monetary experiment whose long-term effects are still debated.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantitative_easing",
+    "source_name": "Wikipedia - Quantitative Easing",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Regret aversion leads investors to avoid actions they might regret — people hold losing positions rather than sell and confirm the loss, even when selling is optimal.",
+    "source_url": "https://en.wikipedia.org/wiki/Regret_aversion",
+    "source_name": "Wikipedia - Regret Aversion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Screening in economics involves the uninformed party designing contracts that cause informed parties to reveal their type — insurance companies offering high and low deductible plans.",
+    "source_url": "https://en.wikipedia.org/wiki/Screening_(economics)",
+    "source_name": "Wikipedia - Screening",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dutch tulip 'Semper Augustus' bulb sold for 6,000 florins in 1633 — enough to buy a grand house in Amsterdam, making it possibly the most expensive flower in history.",
+    "source_url": "https://en.wikipedia.org/wiki/Semper_augustus",
+    "source_name": "Wikipedia - Semper Augustus",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Zero Intelligence Traders in experiments show that market efficiency can emerge without rational agents — random buying and selling still produces prices close to equilibrium.",
+    "source_url": "https://en.wikipedia.org/wiki/Zero-intelligence_trader",
+    "source_name": "Wikipedia - Zero Intelligence Trader",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Impossibility Theorem applies to fair division too — no procedure can guarantee an envy-free, Pareto efficient, and equitable division of resources among three or more people.",
+    "source_url": "https://en.wikipedia.org/wiki/Fair_division",
+    "source_name": "Wikipedia - Fair Division",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Greece's 2010 debt crisis revealed it had falsified statistics to join the Euro — Goldman Sachs had helped hide debt through complex currency swaps, leading to €289 billion in bailouts.",
+    "source_url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis",
+    "source_name": "Wikipedia - Greek Debt Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Effort aversion leads people to overvalue time compared to money — people drive across town to save $5 on a $15 calculator but not on a $125 jacket, though the savings are identical.",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_name": "Wikipedia - Behavioral Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Myerson-Satterthwaite Theorem proves that no mechanism can achieve efficient bilateral trade when buyer and seller have private information — some mutually beneficial trades will never happen.",
+    "source_url": "https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem",
+    "source_name": "Wikipedia - Myerson-Satterthwaite Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Bernard Madoff ran the largest Ponzi scheme in history, defrauding investors of $64.8 billion — it collapsed in 2008 when he couldn't meet $7 billion in redemption requests.",
+    "source_url": "https://en.wikipedia.org/wiki/Madoff_investment_scandal",
+    "source_name": "Wikipedia - Madoff Scandal",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Narrow framing causes people to evaluate choices in isolation rather than as part of their overall portfolio — leading to excessive insurance purchases and poor investment diversification.",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_name": "Wikipedia - Behavioral Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Shapley Value, from cooperative game theory, provides a unique way to fairly distribute gains from cooperation based on each player's marginal contribution — used to allocate airport runway costs.",
+    "source_url": "https://en.wikipedia.org/wiki/Shapley_value",
+    "source_name": "Wikipedia - Shapley Value",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Black Monday on October 19, 1987 saw the Dow Jones fall 22.6% in a single day — still the largest one-day percentage decline in stock market history, partly caused by portfolio insurance algorithms.",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Monday_(1987)",
+    "source_name": "Wikipedia - Black Monday 1987",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Self-control problems in economics are modeled as games between current and future selves — explaining why people use commitment devices like putting money in inaccessible accounts.",
+    "source_url": "https://en.wikipedia.org/wiki/Intertemporal_choice",
+    "source_name": "Wikipedia - Intertemporal Choice",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Core in cooperative game theory describes allocations that no coalition would want to deviate from — but many games have empty cores, meaning no stable allocation exists.",
+    "source_url": "https://en.wikipedia.org/wiki/Core_(game_theory)",
+    "source_name": "Wikipedia - Core",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Currency Crises 'Impossible Trinity' states countries cannot simultaneously have free capital flow, fixed exchange rates, and independent monetary policy — they must sacrifice one.",
+    "source_url": "https://en.wikipedia.org/wiki/Impossible_trinity",
+    "source_name": "Wikipedia - Impossible Trinity",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "House money effect shows people take more risks with recent winnings — casino gamblers who are 'up' bet more aggressively because gains feel like 'the house's money.'",
+    "source_url": "https://en.wikipedia.org/wiki/House_money_effect",
+    "source_name": "Wikipedia - House Money Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Pirate Game paradox shows the most senior pirate can take almost all the gold through clever use of voting rules — demonstrating how procedure design affects outcomes.",
+    "source_url": "https://en.wikipedia.org/wiki/Pirate_game",
+    "source_name": "Wikipedia - Pirate Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Argentina defaulted on $93 billion in sovereign debt in 2001 — the largest sovereign default in history at the time, leading to economic chaos and five presidents in two weeks.",
+    "source_url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression",
+    "source_name": "Wikipedia - Argentine Great Depression",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The projection bias causes people to predict their future tastes will match their current ones — shopping while hungry leads to buying too much food.",
+    "source_url": "https://en.wikipedia.org/wiki/Projection_bias",
+    "source_name": "Wikipedia - Projection Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Backward induction in game theory solves games by working from the end — but humans often don't use it, which is why the Centipede Game plays out differently in practice than in theory.",
+    "source_url": "https://en.wikipedia.org/wiki/Backward_induction",
+    "source_name": "Wikipedia - Backward Induction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Long-Term Capital Management crisis in 1998 showed how a single hedge fund could threaten global financial stability — $4 billion in capital controlled $125 billion in assets with $1.25 trillion in derivatives exposure.",
+    "source_url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+    "source_name": "Wikipedia - LTCM",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The affect heuristic shows emotions influence risk perception — people rate activities as low-risk and high-benefit when they like them, and high-risk and low-benefit when they don't.",
+    "source_url": "https://en.wikipedia.org/wiki/Affect_heuristic",
+    "source_name": "Wikipedia - Affect Heuristic",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Revelation Principle simplifies mechanism design by proving any desired outcome can be achieved by asking players to report truthfully — incentive-compatible direct mechanisms suffice.",
+    "source_url": "https://en.wikipedia.org/wiki/Revelation_principle",
+    "source_name": "Wikipedia - Revelation Principle",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Russian financial crisis of 1998 saw the ruble lose 75% of its value and Russia default on domestic debt — it nearly caused LTCM's failure to bring down the global financial system.",
+    "source_url": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis",
+    "source_name": "Wikipedia - Russian Financial Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Social preferences in economics show people care about fairness, not just money — in experiments, people sacrifice money to punish those who treated others unfairly.",
+    "source_url": "https://en.wikipedia.org/wiki/Social_preferences",
+    "source_name": "Wikipedia - Social Preferences",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Cheap talk in game theory refers to costless, non-binding communication — it can be surprisingly effective at improving coordination when players' interests are sufficiently aligned.",
+    "source_url": "https://en.wikipedia.org/wiki/Cheap_talk",
+    "source_name": "Wikipedia - Cheap Talk",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Savings and Loan Crisis of the 1980s resulted in 1,043 thrifts failing — costing taxpayers $132 billion and revealing how deposit insurance creates moral hazard.",
+    "source_url": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+    "source_name": "Wikipedia - S&L Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Dual-process theory distinguishes System 1 (fast, intuitive) from System 2 (slow, deliberative) thinking — most economic decisions use System 1, explaining many cognitive biases.",
+    "source_url": "https://en.wikipedia.org/wiki/Dual_process_theory",
+    "source_name": "Wikipedia - Dual Process Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Bayesian games model situations where players have private information — Nobel laureate John Harsanyi developed the framework that made incomplete information games tractable.",
+    "source_url": "https://en.wikipedia.org/wiki/Bayesian_game",
+    "source_name": "Wikipedia - Bayesian Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Continental currency hyperinflation during the American Revolution gave rise to the phrase 'not worth a Continental' — Congress printed so much money it became worthless.",
+    "source_url": "https://en.wikipedia.org/wiki/Continental_currency",
+    "source_name": "Wikipedia - Continental Currency",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Time inconsistency explains why central banks struggle with credibility — the optimal policy today might be to break yesterday's promise, which undermines future promises.",
+    "source_url": "https://en.wikipedia.org/wiki/Time_consistency_(economics)",
+    "source_name": "Wikipedia - Time Consistency",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Repeated games transform single-shot incentives — the shadow of the future makes cooperation sustainable even when defection would win a one-time game.",
+    "source_url": "https://en.wikipedia.org/wiki/Repeated_game",
+    "source_name": "Wikipedia - Repeated Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Peso Problem in finance describes how small probabilities of large events affect asset prices — Mexican peso interest rates were high for years before the 1994 devaluation finally occurred.",
+    "source_url": "https://en.wikipedia.org/wiki/Peso_problem_(finance)",
+    "source_name": "Wikipedia - Peso Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The ostrich effect describes investors avoiding information about their portfolios during market downturns — people check their investments less frequently when markets are falling.",
+    "source_url": "https://en.wikipedia.org/wiki/Ostrich_effect",
+    "source_name": "Wikipedia - Ostrich Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sequential equilibrium refines Nash equilibrium for extensive-form games by requiring beliefs to be consistent with strategies — allowing analysis of bluffing and information revelation.",
+    "source_url": "https://en.wikipedia.org/wiki/Sequential_equilibrium",
+    "source_name": "Wikipedia - Sequential Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Irish Famine Bank of 1847 saw deposits flee as rumors spread, causing failure — a classic bank run demonstrating how self-fulfilling prophecies work in finance.",
+    "source_url": "https://en.wikipedia.org/wiki/Bank_run",
+    "source_name": "Wikipedia - Bank Run",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The money illusion causes people to think in nominal rather than real terms — workers resist wage cuts even during deflation, leading to higher unemployment during price drops.",
+    "source_url": "https://en.wikipedia.org/wiki/Money_illusion",
+    "source_name": "Wikipedia - Money Illusion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Mixed-strategy Nash equilibria involve randomization — in matching pennies, each player must flip a coin because any predictable strategy can be exploited.",
+    "source_url": "https://en.wikipedia.org/wiki/Strategy_(game_theory)",
+    "source_name": "Wikipedia - Game Theory Strategy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Barings Bank collapse in 1995 resulted from a single rogue trader, Nick Leeson, losing $1.3 billion through unauthorized derivatives trades — ending the 233-year-old bank.",
+    "source_url": "https://en.wikipedia.org/wiki/Barings_Bank",
+    "source_name": "Wikipedia - Barings Bank",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The optimism bias leads 90% of drivers to rate themselves above average — and most entrepreneurs to believe their ventures will succeed despite high failure rates.",
+    "source_url": "https://en.wikipedia.org/wiki/Optimism_bias",
+    "source_name": "Wikipedia - Optimism Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Auction sniping — placing bids in the final seconds of eBay auctions — is a rational strategy that reduces bidding wars and prevents the winner's curse.",
+    "source_url": "https://en.wikipedia.org/wiki/Auction_sniping",
+    "source_name": "Wikipedia - Auction Sniping",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Hunt Brothers' attempt to corner the silver market in 1980 drove silver from $6 to $50/oz before collapsing — leading to 'Silver Thursday' and rule changes to prevent future cornering.",
+    "source_url": "https://en.wikipedia.org/wiki/Silver_Thursday",
+    "source_name": "Wikipedia - Silver Thursday",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The bandwagon effect shows people adopt beliefs because others hold them — contributing to stock market momentum as rising prices attract more buyers who push prices higher.",
+    "source_url": "https://en.wikipedia.org/wiki/Bandwagon_effect",
+    "source_name": "Wikipedia - Bandwagon Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Infinitely repeated games with discounting have a cooperation threshold — if players care enough about the future (low discount rate), cooperation becomes sustainable.",
+    "source_url": "https://en.wikipedia.org/wiki/Repeated_game",
+    "source_name": "Wikipedia - Repeated Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Asian Tigers' economic miracle (South Korea, Taiwan, Hong Kong, Singapore) saw GDP per capita rise from developing to developed levels in one generation — challenging free market orthodoxy.",
+    "source_url": "https://en.wikipedia.org/wiki/Four_Asian_Tigers",
+    "source_name": "Wikipedia - Four Asian Tigers",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Information cascades explain fads and panics — when people ignore their own information and copy others, small initial events can trigger large swings in behavior.",
+    "source_url": "https://en.wikipedia.org/wiki/Information_cascade",
+    "source_name": "Wikipedia - Information Cascade",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "War of Attrition games model conflicts where players expend resources while waiting for the other to quit — the optimal strategy often involves randomization to avoid predictability.",
+    "source_url": "https://en.wikipedia.org/wiki/War_of_attrition_(game)",
+    "source_name": "Wikipedia - War of Attrition",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "George Soros 'broke the Bank of England' on Black Wednesday 1992, making $1 billion by betting against the pound — the UK withdrew from the European Exchange Rate Mechanism.",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Wednesday",
+    "source_name": "Wikipedia - Black Wednesday",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Scope insensitivity shows people value outcomes similarly regardless of scale — willingness to pay to save 2,000 birds is only slightly higher than to save 200 birds.",
+    "source_url": "https://en.wikipedia.org/wiki/Scope_neglect",
+    "source_name": "Wikipedia - Scope Neglect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Perfect Bayesian Equilibrium combines sequential rationality with Bayesian updating — players form beliefs from observed actions and optimize given those beliefs.",
+    "source_url": "https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium",
+    "source_name": "Wikipedia - Perfect Bayesian Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The German hyperinflation of 1923 was deliberately created to make reparations payments worthless — the mark went from 4.2 per dollar to 4.2 trillion per dollar in under two years.",
+    "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_the_Weimar_Republic",
+    "source_name": "Wikipedia - Weimar Hyperinflation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The identifiable victim effect shows people donate more to save a single named child than to save 'children in Africa' — statistics kill compassion while stories inspire it.",
+    "source_url": "https://en.wikipedia.org/wiki/Identifiable_victim_effect",
+    "source_name": "Wikipedia - Identifiable Victim Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Common knowledge in game theory requires not just everyone knowing, but everyone knowing that everyone knows, infinitely — crucial for coordination but hard to achieve.",
+    "source_url": "https://en.wikipedia.org/wiki/Common_knowledge_(logic)",
+    "source_name": "Wikipedia - Common Knowledge",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Plaza Accord of 1985 saw G5 nations coordinate to depreciate the dollar by 51% against the yen — a rare successful example of international exchange rate cooperation.",
+    "source_url": "https://en.wikipedia.org/wiki/Plaza_Accord",
+    "source_name": "Wikipedia - Plaza Accord",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Base rate neglect leads people to ignore prior probabilities — a positive medical test feels definitive even when the disease is rare enough that most positives are false positives.",
+    "source_url": "https://en.wikipedia.org/wiki/Base_rate_fallacy",
+    "source_name": "Wikipedia - Base Rate Fallacy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Price of Anarchy measures how much worse selfish behavior is than optimal coordination — in some road networks, selfish routing can be 4/3 times worse than optimal.",
+    "source_url": "https://en.wikipedia.org/wiki/Price_of_anarchy",
+    "source_name": "Wikipedia - Price of Anarchy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Venezuela's hyperinflation peaked at 1.7 million percent annually in 2018 — caused by money printing to cover fiscal deficits when oil prices fell and production collapsed.",
+    "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela",
+    "source_name": "Wikipedia - Venezuela Hyperinflation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Attribute substitution explains why people answer different questions than asked — when asked about happiness, people often report recent mood instead of life satisfaction.",
+    "source_url": "https://en.wikipedia.org/wiki/Attribute_substitution",
+    "source_name": "Wikipedia - Attribute Substitution",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Grim Trigger strategy enforces cooperation by threatening permanent defection after any betrayal — effective in infinitely repeated games but vulnerable to mistakes.",
+    "source_url": "https://en.wikipedia.org/wiki/Grim_trigger",
+    "source_name": "Wikipedia - Grim Trigger",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Panic of 1837 lasted 7 years and was triggered by Andrew Jackson's banking policies and British credit tightening — leading to 40% unemployment in some cities.",
+    "source_url": "https://en.wikipedia.org/wiki/Panic_of_1837",
+    "source_name": "Wikipedia - Panic of 1837",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Recency bias leads investors to overweight recent events — after a market crash, investors assume crashes are more likely, but after a bull run, they underestimate crash risk.",
+    "source_url": "https://en.wikipedia.org/wiki/Recency_bias",
+    "source_name": "Wikipedia - Recency Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Stackelberg leadership in game theory gives first-movers an advantage — the leader commits to a strategy knowing the follower will best-respond, allowing the leader to shape the game.",
+    "source_url": "https://en.wikipedia.org/wiki/Stackelberg_competition",
+    "source_name": "Wikipedia - Stackelberg Competition",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Mexican Peso Crisis of 1994 required a $50 billion bailout — the 'Tequila Effect' spread contagion to Argentina and Brazil, demonstrating how crises can propagate.",
+    "source_url": "https://en.wikipedia.org/wiki/Mexican_peso_crisis",
+    "source_name": "Wikipedia - Mexican Peso Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Weber-Fechner law in economics shows people perceive proportional rather than absolute changes — a $5 discount matters more on a $20 item than a $500 item.",
+    "source_url": "https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law",
+    "source_name": "Wikipedia - Weber-Fechner Law",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Congestion games always have at least one pure strategy Nash equilibrium — this makes them special among game classes and applies to traffic routing and facility location.",
+    "source_url": "https://en.wikipedia.org/wiki/Congestion_game",
+    "source_name": "Wikipedia - Congestion Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Panic of 1893 was triggered by over-expansion of railroads and bank failures — it caused 500 bank closures, 15,000 business failures, and 20% unemployment.",
+    "source_url": "https://en.wikipedia.org/wiki/Panic_of_1893",
+    "source_name": "Wikipedia - Panic of 1893",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Action bias leads people to prefer doing something over nothing — during market volatility, investors trade excessively, usually reducing returns compared to holding steady.",
+    "source_url": "https://en.wikipedia.org/wiki/Action_bias",
+    "source_name": "Wikipedia - Action Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Potential games have a potential function where any improvement for one player improves the global function — guaranteeing convergence to equilibrium through best-response dynamics.",
+    "source_url": "https://en.wikipedia.org/wiki/Potential_game",
+    "source_name": "Wikipedia - Potential Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The British Railway Mania of 1847 saw one-third of authorized railways never built after the bubble burst — it absorbed vast capital and caused a financial crisis.",
+    "source_url": "https://en.wikipedia.org/wiki/Railway_Mania",
+    "source_name": "Wikipedia - Railway Mania",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Probability weighting shows people overweight small probabilities and underweight large ones — explaining both lottery playing and insurance buying as responses to unlikely events.",
+    "source_url": "https://en.wikipedia.org/wiki/Prospect_theory",
+    "source_name": "Wikipedia - Prospect Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Network effects create natural monopolies where the winning product dominates regardless of quality — explaining how QWERTY keyboards and VHS formats persisted despite alternatives.",
+    "source_url": "https://en.wikipedia.org/wiki/Network_effect",
+    "source_name": "Wikipedia - Network Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Knickerbocker Trust collapse in 1907 triggered a run on other trusts — J.P. Morgan personally coordinated bailouts, leading to calls for a central bank and the Federal Reserve's creation.",
+    "source_url": "https://en.wikipedia.org/wiki/Knickerbocker_Trust_Company",
+    "source_name": "Wikipedia - Knickerbocker Trust",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Unit bias causes people to consider a single unit (one cookie, one serving) appropriate — food portions have grown larger, and people eat more without realizing it.",
+    "source_url": "https://en.wikipedia.org/wiki/Unit_bias",
+    "source_name": "Wikipedia - Unit Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "All-pay auctions, where everyone pays their bid but only the winner gets the prize, model lobbying and patent races — players often bid more than the prize is worth.",
+    "source_url": "https://en.wikipedia.org/wiki/All-pay_auction",
+    "source_name": "Wikipedia - All-Pay Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Penn Central Railroad bankruptcy in 1970 was the largest in US history at the time — it had received government-backed loans shortly before collapse, showing moral hazard in action.",
+    "source_url": "https://en.wikipedia.org/wiki/Penn_Central_Transportation_Company",
+    "source_name": "Wikipedia - Penn Central",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The conjunction fallacy leads people to judge specific scenarios as more likely than general ones — 'Linda is a feminist bank teller' seems more probable than 'Linda is a bank teller.'",
+    "source_url": "https://en.wikipedia.org/wiki/Conjunction_fallacy",
+    "source_name": "Wikipedia - Conjunction Fallacy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Global games model situations where players have slightly different information — coordination becomes possible even without common knowledge, explaining bank run dynamics.",
+    "source_url": "https://en.wikipedia.org/wiki/Global_game",
+    "source_name": "Wikipedia - Global Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Lehman Brothers collapse on September 15, 2008 triggered the worst phase of the financial crisis — the decision not to bail it out remains controversial as the global economy contracted.",
+    "source_url": "https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers",
+    "source_name": "Wikipedia - Lehman Brothers",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Denominator neglect causes people to focus on numerators alone — 7 out of 100 feels riskier than 1 out of 10, even though 7% is safer than 10%.",
+    "source_url": "https://en.wikipedia.org/wiki/Denominator_neglect",
+    "source_name": "Wikipedia - Denominator Neglect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Bertrand competition between firms selling identical products drives prices to marginal cost — even with only two competitors, profits disappear entirely.",
+    "source_url": "https://en.wikipedia.org/wiki/Bertrand_competition",
+    "source_name": "Wikipedia - Bertrand Competition",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Northern Rock bank run in 2007 was the first run on a British bank in 150 years — images of queues outside branches hastened the crisis despite government guarantees.",
+    "source_url": "https://en.wikipedia.org/wiki/Northern_Rock",
+    "source_name": "Wikipedia - Northern Rock",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Distinction bias causes people to overvalue differences when comparing options side-by-side — but those differences matter less in actual experience of the chosen option.",
+    "source_url": "https://en.wikipedia.org/wiki/Distinction_bias",
+    "source_name": "Wikipedia - Distinction Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Cournot competition between quantity-setting firms predicts prices between monopoly and perfect competition — the more firms enter, the closer to competitive pricing.",
+    "source_url": "https://en.wikipedia.org/wiki/Cournot_competition",
+    "source_name": "Wikipedia - Cournot Competition",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Cyprus bail-in of 2013 confiscated up to 47.5% of uninsured deposits — the first time depositors shared losses in a Euro-area banking crisis, creating precedent for future rescues.",
+    "source_url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis",
+    "source_name": "Wikipedia - Cyprus Financial Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Zero-risk bias leads people to prefer eliminating a small risk entirely over larger reductions in bigger risks — explaining preferences for zero-defect products over statistically safer alternatives.",
+    "source_url": "https://en.wikipedia.org/wiki/Zero-risk_bias",
+    "source_name": "Wikipedia - Zero-Risk Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Hotelling's Law predicts that competing firms will locate near each other — explaining why gas stations cluster at intersections and fast food restaurants bunch together.",
+    "source_url": "https://en.wikipedia.org/wiki/Hotelling%27s_law",
+    "source_name": "Wikipedia - Hotelling's Law",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Bear Stearns collapse in March 2008 was the first major Wall Street casualty of the subprime crisis — the Fed facilitated its sale to JPMorgan for $2/share (later $10).",
+    "source_url": "https://en.wikipedia.org/wiki/Bear_Stearns",
+    "source_name": "Wikipedia - Bear Stearns",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Reactive devaluation causes people to value proposals less once they come from adversaries — in negotiations, good offers are rejected simply because of who proposed them.",
+    "source_url": "https://en.wikipedia.org/wiki/Reactive_devaluation",
+    "source_name": "Wikipedia - Reactive Devaluation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Double marginalization occurs when both manufacturer and retailer add markups — vertical integration or clever contracts can eliminate this inefficiency.",
+    "source_url": "https://en.wikipedia.org/wiki/Double_marginalization",
+    "source_name": "Wikipedia - Double Marginalization",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Credit Anstalt failure in 1931 triggered banking crises across Europe — Austria's largest bank collapse spread to Germany and contributed to the Great Depression's severity.",
+    "source_url": "https://en.wikipedia.org/wiki/Creditanstalt",
+    "source_name": "Wikipedia - Credit Anstalt",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Impact bias causes people to overestimate how long emotions from events will last — lottery winners and accident victims both return to baseline happiness faster than expected.",
+    "source_url": "https://en.wikipedia.org/wiki/Impact_bias",
+    "source_name": "Wikipedia - Impact Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Limit pricing by incumbents deters entry by keeping prices low enough that potential competitors can't profit — sacrificing current profits for future market power.",
+    "source_url": "https://en.wikipedia.org/wiki/Limit_pricing",
+    "source_name": "Wikipedia - Limit Pricing",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The BCCI scandal of 1991 revealed the largest bank fraud in history — the Bank of Credit and Commerce International had $20 billion in assets and operated a global criminal enterprise.",
+    "source_url": "https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International",
+    "source_name": "Wikipedia - BCCI",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Duration neglect means people's memories of experiences ignore how long they lasted — a short painful procedure may be remembered worse than a longer one ending less painfully.",
+    "source_url": "https://en.wikipedia.org/wiki/Duration_neglect",
+    "source_name": "Wikipedia - Duration Neglect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Predatory pricing — selling below cost to drive out competitors — is theoretically possible but empirically rare, as it requires deep pockets and discourages future entry only temporarily.",
+    "source_url": "https://en.wikipedia.org/wiki/Predatory_pricing",
+    "source_name": "Wikipedia - Predatory Pricing",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The GameStop short squeeze of January 2021 saw shares rise from $20 to $483 — retail investors coordinating on Reddit's WallStreetBets inflicted billions in losses on hedge funds.",
+    "source_url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+    "source_name": "Wikipedia - GameStop Short Squeeze",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The focusing illusion means 'Nothing in life is as important as you think it is, while you are thinking about it' — leading to mispredictions about what will make us happy.",
+    "source_url": "https://en.wikipedia.org/wiki/Focusing_effect",
+    "source_name": "Wikipedia - Focusing Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Entry deterrence in industrial organization involves strategic investments that commit firms to aggressive responses — making potential competitors believe entry would be unprofitable.",
+    "source_url": "https://en.wikipedia.org/wiki/Entry_deterrence",
+    "source_name": "Wikipedia - Entry Deterrence",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Terra/Luna cryptocurrency collapse in May 2022 erased $60 billion in value within days — an algorithmic stablecoin death spiral caused by its unsustainable mechanism design.",
+    "source_url": "https://en.wikipedia.org/wiki/Terra_(blockchain)",
+    "source_name": "Wikipedia - Terra Collapse",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Effort heuristic causes people to value things based on effort invested — hand-crafted items command premiums even when machine-made versions are objectively identical.",
+    "source_url": "https://en.wikipedia.org/wiki/Effort_heuristic",
+    "source_name": "Wikipedia - Effort Heuristic",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Contestable markets theory shows that even monopolies behave competitively when entry barriers are low — potential competition disciplines behavior as effectively as actual competition.",
+    "source_url": "https://en.wikipedia.org/wiki/Contestable_market",
+    "source_name": "Wikipedia - Contestable Market",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "FTX's collapse in November 2022 lost $8 billion of customer funds — the crypto exchange's founder faces criminal charges for misusing deposits, echoing classic fraud patterns.",
+    "source_url": "https://en.wikipedia.org/wiki/FTX_(company)",
+    "source_name": "Wikipedia - FTX",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Omission bias prefers harmful inaction over helpful action — people judge harmful side effects of vaccines more negatively than equivalent harm from disease non-vaccination.",
+    "source_url": "https://en.wikipedia.org/wiki/Omission_bias",
+    "source_name": "Wikipedia - Omission Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Groves mechanism provides incentives to reveal true valuations of public goods — each person pays the externality they impose on others, making honesty optimal.",
+    "source_url": "https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_mechanism",
+    "source_name": "Wikipedia - Groves Mechanism",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The SVB collapse in March 2023 was the second-largest bank failure in US history — a classic duration mismatch crisis where rising rates crushed the value of long-term bonds.",
+    "source_url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank",
+    "source_name": "Wikipedia - Silicon Valley Bank",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The curse of knowledge makes experts unable to imagine not knowing what they know — explaining why specialists often give incomprehensible explanations to beginners.",
+    "source_url": "https://en.wikipedia.org/wiki/Curse_of_knowledge",
+    "source_name": "Wikipedia - Curse of Knowledge",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sequential bargaining with alternating offers converges to a unique equilibrium depending on players' patience — more patient players get larger shares of the pie.",
+    "source_url": "https://en.wikipedia.org/wiki/Bargaining_problem",
+    "source_name": "Wikipedia - Bargaining Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Survivorship bias in investing means we study successful fund managers and strategies while ignoring the many that failed — leading to overestimates of achievable returns.",
+    "source_url": "https://en.wikipedia.org/wiki/Survivorship_bias",
+    "source_name": "Wikipedia - Survivorship Bias",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The 'too big to fail' problem creates implicit government guarantees for large banks — encouraging excessive risk-taking because executives know taxpayers will bear losses.",
+    "source_url": "https://en.wikipedia.org/wiki/Too_big_to_fail",
+    "source_name": "Wikipedia - Too Big to Fail",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Proportional thinking leads people to accept worse deals for small amounts — walking across town to save $10 on a $20 purchase but not on a $1000 purchase.",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_name": "Wikipedia - Behavioral Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Common-value auctions are prone to winner's curse because the winner tends to be whoever overestimated value most — experienced bidders shade bids below their estimates.",
+    "source_url": "https://en.wikipedia.org/wiki/Common_value_auction",
+    "source_name": "Wikipedia - Common Value Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Dollarization — adopting the US dollar as official currency — surrenders monetary policy but provides stability, as Ecuador did in 2000 after hyperinflation.",
+    "source_url": "https://en.wikipedia.org/wiki/Dollarization",
+    "source_name": "Wikipedia - Dollarization",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Private-value auctions have different optimal strategies than common-value — when your value is independent of others, there's no winner's curse to worry about.",
+    "source_url": "https://en.wikipedia.org/wiki/Private_value_auction",
+    "source_name": "Wikipedia - Private Value Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Public Goods Game shows free-riding is the dominant strategy — but real humans often contribute 40-60% of their endowment, contradicting pure self-interest assumptions.",
+    "source_url": "https://en.wikipedia.org/wiki/Public_goods_game",
+    "source_name": "Wikipedia - Public Goods Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "English auctions (ascending price) and second-price sealed-bid auctions are strategically equivalent — in both, bidding your true value is optimal.",
+    "source_url": "https://en.wikipedia.org/wiki/English_auction",
+    "source_name": "Wikipedia - English Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Trust Game reveals humans are more trusting than game theory predicts — senders typically transfer 50% of their endowment despite the risk of receiving nothing back.",
+    "source_url": "https://en.wikipedia.org/wiki/Trust_game",
+    "source_name": "Wikipedia - Trust Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Dutch auctions (descending price) are strategically equivalent to first-price sealed-bid — both require strategic shading, bidding below your value to increase profit if you win.",
+    "source_url": "https://en.wikipedia.org/wiki/Dutch_auction",
+    "source_name": "Wikipedia - Dutch Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Third-party punishment in experiments shows people will pay to punish those who acted unfairly toward others — revealing altruistic punishment as a human universal.",
+    "source_url": "https://en.wikipedia.org/wiki/Altruistic_punishment",
+    "source_name": "Wikipedia - Altruistic Punishment",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Reserve prices in auctions set minimum acceptable bids — optimal reserve prices trade off the risk of no sale against higher expected revenue from qualified bidders.",
+    "source_url": "https://en.wikipedia.org/wiki/Reserve_price",
+    "source_name": "Wikipedia - Reserve Price",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Gift exchange experiments show workers respond to higher wages with higher effort — contradicting pure incentive theory but supporting efficiency wage models.",
+    "source_url": "https://en.wikipedia.org/wiki/Gift_exchange_game",
+    "source_name": "Wikipedia - Gift Exchange Game",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Combinatorial auctions sell multiple items simultaneously, allowing bidders to express synergies — the FCC uses them for spectrum because coverage areas are worth more together.",
+    "source_url": "https://en.wikipedia.org/wiki/Combinatorial_auction",
+    "source_name": "Wikipedia - Combinatorial Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Lab experiments on markets consistently find prices converge to equilibrium predictions — even with only a few traders and limited rounds, markets achieve surprising efficiency.",
+    "source_url": "https://en.wikipedia.org/wiki/Experimental_economics",
+    "source_name": "Wikipedia - Experimental Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Penny auctions charge for each bid placed, making the auction house profit regardless of who wins — exploiting sunk cost fallacy and competition to extract revenue far exceeding item value.",
+    "source_url": "https://en.wikipedia.org/wiki/Bidding_fee_auction",
+    "source_name": "Wikipedia - Bidding Fee Auction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Beauty contest experiments where players pick numbers closest to 2/3 of the average show most people reason only 1-2 levels deep — not the infinite recursion Nash equilibrium requires.",
+    "source_url": "https://en.wikipedia.org/wiki/Guess_2/3_of_the_average",
+    "source_name": "Wikipedia - Guess 2/3 Average",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sponsored search auctions used by Google allocate ad positions based on bids and quality scores — generating $200+ billion annually through clever mechanism design.",
+    "source_url": "https://en.wikipedia.org/wiki/Sponsored_search",
+    "source_name": "Wikipedia - Sponsored Search",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Bubbles and crashes can occur with rational expectations — coordination on self-fulfilling prophecies means everyone can rationally participate in a bubble they know will burst.",
+    "source_url": "https://en.wikipedia.org/wiki/Rational_expectations",
+    "source_name": "Wikipedia - Rational Expectations",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The kidney exchange algorithm matches incompatible donor-patient pairs through cycles — if A can't donate to their loved one B but can to C, while C's donor can give to B, both pairs benefit.",
+    "source_url": "https://en.wikipedia.org/wiki/Kidney_paired_donation",
+    "source_name": "Wikipedia - Kidney Exchange",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sunspot equilibria show that irrelevant random variables can coordinate behavior — if everyone believes sunspots affect the economy and acts accordingly, they do affect the economy.",
+    "source_url": "https://en.wikipedia.org/wiki/Sunspot_(economics)",
+    "source_name": "Wikipedia - Sunspot Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "School choice mechanisms must balance efficiency, strategy-proofness, and stability — Boston's old algorithm was manipulable, leading to adoption of the Gale-Shapley deferred acceptance.",
+    "source_url": "https://en.wikipedia.org/wiki/School_choice",
+    "source_name": "Wikipedia - School Choice",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Lucas Critique showed that policy changes alter the relationships econometric models are based on — you can't assume behaviors will stay the same when incentives change.",
+    "source_url": "https://en.wikipedia.org/wiki/Lucas_critique",
+    "source_name": "Wikipedia - Lucas Critique",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Two-sided matching markets like residency matching require careful mechanism design — the National Resident Matching Program processes 40,000+ doctors annually using stable matching algorithms.",
+    "source_url": "https://en.wikipedia.org/wiki/National_Resident_Matching_Program",
+    "source_name": "Wikipedia - NRMP",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Goodhart's Law states 'When a measure becomes a target, it ceases to be a good measure' — explaining why metrics-based management often backfires.",
+    "source_url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+    "source_name": "Wikipedia - Goodhart's Law",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Random serial dictatorship assigns objects by giving each person in a random order their top remaining choice — surprisingly strategy-proof and Pareto efficient for house allocation.",
+    "source_url": "https://en.wikipedia.org/wiki/Random_serial_dictatorship",
+    "source_name": "Wikipedia - Random Serial Dictatorship",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Phillips Curve tradeoff between inflation and unemployment appeared stable until the 1970s stagflation — demonstrating how economic relationships break down when exploited.",
+    "source_url": "https://en.wikipedia.org/wiki/Phillips_curve",
+    "source_name": "Wikipedia - Phillips Curve",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Top Trading Cycles algorithm lets agents trade positions to achieve Pareto optimal allocations — originally designed for housing markets, now used for school choice.",
+    "source_url": "https://en.wikipedia.org/wiki/Top_trading_cycle",
+    "source_name": "Wikipedia - Top Trading Cycles",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Rational inattention theory acknowledges that processing information is costly — explaining why people use simple heuristics even when more information is freely available.",
+    "source_url": "https://en.wikipedia.org/wiki/Rational_inattention",
+    "source_name": "Wikipedia - Rational Inattention",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Boston mechanism for school assignment was replaced because it punished honest preference reporting — strategic parents listed safe schools first, disadvantaging naive ones.",
+    "source_url": "https://en.wikipedia.org/wiki/Boston_mechanism",
+    "source_name": "Wikipedia - Boston Mechanism",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Rational addiction theory explains drug use as forward-looking optimization — addicts rationally trade future utility for present pleasure, making legality and price matter.",
+    "source_url": "https://en.wikipedia.org/wiki/Rational_addiction",
+    "source_name": "Wikipedia - Rational Addiction",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Approval voting lets voters approve of multiple candidates — it's strategy-proof and tends to elect Condorcet winners when they exist, unlike plurality voting.",
+    "source_url": "https://en.wikipedia.org/wiki/Approval_voting",
+    "source_name": "Wikipedia - Approval Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The efficient markets hypothesis has three forms: weak (past prices useless), semi-strong (public information priced in), and strong (all information priced in) — each is progressively harder to believe.",
+    "source_url": "https://en.wikipedia.org/wiki/Efficient-market_hypothesis",
+    "source_name": "Wikipedia - Efficient Market Hypothesis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Range voting scores candidates numerically and sums scores — it satisfies more fairness criteria than most voting systems but is rarely used in practice.",
+    "source_url": "https://en.wikipedia.org/wiki/Score_voting",
+    "source_name": "Wikipedia - Score Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Random utility models explain choice as maximizing utility plus random noise — rationalizing why the same person makes different choices in identical situations.",
+    "source_url": "https://en.wikipedia.org/wiki/Random_utility_theory",
+    "source_name": "Wikipedia - Random Utility Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Ranked choice voting (instant runoff) eliminates the lowest candidate and redistributes votes — avoiding spoiler effects but possibly not electing the Condorcet winner.",
+    "source_url": "https://en.wikipedia.org/wiki/Instant-runoff_voting",
+    "source_name": "Wikipedia - Instant Runoff Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Bounded rationality, introduced by Herbert Simon, recognizes that cognitive limitations prevent full optimization — people satisfice, finding solutions good enough rather than best.",
+    "source_url": "https://en.wikipedia.org/wiki/Bounded_rationality",
+    "source_name": "Wikipedia - Bounded Rationality",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Borda count assigns points based on ranking position and sums them — it's a positional voting system that can fail to elect a Condorcet winner and is susceptible to strategic voting.",
+    "source_url": "https://en.wikipedia.org/wiki/Borda_count",
+    "source_name": "Wikipedia - Borda Count",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Behavioral game theory modifies standard theory to account for observed behavior — using models like quantal response equilibrium that allow for mistakes.",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_game_theory",
+    "source_name": "Wikipedia - Behavioral Game Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Quadratic voting allows people to express intensity of preference by buying votes at quadratic cost — casting 2 votes costs 4 credits, 3 votes costs 9, balancing passion with fairness.",
+    "source_url": "https://en.wikipedia.org/wiki/Quadratic_voting",
+    "source_name": "Wikipedia - Quadratic Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Quantal response equilibrium relaxes Nash equilibrium by allowing probabilistic choice — better responses are more likely but not certain, fitting experimental data better.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantal_response_equilibrium",
+    "source_name": "Wikipedia - Quantal Response Equilibrium",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Spoiler effects occur when a losing candidate's presence changes who wins — Ralph Nader in Florida 2000 potentially cost Gore the election, a flaw of plurality voting.",
+    "source_url": "https://en.wikipedia.org/wiki/Vote_splitting",
+    "source_name": "Wikipedia - Vote Splitting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Level-k thinking models bounded rationality through iterated reasoning — Level-0 randomizes, Level-1 best-responds to Level-0, Level-2 to Level-1, etc.",
+    "source_url": "https://en.wikipedia.org/wiki/Cognitive_hierarchy_theory",
+    "source_name": "Wikipedia - Cognitive Hierarchy Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Strategic voting occurs when voters misrepresent preferences to improve outcomes — voting for a viable candidate instead of your favorite to prevent your least favorite from winning.",
+    "source_url": "https://en.wikipedia.org/wiki/Tactical_voting",
+    "source_name": "Wikipedia - Tactical Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Neuroeconomics uses brain imaging to study economic decisions — finding that financial losses activate the same brain regions as physical pain.",
+    "source_url": "https://en.wikipedia.org/wiki/Neuroeconomics",
+    "source_name": "Wikipedia - Neuroeconomics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Gerrymandering manipulates district boundaries to predetermine election outcomes — sophisticated algorithms can now draw districts that guarantee party dominance despite preferences.",
+    "source_url": "https://en.wikipedia.org/wiki/Gerrymandering",
+    "source_name": "Wikipedia - Gerrymandering",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The ultimatum game across cultures shows variation in fairness norms — some societies regularly offer 50/50 splits while others offer and accept as low as 15%.",
+    "source_url": "https://en.wikipedia.org/wiki/Ultimatum_game",
+    "source_name": "Wikipedia - Ultimatum Game Cross-Cultural",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Single transferable vote achieves proportional representation through ranked ballots — voters rank candidates, and surplus votes transfer to later preferences.",
+    "source_url": "https://en.wikipedia.org/wiki/Single_transferable_vote",
+    "source_name": "Wikipedia - Single Transferable Vote",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "oxytocin, the 'trust hormone,' increases generosity in economic games — nasal spray administration makes people more trusting in the trust game.",
+    "source_url": "https://en.wikipedia.org/wiki/Oxytocin",
+    "source_name": "Wikipedia - Oxytocin Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Cumulative voting gives voters multiple votes to allocate freely — minorities can concentrate votes on preferred candidates, ensuring some representation.",
+    "source_url": "https://en.wikipedia.org/wiki/Cumulative_voting",
+    "source_name": "Wikipedia - Cumulative Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Testosterone administration in experiments increases competitive behavior — traders with higher testosterone make riskier bets, especially after wins.",
+    "source_url": "https://en.wikipedia.org/wiki/Testosterone",
+    "source_name": "Wikipedia - Testosterone Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "D'Hondt method allocates parliamentary seats proportionally to vote shares using a highest-averages algorithm — used across Europe and Latin America.",
+    "source_url": "https://en.wikipedia.org/wiki/D%27Hondt_method",
+    "source_name": "Wikipedia - D'Hondt Method",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Sleep deprivation increases risk-taking in economic decisions — tired people gamble more and accept worse deals in negotiations.",
+    "source_url": "https://en.wikipedia.org/wiki/Sleep_deprivation",
+    "source_name": "Wikipedia - Sleep Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "May's Theorem proves that majority rule is the only voting method satisfying anonymity, neutrality, decisiveness, and positive responsiveness for two alternatives.",
+    "source_url": "https://en.wikipedia.org/wiki/May%27s_theorem",
+    "source_name": "Wikipedia - May's Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Hunger increases impatience in economic decisions — people offered food now versus more food later show steeper discounting when hungry.",
+    "source_url": "https://en.wikipedia.org/wiki/Intertemporal_choice",
+    "source_name": "Wikipedia - Intertemporal Choice",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Minimax Condorcet method elects the candidate whose worst pairwise comparison is best — a theoretically appealing rule that satisfies many fairness properties.",
+    "source_url": "https://en.wikipedia.org/wiki/Minimax_Condorcet_method",
+    "source_name": "Wikipedia - Minimax Condorcet",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Ego depletion suggests willpower is a limited resource — after exerting self-control, people make more impulsive economic choices, though replication studies are mixed.",
+    "source_url": "https://en.wikipedia.org/wiki/Ego_depletion",
+    "source_name": "Wikipedia - Ego Depletion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Copeland's method ranks candidates by pairwise wins minus losses — always electing the Condorcet winner when one exists.",
+    "source_url": "https://en.wikipedia.org/wiki/Copeland%27s_method",
+    "source_name": "Wikipedia - Copeland's Method",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Hot-cold empathy gaps cause people in 'cold' states to underestimate how they'll behave in 'hot' states — explaining why people underestimate temptation in advance.",
+    "source_url": "https://en.wikipedia.org/wiki/Hot-cold_empathy_gap",
+    "source_name": "Wikipedia - Hot-Cold Empathy Gap",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Alabama paradox showed that increasing total House seats could cause a state to lose representation — one of several paradoxes that led to adopting the Huntington-Hill method.",
+    "source_url": "https://en.wikipedia.org/wiki/Alabama_paradox",
+    "source_name": "Wikipedia - Alabama Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Social learning and imitation strategies can achieve efficiency without sophisticated reasoning — simply copying successful others often outperforms individual optimization.",
+    "source_url": "https://en.wikipedia.org/wiki/Social_learning_in_animals",
+    "source_name": "Wikipedia - Social Learning",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The population paradox occurs when a faster-growing state loses seats to a slower-growing one as total seats increase — violating common-sense notions of fairness in apportionment.",
+    "source_url": "https://en.wikipedia.org/wiki/Population_paradox",
+    "source_name": "Wikipedia - Population Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Mood effects in economic experiments show happy people are more risk-seeking with gains and sad people with losses — emotions systematically bias economic choices.",
+    "source_url": "https://en.wikipedia.org/wiki/Affect_heuristic",
+    "source_name": "Wikipedia - Affect Heuristic",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The impossibility of a Paretian liberal, proved by Amartya Sen, shows that respecting individual rights over private matters can conflict with Pareto efficiency.",
+    "source_url": "https://en.wikipedia.org/wiki/Liberal_paradox",
+    "source_name": "Wikipedia - Liberal Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Experimental economics earned Vernon Smith the 2002 Nobel Prize — his work showed markets converge to equilibrium even with few, poorly-informed traders.",
+    "source_url": "https://en.wikipedia.org/wiki/Vernon_L._Smith",
+    "source_name": "Wikipedia - Vernon Smith",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The apportionment paradox collection shows no perfect method exists for dividing discrete representatives among states — any method violates some fairness criterion.",
+    "source_url": "https://en.wikipedia.org/wiki/Apportionment_paradox",
+    "source_name": "Wikipedia - Apportionment Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Market microstructure studies how trading mechanisms affect prices — bid-ask spreads, order flow, and market maker behavior all influence market efficiency.",
+    "source_url": "https://en.wikipedia.org/wiki/Market_microstructure",
+    "source_name": "Wikipedia - Market Microstructure",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Balinski-Young impossibility theorem proves no apportionment method can avoid all paradoxes while respecting quota constraints — forcing a tradeoff between desirable properties.",
+    "source_url": "https://en.wikipedia.org/wiki/Balinski%E2%80%93Young_theorem",
+    "source_name": "Wikipedia - Balinski-Young Theorem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Prediction markets aggregate dispersed information through betting — they've outperformed polls for election forecasting and can elicit truthful beliefs about future events.",
+    "source_url": "https://en.wikipedia.org/wiki/Prediction_market",
+    "source_name": "Wikipedia - Prediction Market",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The No-show paradox occurs when participating in an election hurts your preferred candidate — they would have won if you hadn't voted, a disturbing possibility in some systems.",
+    "source_url": "https://en.wikipedia.org/wiki/Participation_criterion",
+    "source_name": "Wikipedia - No-show Paradox",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Field experiments in development economics test interventions in real settings — randomized controlled trials revolutionized development policy, earning the 2019 Nobel Prize.",
+    "source_url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+    "source_name": "Wikipedia - Development RCTs",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Monotonicity criterion requires that ranking a candidate higher never hurts them — instant runoff voting can violate this, with boosting a candidate causing their loss.",
+    "source_url": "https://en.wikipedia.org/wiki/Monotonicity_criterion",
+    "source_name": "Wikipedia - Monotonicity Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Natural experiments exploit random variation in the real world — economists use weather, policy discontinuities, and lottery outcomes to identify causal effects.",
+    "source_url": "https://en.wikipedia.org/wiki/Natural_experiment",
+    "source_name": "Wikipedia - Natural Experiment",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Independence of Irrelevant Alternatives requires that removing a losing candidate shouldn't change who wins — most voting systems fail this, enabling spoiler effects.",
+    "source_url": "https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives",
+    "source_name": "Wikipedia - IIA",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "A/B testing applies experimental methods to business decisions — tech companies run thousands of simultaneous experiments on user interfaces to optimize engagement.",
+    "source_url": "https://en.wikipedia.org/wiki/A/B_testing",
+    "source_name": "Wikipedia - A/B Testing",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Plurality criterion states that a candidate with more first-place votes than anyone else should win — surprisingly, Borda count can fail this.",
+    "source_url": "https://en.wikipedia.org/wiki/Plurality_criterion",
+    "source_name": "Wikipedia - Plurality Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The replication crisis has affected behavioral economics — some famous findings like ego depletion and power posing have failed to replicate, forcing revision of textbook claims.",
+    "source_url": "https://en.wikipedia.org/wiki/Replication_crisis",
+    "source_name": "Wikipedia - Replication Crisis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Condorcet winner criterion says a candidate who beats all others head-to-head should win — plurality and Borda count can both fail this basic requirement.",
+    "source_url": "https://en.wikipedia.org/wiki/Condorcet_winner_criterion",
+    "source_name": "Wikipedia - Condorcet Winner Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Difference-in-differences exploits parallel trends between treatment and control groups — comparing changes before and after policy interventions to identify causal effects.",
+    "source_url": "https://en.wikipedia.org/wiki/Difference_in_differences",
+    "source_name": "Wikipedia - Difference in Differences",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Majority loser criterion requires that a candidate majority-ranked last shouldn't win — yet instant runoff can elect such candidates in rare circumstances.",
+    "source_url": "https://en.wikipedia.org/wiki/Majority_loser_criterion",
+    "source_name": "Wikipedia - Majority Loser Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Regression discontinuity designs exploit sharp policy cutoffs — comparing students just above and below admission thresholds reveals the causal effect of attending a school.",
+    "source_url": "https://en.wikipedia.org/wiki/Regression_discontinuity_design",
+    "source_name": "Wikipedia - Regression Discontinuity",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Duverger's Law predicts two-party dominance under plurality voting — single-winner districts incentivize strategic voting that kills third parties.",
+    "source_url": "https://en.wikipedia.org/wiki/Duverger%27s_law",
+    "source_name": "Wikipedia - Duverger's Law",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Instrumental variables allow causal inference when experiments are impossible — finding exogenous variation that affects treatment but not outcomes directly.",
+    "source_url": "https://en.wikipedia.org/wiki/Instrumental_variables_estimation",
+    "source_name": "Wikipedia - Instrumental Variables",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Consistency criterion requires that if a candidate wins in two separate electorates, they should win in the combined electorate — instant runoff can fail this.",
+    "source_url": "https://en.wikipedia.org/wiki/Consistency_criterion",
+    "source_name": "Wikipedia - Consistency Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Structural estimation builds economic models that can be used for counterfactual analysis — simulating what would happen under policies never actually tried.",
+    "source_url": "https://en.wikipedia.org/wiki/Structural_estimation",
+    "source_name": "Wikipedia - Structural Estimation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Later-no-harm guarantees that ranking additional candidates won't hurt your favorite — satisfied by instant runoff but not Condorcet methods.",
+    "source_url": "https://en.wikipedia.org/wiki/Later-no-harm_criterion",
+    "source_name": "Wikipedia - Later-No-Harm",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The synthetic control method constructs counterfactuals from weighted averages of similar units — revolutionizing policy evaluation when randomization is impossible.",
+    "source_url": "https://en.wikipedia.org/wiki/Synthetic_control_method",
+    "source_name": "Wikipedia - Synthetic Control",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Clone independence ensures that adding similar candidates doesn't change the winner — plurality voting catastrophically fails this, splitting votes among allies.",
+    "source_url": "https://en.wikipedia.org/wiki/Independence_of_clones_criterion",
+    "source_name": "Wikipedia - Clone Independence",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Machine learning in economics uses algorithms for prediction rather than explanation — but raises questions about interpretability and causality.",
+    "source_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "source_name": "Wikipedia - ML in Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Smith criterion requires the winner to come from the Smith set — the smallest set of candidates who beat all others, ensuring Condorcet consistency.",
+    "source_url": "https://en.wikipedia.org/wiki/Smith_criterion",
+    "source_name": "Wikipedia - Smith Criterion",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Big data in economics enables analysis of billions of transactions — credit card data, GPS traces, and social media reveal economic behavior at unprecedented scale.",
+    "source_url": "https://en.wikipedia.org/wiki/Big_data",
+    "source_name": "Wikipedia - Big Data Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Schwartz set is the smallest non-empty set of candidates that beat all candidates outside the set in pairwise comparisons — refined by various voting methods.",
+    "source_url": "https://en.wikipedia.org/wiki/Schwartz_set",
+    "source_name": "Wikipedia - Schwartz Set",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Text analysis of central bank communications reveals market-moving information — Fed statement sentiment predicts interest rate movements before official announcements.",
+    "source_url": "https://en.wikipedia.org/wiki/Sentiment_analysis",
+    "source_name": "Wikipedia - Central Bank Text Analysis",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Reversal symmetry requires that reversing all ballots should reverse the outcome — a seemingly obvious requirement that plurality voting technically satisfies.",
+    "source_url": "https://en.wikipedia.org/wiki/Reversal_symmetry",
+    "source_name": "Wikipedia - Reversal Symmetry",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Satellite imagery detects economic activity — nighttime lights correlate with GDP, and car counts in parking lots predict retail earnings before official releases.",
+    "source_url": "https://en.wikipedia.org/wiki/Remote_sensing",
+    "source_name": "Wikipedia - Satellite Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Schulze method provides a complete ranking using a graph-theoretic approach — finding the strongest paths between candidates to determine winners.",
+    "source_url": "https://en.wikipedia.org/wiki/Schulze_method",
+    "source_name": "Wikipedia - Schulze Method",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Digital Millennium Copyright Act created the DMCA takedown system — an example of mechanism design affecting platform behavior and content moderation.",
+    "source_url": "https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act",
+    "source_name": "Wikipedia - DMCA",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Resolvability requires that tie-breaking mechanisms exist and are well-defined — essential for practical implementation of any voting system.",
+    "source_url": "https://en.wikipedia.org/wiki/Voting_system",
+    "source_name": "Wikipedia - Resolvability",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Platform economics studies two-sided markets like Uber, Airbnb, and credit cards — where value comes from connecting two groups and network effects dominate.",
+    "source_url": "https://en.wikipedia.org/wiki/Two-sided_market",
+    "source_name": "Wikipedia - Platform Economics",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Tideman's ranked pairs method builds a ranking by locking in the strongest pairwise comparisons that don't create cycles — guaranteeing a Condorcet winner.",
+    "source_url": "https://en.wikipedia.org/wiki/Ranked_pairs",
+    "source_name": "Wikipedia - Ranked Pairs",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The gig economy relies on dynamic pricing algorithms — Uber's surge pricing implements real-time market clearing, though fairness concerns persist.",
+    "source_url": "https://en.wikipedia.org/wiki/Gig_economy",
+    "source_name": "Wikipedia - Gig Economy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Majority Judgment asks voters to grade candidates and elects the one with the highest median grade — avoiding some Arrow impossibility problems by using grades instead of ranks.",
+    "source_url": "https://en.wikipedia.org/wiki/Majority_judgment",
+    "source_name": "Wikipedia - Majority Judgment",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Algorithmic trading now accounts for over 70% of stock market volume — machines react to news in milliseconds, faster than humans can perceive.",
+    "source_url": "https://en.wikipedia.org/wiki/Algorithmic_trading",
+    "source_name": "Wikipedia - Algorithmic Trading",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "STAR voting (Score Then Automatic Runoff) combines scoring with a final runoff — attempting to combine the best features of cardinal and ordinal systems.",
+    "source_url": "https://en.wikipedia.org/wiki/STAR_voting",
+    "source_name": "Wikipedia - STAR Voting",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "High-frequency trading firms pay millions for microsecond advantages — co-locating servers near exchanges and building microwave towers for faster data transmission.",
+    "source_url": "https://en.wikipedia.org/wiki/High-frequency_trading",
+    "source_name": "Wikipedia - High-Frequency Trading",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Nakamoto consensus used by Bitcoin solves the Byzantine Generals Problem through proof-of-work — enabling decentralized agreement without trusted third parties.",
+    "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+    "source_name": "Wikipedia - Nakamoto Consensus",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Dark pools allow trading without revealing orders to the public market — originally for large institutional trades, they now handle significant retail volume.",
+    "source_url": "https://en.wikipedia.org/wiki/Dark_pool",
+    "source_name": "Wikipedia - Dark Pools",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Automated market makers in DeFi use mathematical formulas instead of order books — constant product formulas like x*y=k provide liquidity without traditional market makers.",
+    "source_url": "https://en.wikipedia.org/wiki/Automated_market_maker",
+    "source_name": "Wikipedia - Automated Market Maker",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Payment for order flow lets brokerages offer zero-commission trading — selling retail orders to market makers who profit from the bid-ask spread.",
+    "source_url": "https://en.wikipedia.org/wiki/Payment_for_order_flow",
+    "source_name": "Wikipedia - Payment for Order Flow",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "MEV (Maximal Extractable Value) in blockchain creates game-theoretic extraction opportunities — miners can front-run, sandwich, or reorder transactions for profit.",
+    "source_url": "https://en.wikipedia.org/wiki/Maximal_extractable_value",
+    "source_name": "Wikipedia - MEV",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Dutch Central Bank was established in 1814, partly in response to the lessons from the tulip bubble and other financial crises of the 17th century.",
+    "source_url": "https://en.wikipedia.org/wiki/De_Nederlandsche_Bank",
+    "source_name": "Wikipedia - Dutch Central Bank",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Order flow toxicity measures predict flash crashes — when informed traders dominate order flow, market makers widen spreads or withdraw, causing liquidity crises.",
+    "source_url": "https://en.wikipedia.org/wiki/Flash_crash",
+    "source_name": "Wikipedia - Order Flow Toxicity",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Retroactive public goods funding (quadratic funding) allocates matching funds to projects based on number of contributors, not amount — small donations from many people get amplified.",
+    "source_url": "https://en.wikipedia.org/wiki/Quadratic_funding",
+    "source_name": "Wikipedia - Quadratic Funding",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Circuit breakers halt trading after large price movements — designed to prevent panic selling but criticized for delaying price discovery during crises.",
+    "source_url": "https://en.wikipedia.org/wiki/Trading_curb",
+    "source_name": "Wikipedia - Circuit Breakers",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Soulbound tokens are non-transferable digital credentials — proposed for identity, reputation, and governance to reduce manipulation in decentralized systems.",
+    "source_url": "https://en.wikipedia.org/wiki/Soulbound_token",
+    "source_name": "Wikipedia - Soulbound Tokens",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Tobin tax proposes small levies on financial transactions to reduce speculation — while never globally implemented, some countries have adopted variants.",
+    "source_url": "https://en.wikipedia.org/wiki/Tobin_tax",
+    "source_name": "Wikipedia - Tobin Tax",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Harberger taxes make all property continuously for sale at self-assessed values — owners pay tax on their assessment, incentivizing honest valuation and efficient allocation.",
+    "source_url": "https://en.wikipedia.org/wiki/Harberger_Tax",
+    "source_name": "Wikipedia - Harberger Tax",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Universal basic income experiments in Kenya, Finland, and the US test whether unconditional cash transfers improve welfare without reducing work.",
+    "source_url": "https://en.wikipedia.org/wiki/Universal_basic_income",
+    "source_name": "Wikipedia - UBI Experiments",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Laffer Curve suggests tax revenue can decline at both very low and very high tax rates — the optimal rate is empirically contested but theoretically sound.",
+    "source_url": "https://en.wikipedia.org/wiki/Laffer_curve",
+    "source_name": "Wikipedia - Laffer Curve",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Carbon credits create markets for pollution — cap-and-trade systems use mechanism design to reduce emissions at lowest cost, with varying real-world success.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_credit",
+    "source_name": "Wikipedia - Carbon Credits",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The curse of resources paradox shows countries with abundant natural resources often grow slower — 'Dutch disease' and rent-seeking behavior explain the puzzle.",
+    "source_url": "https://en.wikipedia.org/wiki/Resource_curse",
+    "source_name": "Wikipedia - Resource Curse",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Microfinance institutions pioneered group lending with joint liability — borrowers monitor each other, reducing default rates when traditional collateral is unavailable.",
+    "source_url": "https://en.wikipedia.org/wiki/Microfinance",
+    "source_name": "Wikipedia - Microfinance",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Conditional cash transfers in Brazil's Bolsa Família pay families for keeping children in school and attending health checkups — combining welfare with human capital investment.",
+    "source_url": "https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia",
+    "source_name": "Wikipedia - Bolsa Família",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Cobra Effect describes perverse incentives — when colonial India offered bounties for dead cobras, people bred cobras to collect rewards, worsening the problem.",
+    "source_url": "https://en.wikipedia.org/wiki/Perverse_incentive",
+    "source_name": "Wikipedia - Cobra Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Commitment devices help people overcome self-control problems — stickK.com lets users stake money they'll lose if they fail to meet their goals.",
+    "source_url": "https://en.wikipedia.org/wiki/Commitment_device",
+    "source_name": "Wikipedia - Commitment Devices",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Pay-for-performance in healthcare creates gaming incentives — UK hospitals reclassified corridors as wards to meet waiting-time targets without treating more patients.",
+    "source_url": "https://en.wikipedia.org/wiki/Pay_for_performance_(healthcare)",
+    "source_name": "Wikipedia - Healthcare Pay for Performance",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Crowding out of intrinsic motivation occurs when extrinsic rewards reduce internal desire — paying blood donors can decrease donation rates.",
+    "source_url": "https://en.wikipedia.org/wiki/Overjustification_effect",
+    "source_name": "Wikipedia - Crowding Out",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Prize-linked savings accounts combine lottery elements with savings — offering large prizes instead of interest increases savings rates among low-income populations.",
+    "source_url": "https://en.wikipedia.org/wiki/Prize-linked_savings_account",
+    "source_name": "Wikipedia - Prize-Linked Savings",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The broken windows theory in economics suggests visible disorder encourages more disorder — though empirical support is mixed, it influenced urban policing policy.",
+    "source_url": "https://en.wikipedia.org/wiki/Broken_windows_theory",
+    "source_name": "Wikipedia - Broken Windows",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Gift economies in anthropology challenge homo economicus — Malinowski's study of the Kula ring showed exchange systems based on reciprocity rather than profit.",
+    "source_url": "https://en.wikipedia.org/wiki/Gift_economy",
+    "source_name": "Wikipedia - Gift Economy",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The 'shirking model' explains why firms pay above-market wages — workers won't risk losing good jobs by slacking, so high wages increase productivity.",
+    "source_url": "https://en.wikipedia.org/wiki/Efficiency_wage",
+    "source_name": "Wikipedia - Efficiency Wage",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Social capital — trust, norms, and networks — affects economic outcomes; Robert Putnam found Italy's regional economic differences correlated with civic engagement.",
+    "source_url": "https://en.wikipedia.org/wiki/Social_capital",
+    "source_name": "Wikipedia - Social Capital",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Tournament theory explains why CEO pay is so high — top prizes must be large enough to motivate all contestants throughout their careers.",
+    "source_url": "https://en.wikipedia.org/wiki/Tournament_theory",
+    "source_name": "Wikipedia - Tournament Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Rotating savings and credit associations (ROSCAs) provide financial services without banks — members contribute regularly and take turns receiving the pot.",
+    "source_url": "https://en.wikipedia.org/wiki/Rotating_savings_and_credit_association",
+    "source_name": "Wikipedia - ROSCA",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The Peter Principle suggests employees rise to their level of incompetence — promotions based on current performance lead to mismatches with new responsibilities.",
+    "source_url": "https://en.wikipedia.org/wiki/Peter_principle",
+    "source_name": "Wikipedia - Peter Principle",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Piece rates vs hourly wages create different incentives — windshield installers paid per piece were twice as productive but had higher defect rates.",
+    "source_url": "https://en.wikipedia.org/wiki/Piece_work",
+    "source_name": "Wikipedia - Piece Rates",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Multitasking problems arise when workers are incentivized on measurable tasks at the expense of unmeasurable ones — teachers 'teach to the test' when evaluated on scores.",
+    "source_url": "https://en.wikipedia.org/wiki/Multitasking_(workforce)",
+    "source_name": "Wikipedia - Multitasking",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The ratchet effect in Soviet planning discouraged efficiency — if you exceeded this year's quota, next year's would increase, so managers deliberately underperformed.",
+    "source_url": "https://en.wikipedia.org/wiki/Ratchet_effect",
+    "source_name": "Wikipedia - Ratchet Effect",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Career concerns can substitute for explicit incentives — workers perform well to build reputations, even without bonuses, especially early in careers.",
+    "source_url": "https://en.wikipedia.org/wiki/Career_concerns",
+    "source_name": "Wikipedia - Career Concerns",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Relative performance evaluation reduces risk in compensation — paying based on how you perform versus peers filters out market-wide shocks.",
+    "source_url": "https://en.wikipedia.org/wiki/Relative_performance_evaluation",
+    "source_name": "Wikipedia - Relative Performance Evaluation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The influence costs model shows that lobbying for internal resources wastes organizational time — explaining why firms sometimes give workers fixed budgets instead of making them compete.",
+    "source_url": "https://en.wikipedia.org/wiki/Influence_costs",
+    "source_name": "Wikipedia - Influence Costs",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Team production problems arise when individual contributions are unobservable — leading to free-riding in groups unless mutual monitoring or residual claimant structures are used.",
+    "source_url": "https://en.wikipedia.org/wiki/Team_production",
+    "source_name": "Wikipedia - Team Production",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Up-or-out rules in law firms and academia force promotion or departure — creating powerful incentives for junior workers while sorting talent efficiently.",
+    "source_url": "https://en.wikipedia.org/wiki/Up_or_out",
+    "source_name": "Wikipedia - Up or Out",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Deferred compensation — paying less now but more later — bonds workers to firms and reduces shirking as workers don't want to forfeit accumulated claims.",
+    "source_url": "https://en.wikipedia.org/wiki/Deferred_compensation",
+    "source_name": "Wikipedia - Deferred Compensation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Subjective performance evaluation is necessary when output is hard to measure — but invites favoritism and gaming when managers have discretion.",
+    "source_url": "https://en.wikipedia.org/wiki/Performance_appraisal",
+    "source_name": "Wikipedia - Subjective Evaluation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The hold-up problem occurs after relationship-specific investments — once a factory is built for one customer, that customer can demand price cuts, discouraging initial investment.",
+    "source_url": "https://en.wikipedia.org/wiki/Hold-up_problem",
+    "source_name": "Wikipedia - Hold-Up Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Incomplete contracts theory explains why vertical integration occurs — when all contingencies can't be specified, ownership of assets determines who has residual control rights.",
+    "source_url": "https://en.wikipedia.org/wiki/Incomplete_contracts",
+    "source_name": "Wikipedia - Incomplete Contracts",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "The multi-task problem suggests that strong incentives on one dimension cause neglect of others — leading to balanced scorecard approaches in management.",
+    "source_url": "https://en.wikipedia.org/wiki/Multi-task_principal%E2%80%93agent_analysis",
+    "source_name": "Wikipedia - Multi-Task Problem",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Reputation models show how concern for future dealings enforces honest behavior — online ratings and review systems formalize this mechanism for strangers.",
+    "source_url": "https://en.wikipedia.org/wiki/Reputation",
+    "source_name": "Wikipedia - Reputation",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  },
+  {
+    "text": "Asset bubbles may be rational if there's a chance of selling to a 'greater fool' — even knowing prices are too high, buying can be optimal if you can exit in time.",
+    "source_url": "https://en.wikipedia.org/wiki/Greater_fool_theory",
+    "source_name": "Wikipedia - Greater Fool Theory",
+    "category": "economics_game_theory",
+    "extracted_at": "2026-01-30T21:30:00Z"
+  }
+]

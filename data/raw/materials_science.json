@@ -1,0 +1,1682 @@
+[
+  {
+    "text": "Graphene is the strongest material ever measured on a microscopic scale, with a tensile strength of 130 GPa and a Young's modulus of approximately 1 TPa.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Graphene was first isolated in 2004 by Andre Geim and Konstantin Novoselov using ordinary adhesive tape to peel layers from graphite, earning them the 2010 Nobel Prize in Physics.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A single sheet of graphene is so thin yet so dense that not even helium atoms can pass through it, yet it absorbs only 2.3% of visible light.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Graphene has the highest thermal conductivity of any known material at 5300 W·m−1·K−1, more than twice that of diamond.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A kilogram of graphene would cover an area of 131.2 hectares (about 324 acres), making it possible to cover a football field with less than 1 gram.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Electrons in graphene behave as massless relativistic particles described by the Dirac equation rather than the Schrödinger equation, with speeds reaching 1/300th the speed of light.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Graphene has electron mobility exceeding 15,000 cm²·V⁻¹·s⁻¹ at room temperature, with theoretical limits of 200,000 cm²·V⁻¹·s⁻¹—far higher than silicon semiconductors.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 2015, lithium-coated graphene was shown to exhibit superconductivity, marking the first time this property was observed in graphene.",
+    "source_url": "https://en.wikipedia.org/wiki/Graphene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metamaterials are engineered materials with properties that don't exist in nature, deriving their characteristics from their structure rather than their chemical composition.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Negative-index metamaterials can bend light in the opposite direction from normal materials, enabling potential 'invisibility cloaks' and superlenses that beat the diffraction limit.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Victor Veselago first theoretically described negative-index materials in 1967, but they weren't experimentally demonstrated until 2000 by David R. Smith and colleagues.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 2006, the first imperfect invisibility cloak was demonstrated using gradient-index metamaterials at microwave frequencies.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Acoustic metamaterials can control sound waves in ways impossible with ordinary materials, potentially creating 'sound cloaks' or focusing sound beyond normal limits.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Seismic metamaterials are being developed that could potentially shield buildings from earthquake waves by redirecting seismic energy around structures.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Hyperbolic metamaterials behave as metals for certain light polarizations and as dielectrics for others, enabling extreme control over light propagation.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metamaterial superlenses can resolve images beyond the diffraction limit by recovering evanescent waves that are normally lost in conventional optics.",
+    "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Superconductivity was discovered on April 8, 1911, by Heike Kamerlingh Onnes when he observed that mercury's electrical resistance dropped to zero at 4.2 K.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Electric currents in superconducting coils can persist for years without any measurable degradation—theoretical estimates suggest lifetimes exceeding the age of the universe.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A current was maintained in a superconducting gravimeter in Belgium for 28 years, 7 months, and 27 days (August 1995 to March 2024) without any applied voltage.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The Meissner effect causes superconductors to completely expel magnetic fields from their interior, enabling magnetic levitation of superconducting materials above magnets.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "High-temperature superconductors were discovered in 1986 by Georg Bednorz and K. Alex Müller, who found ceramic materials that superconduct above 35 K.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "YBCO (yttrium barium copper oxide) superconducts at 92 K, above liquid nitrogen's boiling point (77 K), making superconducting applications far more practical and affordable.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "As of 2015, the highest critical temperature for a conventional superconductor is 203 K (-70°C) for hydrogen sulfide (H₂S), though it requires extreme pressure of about 90 GPa.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Cooper pairs are the mechanism behind superconductivity—electrons pair up through phonon interactions, allowing them to flow without resistance as a quantum superfluid.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The global economic activity dependent on superconductivity was estimated at about €5 billion in 2014, with MRI systems accounting for about 80% of that total.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Twisted bilayer graphene at a 'magic angle' of 1.1° can become superconducting at about 1.7 K, discovered in 2018, opening new avenues in materials research.",
+    "source_url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Aerogel is the lightest solid material ever created, with some varieties being 99.98% air by volume and having densities as low as 1.9 mg/cm³.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Aerogel was invented in 1931 by Samuel Kistler as the result of a bet about who could replace the liquid in 'jellies' with gas without causing shrinkage.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Silica aerogel has such low thermal conductivity (0.003 W·m⁻¹·K⁻¹) that a flower can rest on aerogel suspended over a flame without wilting.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Aerogel's nickname 'frozen smoke' comes from its translucent, ghost-like appearance caused by Rayleigh scattering of light in its nanoscale pore structure.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "NASA used aerogel on the Stardust spacecraft to capture comet dust particles traveling at 6 km/s—the particles would vaporize on any solid surface but were gently trapped in aerogel.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A 2.5 kg brick can be supported by a piece of aerogel with a mass of only 2 grams, despite aerogel being extremely fragile and shattering like glass under pressure.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon aerogels can have surface areas up to 1,000 m²/g and are used in supercapacitors with capacitance values reaching thousands of farads.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "An 80-gram carbon nanotube aerogel could theoretically cover the wings of a jumbo jet to provide continuous anti-icing heating at low power.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Silica aerogel held 15 Guinness World Records for material properties until 2011, including best insulator and lowest-density solid.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Aerographene, made from graphene, surpassed aerogel in 2013 as the lightest solid material with a density of just 0.16 mg/cm³—about 7.5 times lighter than air.",
+    "source_url": "https://en.wikipedia.org/wiki/Aerogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon nanotubes were first clearly imaged in 1952 by Soviet scientists Radushkevich and Lukyanovich, but this discovery was largely unknown in the West during the Cold War.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Single-walled carbon nanotubes have diameters about 100,000 times smaller than a human hair (0.5-2.0 nm) and can be thought of as rolled-up graphene sheets.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Multi-walled carbon nanotubes have been tested with tensile strengths up to 63 GPa, and individual shells can reach strengths of 100 GPa—about 100 times stronger than steel.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon nanotubes have the highest specific strength of any known material at up to 48,000 kN·m/kg, compared to 154 kN·m/kg for high-carbon steel.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The longest carbon nanotubes grown so far measure about 0.5 meters (550 mm), reported in 2013, representing electrically uniform arrays on silicon substrates.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The thinnest carbon nanotube is the armchair (2,2) type with a diameter of just 0.3 nm, grown inside a multi-walled carbon nanotube.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon nanotubes can be either metallic conductors or semiconductors depending solely on how the graphene sheet is rolled—a tiny twist changes electrical properties dramatically.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 2020, archaeologists discovered ~2600-year-old pottery from Keezhadi, India, whose coatings contain carbon nanotubes—explaining their remarkable durability over millennia.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Multi-walled carbon nanotubes have inner shells that can slide telescopically with extremely low friction, potentially serving as nanoscale bearings and springs.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon nanobuds combine carbon nanotubes with fullerene 'buds' covalently bonded to their sidewalls, creating exceptionally good field emitters.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Shape-memory alloys can 'remember' their original shape and return to it when heated, even after being bent or deformed when cold.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nitinol (nickel-titanium) shape-memory alloy was discovered by accident in 1962 when a bent sample stretched back to its original shape after someone held a pipe lighter under it.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Shape-memory alloys can recover up to 8% plastic strain—16 times more than conventional steel's 0.5% maximum recoverable strain.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The 2014 Chevrolet Corvette was the first vehicle to use shape-memory alloy actuators, replacing heavier motors to control the hatch vent.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Boeing and NASA developed Variable Geometry Chevrons using NiTi shape-memory alloys that change shape based on temperature to make jet engines quieter and more efficient.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "About 50% of the 250,000 heart valve replacements performed annually in the US use mechanical valves made with Nitinol shape-memory alloy.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferromagnetic shape-memory alloys can change shape in response to magnetic fields rather than temperature, enabling faster and more efficient actuation.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Two-way shape-memory alloys can 'remember' two different shapes—one at low temperature and one at high temperature—switching between them automatically.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Self-healing materials can automatically repair damage without human intervention, mimicking biological healing processes found in plants and animals.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ancient Roman concrete has self-healing properties—volcanic ash mixed with quicklime allows cracks to heal through crystallization of strätlingite minerals over 1,900 years.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Microcapsule-based self-healing polymers contain tiny capsules of healing agent that rupture when cracks form, releasing chemicals that polymerize and seal the damage.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Some self-healing polymers use Diels-Alder chemistry, allowing broken bonds to reform when heated—the same piece can be healed multiple times.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A soft poly(urea-urethane) network can self-heal at room temperature with 80% efficiency in just 2 hours and 97% efficiency after 24 hours, without any catalyst.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Vascular self-healing materials have networks of hollow channels that can be refilled with healing agent, allowing multiple healing cycles like blood vessels in living tissue.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Biomimetic self-healing foam coatings inspired by the twining liana Aristolochia macrophylla achieved repair efficiencies of 99.9% or more.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The first international conference on self-healing materials was held in 2007, marking the emergence of this field as a widely recognized area of study.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Vitrimers are a new class of polymers that bridge thermoplastics and thermosets, using dynamic covalent bonds that can flow like liquids when heated but maintain structural integrity.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Spider dragline silk has a tensile strength comparable to high-grade steel (1.3 GPa) but at one-sixth the density, making it weight-for-weight five times stronger than steel.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A strand of spider silk long enough to circle the Earth would weigh only about 2 kilograms (4.4 lb).",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Darwin's bark spider (Caerostris darwini) produces the toughest known biological material—silk averaging 350 MJ/m³ toughness, more than 10 times tougher than Kevlar.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A single spider can produce up to seven different types of silk from different glands, each optimized for different purposes like webs, egg sacs, or prey wrapping.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Aciniform silk used to wrap prey is two to three times as tough as dragline silk, making it the toughest of the seven silk types spiders produce.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Spider silk can stretch up to five times its original length without breaking, combining high strength with exceptional elasticity—properties rarely found together.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Spider silk maintains its strength from -40°C to 220°C, an unusually wide temperature range for a protein-based material.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "When exposed to water, dragline silk undergoes 'supercontraction,' shrinking up to 50% in length—possibly a natural mechanism to retension webs using morning dew.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A garden cross spider (Araneus diadematus) has about 500 pyriform glands, 4 ampullate glands, 300 aciniform glands, and several other specialized silk-producing glands.",
+    "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Piezoelectricity is the electric charge that accumulates in certain materials—including crystals, ceramics, bone, DNA, and proteins—in response to mechanical stress.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Piezoelectricity was discovered in 1880 by brothers Pierre and Jacques Curie using crystals of tourmaline, quartz, topaz, cane sugar, and Rochelle salt.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A 1 cm³ cube of quartz with 2 kN of correctly applied force can generate a voltage of 12,500 volts through the piezoelectric effect.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The first practical piezoelectric application was sonar during World War I, developed by Paul Langevin in 1917 for detecting submarines.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Lead zirconate titanate (PZT) is the most common piezoelectric ceramic in use today, capable of changing dimension by about 0.1% when an electric field is applied.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Piezoelectric igniters generate sparks for gas grills and lighters by compressing a ceramic disc—no battery or external power needed.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Human bone is piezoelectric—mechanical stress generates electric signals that help regulate bone growth and remodeling, explaining why exercise strengthens bones.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Of the 32 crystal classes, 20 exhibit piezoelectricity, all of which lack a center of symmetry in their crystal structure.",
+    "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Kevlar was invented by Stephanie Kwolek at DuPont in 1965 while searching for a lightweight, strong fiber for tires during an anticipated gasoline shortage.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Kevlar is five times stronger than steel on an equal-weight basis, with a tensile strength of about 3,000 MPa and a density of only 1.44 g/cm³.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The cloudy, opalescent Kevlar solution Kwolek created was usually thrown away, but she persuaded a technician to test it—discovering that unlike nylon, the fiber didn't break.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 1971, Lester Shubin suggested using Kevlar for bulletproof vests after simply folding it over and shooting at it—the bullets didn't go through.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Kevlar maintains its strength and resilience down to cryogenic temperatures (-196°C) and is actually slightly stronger at low temperatures.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Kevlar 149 is used in aircraft wing leading edges because it's less prone than carbon or glass fiber to break in bird collisions.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The Olympic Stadium in Montreal's retractable roof used over 60,000 sq ft of Kevlar fabric—though it was completed 10 years late and replaced after just 10 years of problems.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ultraviolet light degrades Kevlar (UV degradation), so it's rarely used outdoors without protection from sunlight.",
+    "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nacre (mother-of-pearl) is an organic-inorganic composite made by mollusks, composed of hexagonal aragonite platelets only 0.5 μm thick arranged in layers like bricks and mortar.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nacre is about 3,000 times tougher than the aragonite mineral it's made from, due to its hierarchical brick-and-mortar structure with elastic protein layers.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The iridescence of nacre comes from the fact that its aragonite platelet thickness (about 0.5 μm) is close to the wavelength of visible light, causing interference.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "When dehydrated, nacre becomes brittle like pure aragonite—water acts as a plasticizer for the organic protein layers, greatly improving toughness.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 2014, researchers used lasers to create nacre-like 'micro-cracks' in glass, making it 200 times tougher than untreated glass by controlling how cracks propagate.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A 2021 study found that nacre initially forms with spiral defects that draw toward each other and cancel out as layers build, resulting in perfectly ordered later layers.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Scientists have successfully created calcium-based synthetic nacre in labs by mimicking its natural growth process since 2012.",
+    "source_url": "https://en.wikipedia.org/wiki/Nacre",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Titanium alloys are as strong as steel but 45% lighter, and twice as strong as aluminum alloys while only 60% heavier.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ti-6Al-4V (Grade 5) is the 'workhorse' titanium alloy, comprising over 70% of all titanium alloy production worldwide.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Titanium alloys have exceptional corrosion resistance to seawater, making them ideal for propeller shafts, rigging, and marine applications.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Titanium doesn't react within the human body, making titanium alloys the material of choice for artificial joints, dental implants, and fracture plates.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Beta titanium alloys replaced stainless steel in orthodontics in the 1980s because they have elastic deflections almost twice those of stainless steel.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Pure titanium undergoes an allotropic transformation at about 890°C from hexagonal α phase to body-centered cubic β phase.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ti-6Al-4V-ELI (Extra Low Interstitial) is the most commonly used medical implant-grade titanium alloy due to its biocompatibility and modulus matching human bone.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Quantum dots are semiconductor nanocrystals so small (2-10 nm) that their electronic and optical properties are governed by quantum mechanical effects.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Quantum dots emit different colors based purely on their size: larger dots (5-6 nm) emit red/orange, while smaller dots (2-3 nm) emit blue/green.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Quantum dots are sometimes called 'artificial atoms' because their confined electrons exhibit discrete energy levels similar to natural atoms.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "A single quantum dot can contain as few as 100 to 100,000 atoms—about 3 million quantum dots could fit side by side within the width of a human thumb.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Quantum dots are used in QLED TVs to produce purer, more vibrant colors than traditional LED displays while being more energy efficient.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Self-assembled quantum dots form spontaneously during molecular beam epitaxy when materials with different lattice constants are deposited on each other (Stranski-Krastanov growth).",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ultra-small CMOS transistors (20 nm × 20 nm) behave as single electron quantum dots at cryogenic temperatures, showing potential for quantum computing applications.",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluid is a liquid that becomes strongly magnetized in the presence of a magnetic field, composed of nanoscale magnetic particles suspended in a carrier fluid.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluid was invented in 1963 by NASA's Steve Papell to create rocket fuel that could be magnetically drawn toward a fuel pump in weightless space conditions.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "In 2019, researchers created a permanently magnetic ferrofluid that retains magnetization even when the external magnetic field is removed—previously thought impossible.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluids form characteristic 'spikes' (normal-field instability) when exposed to strong magnetic fields, as the magnetic energy causes the surface to deform into peaks.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluids are used in hard disk drives to form liquid seals around spinning shafts, preventing debris from entering while allowing frictionless rotation.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "About 300 million sound-generating devices per year are produced with ferrofluid inside, including laptop speakers, headphones, and earbuds for cooling and damping.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluid in loudspeakers creates a 'magnetic pump'—since the fluid becomes less magnetic when hot, cold ferrofluid replaces hot ferrofluid near the voice coil, passively cooling it.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ferrofluids can self-assemble into nanometer-scale needle-like tips that emit jets, potentially serving as propulsion systems for small satellites like CubeSats.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Smart glass can switch between transparent and opaque states electrically, with some types maintaining their state without continuous power consumption.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nippon Sheet Glass launched the first commercial switchable smart glass (UMU) in 1987, capable of toggling between transparent and opaque states.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The term 'smart window' was coined in the 1980s by Swedish physicist Claes-Göran Granqvist while brainstorming energy-efficient building materials.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Electrochromic smart glass requires only a burst of electricity to change opacity and then maintains its state with minimal additional power.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The Boeing 787 Dreamliner features electrochromic windows that replace traditional pull-down window shades, allowing passengers to electronically dim their view.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Suspended-particle device (SPD) smart glass contains rod-like nanoparticles that randomly scatter light when off but align to become transparent when voltage is applied.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Micro-blinds on smart glass are rolled metal structures so small they're invisible to the eye, unfurling to block light when voltage is applied.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Tungsten-doped vanadium dioxide coating can make smart glass that automatically reflects infrared light above 29°C (84°F), self-regulating building temperature.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Eureka Tower in Melbourne has a glass observation cube that projects 3 meters from the building 300 meters up—the glass is opaque as you enter, then turns clear once you're over the edge.",
+    "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Diamond has the highest thermal conductivity of any naturally occurring material at about 2,200 W·m⁻¹·K⁻¹, more than five times higher than copper.",
+    "source_url": "https://en.wikipedia.org/wiki/Diamond",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Vantablack absorbs up to 99.965% of visible light, making it the blackest material ever created by humans.",
+    "source_url": "https://www.surreynanosystems.com",
+    "source_name": "Surrey NanoSystems",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metallic glass (amorphous metal) has no crystal structure—atoms are arranged randomly like in a liquid, giving it unusual strength and elasticity.",
+    "source_url": "https://en.wikipedia.org/wiki/Amorphous_metal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Liquid metal alloys like Galinstan (gallium-indium-tin) are liquid at room temperature but non-toxic, unlike mercury, and are used in flexible electronics.",
+    "source_url": "https://en.wikipedia.org/wiki/Galinstan",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Transparent aluminum (aluminum oxynitride, ALON) is a ceramic material four times harder than fused silica glass and 85% as hard as sapphire.",
+    "source_url": "https://en.wikipedia.org/wiki/Aluminium_oxynitride",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbyne, a chain of carbon atoms linked by alternating single and triple bonds, has a tensile stiffness roughly twice that of graphene.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbyne",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Limpet teeth are the strongest known biological material, made of goethite nanofibers within a protein matrix, with tensile strength between 3.0 and 6.5 GPa.",
+    "source_url": "https://en.wikipedia.org/wiki/Limpet",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Mussel byssus threads can stick to nearly any surface underwater using DOPA (dihydroxyphenylalanine), inspiring development of medical adhesives and waterproof glues.",
+    "source_url": "https://en.wikipedia.org/wiki/Byssus",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Gecko feet use van der Waals forces through millions of microscopic hair-like setae, allowing them to stick to surfaces without any liquid adhesive.",
+    "source_url": "https://en.wikipedia.org/wiki/Gecko",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Abalone shell is made of calcium carbonate but is 3,000 times more fracture-resistant than the mineral alone due to its brick-and-mortar microstructure.",
+    "source_url": "https://en.wikipedia.org/wiki/Abalone",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Wood is a natural composite material of cellulose fibers embedded in a lignin matrix, inspiring artificial fiber-reinforced composites.",
+    "source_url": "https://en.wikipedia.org/wiki/Wood",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Conductive polymers like polyacetylene can conduct electricity while remaining lightweight and flexible, earning their discoverers the 2000 Nobel Prize in Chemistry.",
+    "source_url": "https://en.wikipedia.org/wiki/Conductive_polymer",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "PEDOT:PSS is a conductive polymer that can be printed like ink, enabling flexible displays, solar cells, and electronic textiles.",
+    "source_url": "https://en.wikipedia.org/wiki/PEDOT:PSS",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Shape-memory polymers are polymeric 'smart materials' that can return from a deformed state to their original shape when triggered by heat, light, or other stimuli.",
+    "source_url": "https://en.wikipedia.org/wiki/Shape-memory_polymer",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ultra-high-molecular-weight polyethylene (UHMWPE) is used in bulletproof vests and artificial joints—it's 15 times more abrasion-resistant than carbon steel.",
+    "source_url": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Dyneema (UHMWPE fiber) has the highest strength-to-weight ratio of any fiber, 15 times stronger than steel on a weight basis, and floats on water.",
+    "source_url": "https://en.wikipedia.org/wiki/Dyneema",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Gallium arsenide solar cells are more efficient than silicon cells and are used on Mars rovers and satellites, converting up to 29% of sunlight to electricity.",
+    "source_url": "https://en.wikipedia.org/wiki/Gallium_arsenide",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Perovskite solar cells went from 3.8% efficiency in 2009 to over 25% by 2020—the fastest efficiency improvement of any solar technology in history.",
+    "source_url": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Boron nitride nanotubes are structurally similar to carbon nanotubes but electrically insulating and can withstand higher temperatures (up to 900°C in air).",
+    "source_url": "https://en.wikipedia.org/wiki/Boron_nitride_nanotube",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Hexagonal boron nitride is called 'white graphene' because of its similar structure to graphite, but it's an excellent electrical insulator and lubricant.",
+    "source_url": "https://en.wikipedia.org/wiki/Boron_nitride",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Cubic boron nitride is the second hardest material after diamond and is used to machine hardened steel because it doesn't react with iron like diamond does.",
+    "source_url": "https://en.wikipedia.org/wiki/Boron_nitride",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Tungsten carbide is so hard it's used to make armor-piercing ammunition, with a Mohs hardness of 9-9.5 (diamond is 10).",
+    "source_url": "https://en.wikipedia.org/wiki/Tungsten_carbide",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Damascus steel, famous for its legendary sharpness and wavy patterns, may have contained carbon nanotubes formed accidentally during forging, according to research.",
+    "source_url": "https://en.wikipedia.org/wiki/Damascus_steel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "High-entropy alloys contain five or more elements in roughly equal proportions, creating unusual properties that can't be achieved with traditional alloys.",
+    "source_url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The mantis shrimp's club can withstand repeated high-velocity impacts due to its unique helicoidal structure of chitin fibers, inspiring impact-resistant materials.",
+    "source_url": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Auxetic materials have a negative Poisson's ratio—they get thicker perpendicular to the applied force when stretched, unlike normal materials which get thinner.",
+    "source_url": "https://en.wikipedia.org/wiki/Auxetic",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Hydrogels can absorb up to 500-1000 times their dry weight in water while maintaining structural integrity, used in contact lenses and drug delivery.",
+    "source_url": "https://en.wikipedia.org/wiki/Hydrogel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bioactive glass can bond directly to bone and stimulate bone growth—used in over a million patients for bone repair since the 1980s.",
+    "source_url": "https://en.wikipedia.org/wiki/Bioactive_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Hydroxyapatite, the mineral component of bone and teeth, is synthesized for bone grafts and dental implant coatings because the body accepts it as natural tissue.",
+    "source_url": "https://en.wikipedia.org/wiki/Hydroxyapatite",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Polylactic acid (PLA) is a biodegradable plastic made from corn starch or sugarcane, decomposing in industrial composters within 90 days.",
+    "source_url": "https://en.wikipedia.org/wiki/Polylactic_acid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bacterial cellulose produced by Gluconacetobacter xylinus is purer than plant cellulose and is used for wound dressings and artificial blood vessels.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacterial_cellulose",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Silk fibroin from silkworms is FDA-approved for use in medical devices and can be processed into films, scaffolds, and microspheres for tissue engineering.",
+    "source_url": "https://en.wikipedia.org/wiki/Fibroin",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Chitosan derived from shrimp shells has antimicrobial properties and is used in wound dressings, water purification, and biodegradable food packaging.",
+    "source_url": "https://en.wikipedia.org/wiki/Chitosan",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Carbon fiber reinforced polymers (CFRP) have strength-to-weight ratios 10 times better than steel, revolutionizing aerospace and automotive industries.",
+    "source_url": "https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Fiberglass (glass-reinforced plastic) was first patented in 1936 and is now one of the most widely used composite materials, found in boats, cars, and bathtubs.",
+    "source_url": "https://en.wikipedia.org/wiki/Fiberglass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Reinforced concrete combines concrete's compressive strength with steel's tensile strength, enabling structures like skyscrapers that neither material could achieve alone.",
+    "source_url": "https://en.wikipedia.org/wiki/Reinforced_concrete",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "MAX phases are layered ceramics that combine ceramic and metallic properties—heat resistant like ceramics but machinable and thermally conductive like metals.",
+    "source_url": "https://en.wikipedia.org/wiki/MAX_phases",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "MXenes, discovered in 2011, are 2D materials derived from MAX phases that show promise for batteries, supercapacitors, and electromagnetic shielding.",
+    "source_url": "https://en.wikipedia.org/wiki/MXene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Magnetocaloric materials heat up when magnetized and cool when demagnetized—they could enable refrigerators without compressors or harmful refrigerants.",
+    "source_url": "https://en.wikipedia.org/wiki/Magnetic_refrigeration",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Thermoelectric materials can convert heat directly into electricity (Seebeck effect) or use electricity for cooling (Peltier effect) with no moving parts.",
+    "source_url": "https://en.wikipedia.org/wiki/Thermoelectric_materials",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bismuth telluride is the most commonly used thermoelectric material, found in portable coolers and car seat heaters/coolers.",
+    "source_url": "https://en.wikipedia.org/wiki/Bismuth_telluride",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Photocatalytic titanium dioxide can break down pollutants and kill bacteria when exposed to UV light, used in self-cleaning windows and air purifiers.",
+    "source_url": "https://en.wikipedia.org/wiki/Titanium_dioxide",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Superhydrophobic surfaces inspired by lotus leaves repel water so effectively that droplets roll off carrying dirt particles—enabling self-cleaning materials.",
+    "source_url": "https://en.wikipedia.org/wiki/Lotus_effect",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The pitcher plant's surface is so slippery that insects slide off into its digestive fluid—inspiring SLIPS (Slippery Liquid-Infused Porous Surfaces) coatings.",
+    "source_url": "https://en.wikipedia.org/wiki/Nepenthes",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Stainless steel was discovered accidentally by Harry Brearley in 1913 when he noticed a discarded chromium-steel alloy hadn't rusted in a scrap pile.",
+    "source_url": "https://en.wikipedia.org/wiki/Stainless_steel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Maraging steels achieve yield strengths up to 2,400 MPa through precipitation hardening with nickel, cobalt, and molybdenum—used in aerospace and missile casings.",
+    "source_url": "https://en.wikipedia.org/wiki/Maraging_steel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Inconel superalloys can maintain strength at temperatures up to 1,000°C, used in jet engine turbine blades where temperatures melt ordinary metals.",
+    "source_url": "https://en.wikipedia.org/wiki/Inconel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Single-crystal turbine blades grown with no grain boundaries can operate at higher temperatures, improving jet engine efficiency by 10-20%.",
+    "source_url": "https://en.wikipedia.org/wiki/Single_crystal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Thermal barrier coatings made of yttria-stabilized zirconia protect turbine blades, allowing engines to operate 100-200°C hotter than the blade material alone could survive.",
+    "source_url": "https://en.wikipedia.org/wiki/Thermal_barrier_coating",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Invar (iron-nickel alloy) has an extremely low coefficient of thermal expansion, expanding only one-tenth as much as steel when heated—crucial for precision instruments.",
+    "source_url": "https://en.wikipedia.org/wiki/Invar",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Negative thermal expansion materials like zirconium tungstate actually shrink when heated, used to compensate for thermal expansion in precision assemblies.",
+    "source_url": "https://en.wikipedia.org/wiki/Negative_thermal_expansion",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bulk metallic glasses can be twice as strong as steel while being elastic enough to be deformed like plastic, with no grain boundaries to cause weakness.",
+    "source_url": "https://en.wikipedia.org/wiki/Bulk_metallic_glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Gorilla Glass used in smartphones is an alkali-aluminosilicate sheet toughened by ion exchange—it can survive being dropped onto concrete from over a meter.",
+    "source_url": "https://en.wikipedia.org/wiki/Gorilla_Glass",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Prince Rupert's drops can withstand hammer blows on the bulb end but explode violently if the thin tail is broken due to extreme internal stress from rapid cooling.",
+    "source_url": "https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Transparent ceramics like spinel (MgAl₂O₄) are used for armor windows, being lighter and harder than bulletproof glass.",
+    "source_url": "https://en.wikipedia.org/wiki/Transparent_ceramics",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Syntactic foam contains hollow microspheres within a resin matrix, used in deep-sea submersibles because it provides buoyancy while resisting crushing pressure.",
+    "source_url": "https://en.wikipedia.org/wiki/Syntactic_foam",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metal foam is up to 95% air but can absorb impact energy far better than solid metal of the same weight, used in automotive crash structures.",
+    "source_url": "https://en.wikipedia.org/wiki/Metal_foam",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Shrilk, made from chitosan and fibroin, is a biodegradable plastic that's half the weight of aluminum and as strong as aluminum alloy.",
+    "source_url": "https://wyss.harvard.edu",
+    "source_name": "Wyss Institute",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Memory foam (viscoelastic polyurethane foam) was developed by NASA in the 1960s to improve seat cushioning and crash protection for aircraft.",
+    "source_url": "https://en.wikipedia.org/wiki/Memory_foam",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Self-healing concrete contains bacteria that produce limestone when water enters cracks, sealing them automatically and potentially doubling concrete's lifespan.",
+    "source_url": "https://en.wikipedia.org/wiki/Self-healing_concrete",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Programmable matter aims to create materials that can change their physical properties (shape, density, modulus, optical properties) on command.",
+    "source_url": "https://en.wikipedia.org/wiki/Programmable_matter",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Claytronics is a concept for programmable matter using tiny robots called 'catoms' that could reconfigure into any shape or texture on demand.",
+    "source_url": "https://en.wikipedia.org/wiki/Claytronics",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "4D printing creates objects that can change shape over time when triggered by water, heat, or light—adding time as the fourth dimension to 3D printing.",
+    "source_url": "https://en.wikipedia.org/wiki/4D_printing",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "DNA origami uses genetic material as a construction material, folding DNA strands into nanoscale shapes with atomic precision.",
+    "source_url": "https://en.wikipedia.org/wiki/DNA_origami",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Cellulose nanocrystals extracted from wood pulp are stronger than Kevlar and could replace carbon fiber in composites while being renewable and biodegradable.",
+    "source_url": "https://en.wikipedia.org/wiki/Cellulose_nanocrystal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bamboo has a higher compressive strength than concrete and higher tensile strength than steel by weight, and grows up to 1 meter per day.",
+    "source_url": "https://en.wikipedia.org/wiki/Bamboo",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The 2023 Nobel Prize in Chemistry was awarded for quantum dot discovery and development, recognizing their revolutionary impact on displays, lighting, and medicine.",
+    "source_url": "https://www.nobelprize.org",
+    "source_name": "Nobel Prize",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Zeolites are microporous materials with pore sizes of 0.3-2 nm—used to separate molecules by size, crack petroleum, and remove radioactive cesium from water.",
+    "source_url": "https://en.wikipedia.org/wiki/Zeolite",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metal-organic frameworks (MOFs) have the highest surface areas of any materials—up to 7,000 m²/g—enabling exceptional gas storage and catalysis.",
+    "source_url": "https://en.wikipedia.org/wiki/Metal-organic_framework",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Covalent organic frameworks (COFs) are crystalline porous materials made entirely of light elements (C, H, N, O, B) linked by strong covalent bonds.",
+    "source_url": "https://en.wikipedia.org/wiki/Covalent_organic_framework",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Phosphorene (2D black phosphorus) is a semiconductor with a tunable bandgap, unlike graphene which has none, making it promising for electronics.",
+    "source_url": "https://en.wikipedia.org/wiki/Phosphorene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Silicene, stanene, and germanene are 2D materials made from silicon, tin, and germanium respectively, each with unique properties beyond graphene.",
+    "source_url": "https://en.wikipedia.org/wiki/Silicene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Topological insulators conduct electricity only on their surfaces while being insulators in the bulk, potentially revolutionizing spintronics and quantum computing.",
+    "source_url": "https://en.wikipedia.org/wiki/Topological_insulator",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Weyl semimetals host quasiparticles called Weyl fermions that behave as if they're massless, potentially enabling ultra-high-speed electronic devices.",
+    "source_url": "https://en.wikipedia.org/wiki/Weyl_semimetal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Photonic crystals can be engineered to have 'photonic band gaps' that forbid certain light frequencies from propagating—enabling control over light like semiconductors control electrons.",
+    "source_url": "https://en.wikipedia.org/wiki/Photonic_crystal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Liquid crystals used in displays exist in a state between solid crystals and liquids, with molecules that flow like liquids but maintain some crystal-like order.",
+    "source_url": "https://en.wikipedia.org/wiki/Liquid_crystal",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Electrorheological fluids can change from liquid to solid-like in milliseconds when an electric field is applied—used in dampers and clutches.",
+    "source_url": "https://en.wikipedia.org/wiki/Electrorheological_fluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Magnetorheological fluids stiffen when exposed to magnetic fields, used in adaptive suspension systems that can adjust damping hundreds of times per second.",
+    "source_url": "https://en.wikipedia.org/wiki/Magnetorheological_fluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Non-Newtonian fluids like oobleck (cornstarch and water) become harder when struck quickly but flow like liquid under slow pressure.",
+    "source_url": "https://en.wikipedia.org/wiki/Non-Newtonian_fluid",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Dilatant materials in protective gear harden on impact—D3O orange putty is soft and flexible until struck, when it becomes rigid and absorbs force.",
+    "source_url": "https://en.wikipedia.org/wiki/D3o",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Superalloys containing rare earth elements like rhenium can operate at 90% of their melting point—normal alloys fail at 50-70% of melting temperature.",
+    "source_url": "https://en.wikipedia.org/wiki/Superalloy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Molybdenum disulfide (MoS₂) is a 2D semiconductor that could enable thinner, more flexible electronics than silicon, with electrons that behave differently in each valley of its band structure.",
+    "source_url": "https://en.wikipedia.org/wiki/Molybdenum_disulfide",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Transition metal dichalcogenides (TMDs) are a family of layered 2D materials that can be semiconductors, superconductors, or topological insulators depending on composition.",
+    "source_url": "https://en.wikipedia.org/wiki/Transition_metal_dichalcogenide_monolayers",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Heterostructures of 2D materials stacked like atomic Lego blocks can create entirely new materials with properties neither component has alone.",
+    "source_url": "https://en.wikipedia.org/wiki/Van_der_Waals_heterostructure",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Superplastic metals can be stretched to several times their original length without breaking when heated—aluminum superplastic forming creates complex aerospace parts.",
+    "source_url": "https://en.wikipedia.org/wiki/Superplasticity",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Thixotropic materials like ketchup thin when stirred or shaken but thicken when left still—exploited in paints that flow from the brush but don't drip.",
+    "source_url": "https://en.wikipedia.org/wiki/Thixotropy",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nanocellulose paper made from wood fibers can be as strong as cast iron but much lighter, potentially replacing plastic in packaging.",
+    "source_url": "https://en.wikipedia.org/wiki/Nanocellulose",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Bioplastics made from algae can be completely biodegradable in seawater—unlike conventional bioplastics that require industrial composting.",
+    "source_url": "https://en.wikipedia.org/wiki/Algae_fuel",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Mycelium (fungal roots) can be grown into bricks, packaging, and even leather alternatives that are fully biodegradable.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycelium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "E-textiles incorporate conductive threads and flexible electronics into fabrics, enabling garments that can monitor health or charge devices.",
+    "source_url": "https://en.wikipedia.org/wiki/E-textiles",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Electrospinning can produce nanofibers 1000 times thinner than human hair, used in wound dressings, filters, and tissue engineering scaffolds.",
+    "source_url": "https://en.wikipedia.org/wiki/Electrospinning",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Platinum is so catalytically active that 90% of chemical manufacturing processes use platinum group metals as catalysts at some stage.",
+    "source_url": "https://en.wikipedia.org/wiki/Platinum",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Osmium is the densest naturally occurring element at 22.59 g/cm³—a one-liter cube would weigh over 22 kilograms.",
+    "source_url": "https://en.wikipedia.org/wiki/Osmium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Hafnium has the highest melting point of any element that can form oxides—its oxide layer protects it from corrosion even at extreme temperatures.",
+    "source_url": "https://en.wikipedia.org/wiki/Hafnium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Tantalum is used in capacitors because its oxide layer acts as an excellent dielectric, enabling the smallest capacitors with the highest capacitance.",
+    "source_url": "https://en.wikipedia.org/wiki/Tantalum",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Rhenium has the highest melting point of any metal at 3,186°C (after tungsten and carbon) and maintains strength at temperatures where other metals fail.",
+    "source_url": "https://en.wikipedia.org/wiki/Rhenium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Tungsten has the highest melting point of any element at 3,422°C—light bulb filaments are made of tungsten because it glows without melting.",
+    "source_url": "https://en.wikipedia.org/wiki/Tungsten",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Beryllium is 30% lighter than aluminum but 6 times stiffer, used in aerospace and the James Webb Space Telescope's mirrors.",
+    "source_url": "https://en.wikipedia.org/wiki/Beryllium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Indium tin oxide (ITO) is the most widely used transparent conductor, found in virtually all touchscreens and LCD displays.",
+    "source_url": "https://en.wikipedia.org/wiki/Indium_tin_oxide",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Scandium additions of just 0.2-0.5% can double the strength of aluminum alloys while maintaining weldability—used in aircraft and sports equipment.",
+    "source_url": "https://en.wikipedia.org/wiki/Scandium",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Samarium-cobalt magnets maintain their strength at temperatures up to 350°C where neodymium magnets would fail.",
+    "source_url": "https://en.wikipedia.org/wiki/Samarium-cobalt_magnet",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Neodymium magnets are the strongest permanent magnets commercially available, enabling smaller motors, speakers, and hard drives.",
+    "source_url": "https://en.wikipedia.org/wiki/Neodymium_magnet",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Terfenol-D (terbium-dysprosium-iron alloy) is a giant magnetostrictive material that can change length by up to 2 mm per meter when magnetized.",
+    "source_url": "https://en.wikipedia.org/wiki/Terfenol-D",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Nitinol stents can be compressed into a tiny tube for insertion, then expand to their programmed shape at body temperature to prop open arteries.",
+    "source_url": "https://en.wikipedia.org/wiki/Stent",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "The first self-healing material with microcapsules was demonstrated in 2001, achieving up to 75% recovery of virgin fracture toughness.",
+    "source_url": "https://www.nature.com/articles/35057232",
+    "source_name": "Nature",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Borophene, a single layer of boron atoms, was first synthesized in 2015 and has unique properties including high flexibility and conductivity.",
+    "source_url": "https://en.wikipedia.org/wiki/Borophene",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Ice has 18 known crystalline phases, with some exotic forms like Ice VII existing only under extreme pressures found in planetary interiors.",
+    "source_url": "https://en.wikipedia.org/wiki/Ice",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Metallic hydrogen, theorized to be a room-temperature superconductor, may have been briefly created in a laboratory at pressures of 495 GPa in 2017.",
+    "source_url": "https://en.wikipedia.org/wiki/Metallic_hydrogen",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Pentadiamond, a form of carbon predicted by computer simulations, would be 58% harder than conventional diamond if it could be synthesized.",
+    "source_url": "https://en.wikipedia.org/wiki/Superhard_material",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Wurtzite boron nitride is predicted to be 18% harder than diamond under certain conditions, though this hasn't been fully demonstrated experimentally.",
+    "source_url": "https://en.wikipedia.org/wiki/Wurtzite_boron_nitride",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Lonsdaleite, also called hexagonal diamond, forms when meteors containing graphite strike Earth—it may be up to 58% harder than regular diamond.",
+    "source_url": "https://en.wikipedia.org/wiki/Lonsdaleite",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Q-carbon is a new phase of carbon harder than diamond, created by rapidly cooling carbon from a superheated state with lasers.",
+    "source_url": "https://en.wikipedia.org/wiki/Q-carbon",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Amorphous carbon (diamond-like carbon) coatings are used on razor blades, hard drives, and medical implants for their hardness and biocompatibility.",
+    "source_url": "https://en.wikipedia.org/wiki/Diamond-like_carbon",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  },
+  {
+    "text": "Schwarzites are theoretical carbon structures with negative Gaussian curvature (saddle-shaped), recently synthesized inside zeolite templates.",
+    "source_url": "https://en.wikipedia.org/wiki/Schwarzite",
+    "source_name": "Wikipedia",
+    "category": "materials_science",
+    "extracted_at": "2026-01-30T21:10:00Z"
+  }
+]

@@ -1,0 +1,1905 @@
+{
+  "category": "entomology_insects",
+  "extracted_at": "2026-01-30T21:02:00.000Z",
+  "source_agent": "entomology-agent",
+  "total_facts": 412,
+  "facts": [
+    {
+      "text": "Insects are the most diverse group of animals on Earth, with more than one million described species—representing more than half of all known animal species.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The giant dragonfly-like insect Meganeura monyi, which lived around 300 million years ago, had a wingspan of up to 75 cm (2.5 feet)—made possible by the higher oxygen levels of the late Carboniferous period.",
+      "source_url": "https://en.wikipedia.org/wiki/Meganeura",
+      "source_name": "Wikipedia - Meganeura",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Insects are the only invertebrates that have evolved the ability to fly, and insect flight evolved only once in evolutionary history.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect_flight",
+      "source_name": "Wikipedia - Insect Flight",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male moths can detect the pheromones of female moths over distances of more than a kilometer using their highly sensitive antennae.",
+      "source_url": "https://en.wikipedia.org/wiki/Moth",
+      "source_name": "Wikipedia - Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The African cicada Brevisana brevis produces sounds measured at 106.7 decibels at a distance of 50 cm—making it one of the loudest insects in the world.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some moths produce ultrasonic clicks that jam bat sonar, effectively disrupting the bat's echolocation and helping the moth escape predation.",
+      "source_url": "https://en.wikipedia.org/wiki/Tiger_moth",
+      "source_name": "Wikipedia - Tiger Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fireflies produce 'cold light' with no infrared or ultraviolet frequencies—the most efficient light production known in nature, with nearly 100% of energy converted to light.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Female 'femme fatale' Photuris fireflies mimic the flash patterns of Photinus species to lure males of that species close—then eat them to acquire toxic defensive chemicals.",
+      "source_url": "https://en.wikipedia.org/wiki/Photuris",
+      "source_name": "Wikipedia - Photuris",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "In Malaysia and the Great Smoky Mountains of Tennessee, thousands of fireflies synchronize their flashes with remarkable precision, blinking in unison in a phenomenon still not fully understood.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Ant queens can live up to 30 years—estimated to be 100 times longer than solitary insects of similar size—while worker ants typically live 1-3 years.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The total biomass of ants on Earth is estimated at 12 megatons of dry carbon—about 20% of human biomass, but greater than all wild birds and mammals combined.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Trap-jaw ants (Odontomachus) can snap their jaws shut at speeds up to 230 km/h (143 mph), closing within 130 microseconds—the fastest predatory strike in the animal kingdom.",
+      "source_url": "https://en.wikipedia.org/wiki/Odontomachus",
+      "source_name": "Wikipedia - Odontomachus",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some ants use their trap-jaws as a catapult—snapping them against the ground to launch themselves backward through the air to escape threats.",
+      "source_url": "https://en.wikipedia.org/wiki/Odontomachus",
+      "source_name": "Wikipedia - Odontomachus",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "A Malaysian ant species (Camponotus saundersi) can commit 'suicidal altruism' by rupturing its own body to spray a poisonous, corrosive secretion at attackers.",
+      "source_url": "https://en.wikipedia.org/wiki/Camponotus_saundersi",
+      "source_name": "Wikipedia - Exploding Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The smallest and largest workers in the ant species Carebara diversa show nearly a 500-fold difference in their dry body weights.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some ants practice 'agriculture'—leafcutter ants cultivate fungus gardens, and have been doing so for approximately 50 million years.",
+      "source_url": "https://en.wikipedia.org/wiki/Leafcutter_ant",
+      "source_name": "Wikipedia - Leafcutter Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Honeypot ant workers called 'repletes' are fed until their abdomens swell enormously, serving as living food storage vessels for the colony.",
+      "source_url": "https://en.wikipedia.org/wiki/Honeypot_ant",
+      "source_name": "Wikipedia - Honeypot Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Australian jack jumper ant (Myrmecia pilosula) has only a single pair of chromosomes—the lowest number known for any animal.",
+      "source_url": "https://en.wikipedia.org/wiki/Jack_jumper_ant",
+      "source_name": "Wikipedia - Jack Jumper Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "In the Brazilian ant Forelius pusillus, some workers sacrifice themselves each night by sealing the nest entrance from outside—they have no way to return and die protecting the colony.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Ants are among the few animals besides mammals where interactive teaching has been observed—a knowledgeable forager leads naive nest-mates to food sources through 'tandem running.'",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Argentine ant has formed a 'supercolony' spanning 6,000 km along the Mediterranean coast—workers from distant colonies recognize each other as nestmates.",
+      "source_url": "https://en.wikipedia.org/wiki/Argentine_ant",
+      "source_name": "Wikipedia - Argentine Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The bullet ant's sting is rated as the most painful insect sting on the Schmidt Sting Pain Index, described as 'pure, intense, brilliant pain' lasting up to 24 hours.",
+      "source_url": "https://en.wikipedia.org/wiki/Bullet_ant",
+      "source_name": "Wikipedia - Bullet Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Camponotus floridanus ants perform a form of surgery—amputating the injured legs of nestmates to prevent infection, the first non-human animal known to do this.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Honey bees communicate the location and distance of food sources through the 'waggle dance'—a figure-eight pattern that encodes direction relative to the sun and distance from the hive.",
+      "source_url": "https://en.wikipedia.org/wiki/Waggle_dance",
+      "source_name": "Wikipedia - Waggle Dance",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bees can see ultraviolet light and detect the polarization patterns in skylight, allowing them to navigate even on cloudy days.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee",
+      "source_name": "Wikipedia - Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bumblebees can detect flowers' electromagnetic fields, using this information to determine which flowers have recently been visited by other bees.",
+      "source_url": "https://en.wikipedia.org/wiki/Bumblebee",
+      "source_name": "Wikipedia - Bumblebee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The world's largest bee, Wallace's giant bee (Megachile pluto), can reach 39 mm in length—about the size of a human thumb.",
+      "source_url": "https://en.wikipedia.org/wiki/Megachile_pluto",
+      "source_name": "Wikipedia - Wallace's Giant Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The smallest bees are stingless bee workers less than 2 mm long—small enough to fit through the eye of a needle.",
+      "source_url": "https://en.wikipedia.org/wiki/Stingless_bee",
+      "source_name": "Wikipedia - Stingless Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bee stings are barbed and remain in the victim—when the bee flies away, the sting apparatus tears from its body, killing the bee but continuing to pump venom.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee_sting",
+      "source_name": "Wikipedia - Bee Sting",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Worker honey bees killed defending their hive demonstrate extreme altruism—they willingly sacrifice their lives because their sisters share 75% of their genes.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee",
+      "source_name": "Wikipedia - Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Heliconius butterflies use their proboscis to feed on pollen—unique among butterflies—allowing them to live several months as adults rather than just weeks.",
+      "source_url": "https://en.wikipedia.org/wiki/Heliconius",
+      "source_name": "Wikipedia - Heliconius",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Arctic bumblebee Bombus hyperboreus is a 'cuckoo bee' that invades colonies of other bumblebees, killing the queen and enslaving the workers to raise its own offspring.",
+      "source_url": "https://en.wikipedia.org/wiki/Bombus_hyperboreus",
+      "source_name": "Wikipedia - Arctic Bumblebee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Orchid bees are the only male pollinators—they collect aromatic compounds from orchids to create perfumes that attract females.",
+      "source_url": "https://en.wikipedia.org/wiki/Orchid_bee",
+      "source_name": "Wikipedia - Orchid Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Vulture bees in the genus Trigona are the only bees that feed on carrion instead of pollen—they turn rotting meat into a honey-like substance.",
+      "source_url": "https://en.wikipedia.org/wiki/Vulture_bee",
+      "source_name": "Wikipedia - Vulture Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The myth that 'bumblebees shouldn't be able to fly' arose from flawed 1930s calculations using fixed-wing aerodynamics—bees actually generate lift through complex vortices at the wing edge.",
+      "source_url": "https://en.wikipedia.org/wiki/Bumblebee",
+      "source_name": "Wikipedia - Bumblebee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Beetles comprise about 400,000 described species—roughly 40% of all insect species and 25% of all known animal species.",
+      "source_url": "https://en.wikipedia.org/wiki/Beetle",
+      "source_name": "Wikipedia - Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "When asked what could be inferred about God from studying nature, biologist J.B.S. Haldane reportedly quipped: 'An inordinate fondness for beetles.'",
+      "source_url": "https://en.wikipedia.org/wiki/Beetle",
+      "source_name": "Wikipedia - Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The goliath beetle larva can weigh over 115 grams and reach 11.5 cm in length—among the heaviest insects on Earth.",
+      "source_url": "https://en.wikipedia.org/wiki/Goliathus",
+      "source_name": "Wikipedia - Goliath Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Hercules beetle (Dynastes hercules) is the longest beetle, reaching up to 16.7 cm including its horn—longer than a human hand.",
+      "source_url": "https://en.wikipedia.org/wiki/Hercules_beetle",
+      "source_name": "Wikipedia - Hercules Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The smallest beetle and smallest free-living insect is Scydosella musawasensis, measuring just 325 micrometers—barely visible to the naked eye.",
+      "source_url": "https://en.wikipedia.org/wiki/Scydosella_musawasensis",
+      "source_name": "Wikipedia - Scydosella musawasensis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Diving beetles trap air bubbles under their wing covers (elytra) which act as a 'physical gill'—oxygen diffuses from the water into the bubble as the beetle consumes it.",
+      "source_url": "https://en.wikipedia.org/wiki/Diving_beetle",
+      "source_name": "Wikipedia - Diving Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Whirligig beetles have split eyes—the upper half looks above water while the lower half looks below, allowing them to hunt prey in both environments simultaneously.",
+      "source_url": "https://en.wikipedia.org/wiki/Whirligig_beetle",
+      "source_name": "Wikipedia - Whirligig Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bombardier beetles defend themselves by mixing chemicals in their abdomen that explode out at 100°C (212°F) with an audible pop.",
+      "source_url": "https://en.wikipedia.org/wiki/Bombardier_beetle",
+      "source_name": "Wikipedia - Bombardier Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies have compound eyes with nearly 24,000 individual lenses (ommatidia) each—giving them almost 360-degree vision.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies are among the most efficient predators in nature, catching their prey 95% of the time—compared to lions' 25% success rate.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies can fly in any direction—including backwards and straight up—and hover in place like helicopters.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies use 'motion camouflage' when pursuing prey—they adjust their flight path to appear stationary relative to their target until it's too late.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The globe skimmer dragonfly (Pantala flavescens) makes the longest known insect migration—traveling up to 18,000 km across the Indian Ocean.",
+      "source_url": "https://en.wikipedia.org/wiki/Pantala_flavescens",
+      "source_name": "Wikipedia - Globe Skimmer",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonfly nymphs breathe through gills in their rectum and can jet-propel themselves by squirting water out of their anus.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonfly nymphs have an extendable lower jaw (labium) that shoots out to catch prey in milliseconds—earning them the nickname 'dragons' even as juveniles.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies have been documented accelerating at 4 G in straight flight and 9 G in turns—forces that would cause many humans to black out.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The nymph stage of some dragonflies lasts up to five years, while adults may live only 5-10 weeks.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies cannot walk despite having six legs—their legs are specialized only for perching and catching prey in flight.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male dragonflies have secondary genitalia—they transfer sperm from their abdomen tip to organs near their thorax, then mate in a unique 'heart' or 'wheel' position.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some female dragonflies fake death to avoid mating—they crash-dive to the ground and lie motionless until persistent males leave.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Butterflies taste with their feet—sensors on their tarsi detect sugars and other chemicals when they land on potential food sources.",
+      "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+      "source_name": "Wikipedia - Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Monarch butterflies migrate up to 4,800 km from Canada to Mexico—a journey spanning multiple generations, yet they navigate to the same trees their ancestors left.",
+      "source_url": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+      "source_name": "Wikipedia - Monarch Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The painted lady butterfly makes a 14,000 km round-trip migration from Africa to the Arctic Circle across six generations—nearly double the monarch's famous journey.",
+      "source_url": "https://en.wikipedia.org/wiki/Painted_lady",
+      "source_name": "Wikipedia - Painted Lady",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Butterfly wing colors come from two sources: pigments like melanin for blacks and browns, and structural coloration where microscopic scales create iridescent blues and greens.",
+      "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+      "source_name": "Wikipedia - Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The caterpillar dissolves almost completely into a 'soup' inside its chrysalis before reorganizing into a butterfly—only certain clusters of cells called imaginal discs survive.",
+      "source_url": "https://en.wikipedia.org/wiki/Metamorphosis",
+      "source_name": "Wikipedia - Metamorphosis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some male butterflies plug the female's genital opening after mating to prevent her from mating again—ensuring his genes are passed on.",
+      "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+      "source_name": "Wikipedia - Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Large blue butterfly caterpillars produce chemicals that trick ants into carrying them into their nest, where the caterpillars then eat ant larvae.",
+      "source_url": "https://en.wikipedia.org/wiki/Phengaris_arion",
+      "source_name": "Wikipedia - Large Blue Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Melissa Arctic butterfly overwinters twice as a caterpillar—spending two consecutive winters frozen solid before pupating.",
+      "source_url": "https://en.wikipedia.org/wiki/Oeneis_melissa",
+      "source_name": "Wikipedia - Melissa Arctic",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male butterflies often 'puddle'—gathering at mud, dung, or carrion to extract sodium and other minerals, which they transfer to females during mating.",
+      "source_url": "https://en.wikipedia.org/wiki/Puddling_(behavior)",
+      "source_name": "Wikipedia - Puddling",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Queen Alexandra's birdwing is the world's largest butterfly, with wingspans reaching 31 cm—and is one of only three insects protected under CITES international trade laws.",
+      "source_url": "https://en.wikipedia.org/wiki/Queen_Alexandra%27s_birdwing",
+      "source_name": "Wikipedia - Queen Alexandra's Birdwing",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Butterflies cannot fly if their body temperature drops below 27°C (81°F)—they must bask in sunlight to warm their flight muscles.",
+      "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+      "source_name": "Wikipedia - Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termites are not ants—they're actually highly social cockroaches that evolved eusociality independently from ants, bees, and wasps.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termite queens of the species Macrotermes bellicosus can grow to over 15 cm (6 inches) long—their abdomens swell enormously to produce eggs.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termites can constitute 10% of animal biomass in tropical regions and up to 95% in some tropical rainforests.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Unlike ant colonies ruled by a queen, termite colonies are founded by a monogamous 'royal pair'—a king and queen that mate for life.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termite mounds can alter soil hydrology, nutrient cycling, and vegetation growth so dramatically that they're considered 'ecosystem engineers.'",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some termite species cultivate fungus gardens (Termitomyces) for food—a form of agriculture that evolved independently from leafcutter ants.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Of nearly 3,000 termite species, only about 180 species cause structural damage—the vast majority are ecologically beneficial decomposers.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Praying mantises are the only insects that can turn their heads 180 degrees to look over their 'shoulders.'",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The praying mantis is the only insect known to have stereo vision—they use binocular disparity to judge distances when striking prey.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Female mantises don't always eat their mates—in the wild, only about 25% of encounters result in cannibalism, often when females are hungry.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male mantises can continue mating even after decapitation because the abdominal nerve ganglion controls copulation independently of the brain.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mantises have a single ear located in the center of their chest—they use it specifically to detect bat echolocation and take evasive action.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Flower mantises are aggressive mimics—they look so much like flowers that prey insects land on them expecting nectar, only to become a meal.",
+      "source_url": "https://en.wikipedia.org/wiki/Orchid_mantis",
+      "source_name": "Wikipedia - Orchid Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Brunner's stick mantis reproduces entirely through parthenogenesis—no males have ever been found in this species.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mantises catch prey in 50-70 milliseconds—too fast for the human eye to follow without slow-motion video.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Large mantises regularly hunt and eat small vertebrates including hummingbirds, lizards, frogs, and small snakes.",
+      "source_url": "https://en.wikipedia.org/wiki/Mantis",
+      "source_name": "Wikipedia - Mantis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fleas can jump 50 times their body length—the equivalent of a human jumping over a 75-story building.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fleas store energy in a pad of resilin (a rubber-like protein) that they slowly compress then release explosively—like a compressed spring launching them into the air.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Flea bodies are flattened sideways (not top-to-bottom like most insects), allowing them to slip easily between hairs and feathers of hosts.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "A female flea can lay up to 5,000 eggs in her lifetime—and the entire life cycle from egg to adult can complete in just two weeks under ideal conditions.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Adult fleas can survive several months without feeding—waiting in cocoons for vibrations that signal a potential host is nearby.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Female rabbit fleas can detect hormonal changes in their rabbit host's blood that indicate pregnancy—timing their own reproduction to coincide with the birth of baby rabbits.",
+      "source_url": "https://en.wikipedia.org/wiki/Spilopsyllus_cuniculi",
+      "source_name": "Wikipedia - Rabbit Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fleas transmitted the Black Death, which killed an estimated 75-200 million people in the 14th century—about a third of Europe's population.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea",
+      "source_name": "Wikipedia - Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The chigoe flea (Tunga penetrans) burrows into human skin—usually in feet—where it swells to the size of a pea and causes a disease called tungiasis.",
+      "source_url": "https://en.wikipedia.org/wiki/Chigoe_flea",
+      "source_name": "Wikipedia - Chigoe Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Flea circuses were real Victorian entertainments where fleas 'performed' by pulling miniature carts and appearing to joust—they were actually glued to props.",
+      "source_url": "https://en.wikipedia.org/wiki/Flea_circus",
+      "source_name": "Wikipedia - Flea Circus",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mosquitoes are the deadliest animals on Earth, killing over one million people annually through disease transmission including malaria, dengue, and Zika.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Only female mosquitoes bite—they need blood proteins to develop their eggs, while both males and females drink flower nectar for energy.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mosquito proboscis contains six needle-like stylets—two saw through skin, two hold tissue apart, one injects saliva, and one sucks blood.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mosquitoes inject saliva that contains anticoagulants and immunosuppressants—this saliva causes the itchy reaction, not the blood extraction.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "People with type O blood are significantly more attractive to mosquitoes than those with type A blood.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mosquitoes can detect CO2 from human breath up to 50 meters away—they use this to locate hosts even in complete darkness.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Pregnant women are twice as attractive to malaria-carrying mosquitoes—they exhale more CO2 and have higher body temperatures.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The largest mosquitoes (genus Toxorhynchites) grow up to 18 mm long but never bite—their larvae are predators that eat other mosquito larvae.",
+      "source_url": "https://en.wikipedia.org/wiki/Toxorhynchites",
+      "source_name": "Wikipedia - Toxorhynchites",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male mosquitoes beat their wings 450-600 times per second, producing a distinctive whine that females use to identify potential mates.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Arctic mosquitoes emerge in such enormous numbers during the brief summer that they can drain caribou of 300 ml of blood per day.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Malaria parasites manipulate infected people to produce chemicals that make them more attractive to mosquitoes—increasing the parasite's spread.",
+      "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+      "source_name": "Wikipedia - Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Periodical cicadas spend 13 or 17 years underground as nymphs—these prime-number cycles may have evolved to avoid synchronizing with predator populations.",
+      "source_url": "https://en.wikipedia.org/wiki/Periodical_cicada",
+      "source_name": "Wikipedia - Periodical Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cicadas produce sound using 'tymbals'—drum-like membranes that buckle and unbuckle rapidly up to 400 times per second.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some cicadas can produce sounds up to 120 decibels—loud enough to cause permanent hearing loss in humans at close range.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male cicadas disable their own hearing while calling to prevent damage from their own extremely loud songs.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Malaysian emperor cicada (Megapomponia imperatoria) has a wingspan up to 20 cm—the largest of all cicada species.",
+      "source_url": "https://en.wikipedia.org/wiki/Megapomponia_imperatoria",
+      "source_name": "Wikipedia - Malaysian Emperor Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Desert cicadas can lower their body temperature by 5°C through evaporative cooling—they suck excess sap and excrete water through their skin like sweating.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cicada wings are naturally antibacterial—their surface is covered with nanoscale spikes that physically tear apart bacterial cell membranes on contact.",
+      "source_url": "https://en.wikipedia.org/wiki/Cicada",
+      "source_name": "Wikipedia - Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "When cicadas emerge after 17 years underground, they can number over 1.5 million per acre—overwhelming predators through sheer abundance.",
+      "source_url": "https://en.wikipedia.org/wiki/Periodical_cicada",
+      "source_name": "Wikipedia - Periodical Cicada",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dung beetles can pull 1,141 times their own body weight—equivalent to a human pulling six double-decker buses full of passengers.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dung beetles navigate at night by the Milky Way—they are the only insects known to orient themselves using the galaxy's band of light.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The African dung beetle Scarabaeus zambesianus was the first animal discovered to navigate by polarization patterns in moonlight.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "One elephant produces enough dung daily to support 2 million dung beetles—they compete fiercely for this valuable resource.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some dung beetle species can bury dung 250 times their own weight in a single night.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dung beetles save the U.S. cattle industry an estimated $380 million annually by burying livestock waste and improving soil quality.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Ancient Egyptians revered the scarab dung beetle as a symbol of rebirth—they believed it rolled the sun across the sky like a dung ball.",
+      "source_url": "https://en.wikipedia.org/wiki/Scarab_(artifact)",
+      "source_name": "Wikipedia - Scarab",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Introduction of dung beetles to Australia reduced pestilent bush fly populations by about 90% and dramatically improved cattle pasture quality.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some dung beetles are carnivorous—species like Deltochilum valgum prey on millipedes instead of eating dung.",
+      "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+      "source_name": "Wikipedia - Dung Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The world's longest insect is a stick insect (Phryganistria chinensis), reaching 64 cm (25 inches) with legs extended—longer than a human forearm.",
+      "source_url": "https://en.wikipedia.org/wiki/Phryganistria_chinensis",
+      "source_name": "Wikipedia - Giant Chinese Stick Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Stick insects can regenerate lost limbs—if a leg is lost, it will grow back (though smaller) at the next molt.",
+      "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "source_name": "Wikipedia - Phasmatodea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Many stick insect species reproduce through parthenogenesis—females lay unfertilized eggs that develop into female clones without any males involved.",
+      "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "source_name": "Wikipedia - Phasmatodea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Stick insect eggs often have fatty attachments that attract ants—the ants carry eggs underground where they hatch safely protected from predators.",
+      "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "source_name": "Wikipedia - Phasmatodea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Baby stick insects often mimic ants rather than sticks—they use rapid, ant-like movements and colors to avoid predation before growing large enough to resemble twigs.",
+      "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "source_name": "Wikipedia - Phasmatodea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The heaviest stick insect, Heteropteryx dilatata, can weigh up to 65 grams—as heavy as some small birds.",
+      "source_url": "https://en.wikipedia.org/wiki/Heteropteryx_dilatata",
+      "source_name": "Wikipedia - Giant Malaysian Stick Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Stick insects perform 'rocking' behavior—swaying side to side to mimic vegetation moving in the wind while remaining otherwise motionless.",
+      "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "source_name": "Wikipedia - Phasmatodea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Leaf insects (Phylliidae) are so convincing as plant mimics that even their eggs look like plant seeds and their nymphs' legs look like leaves with bite marks.",
+      "source_url": "https://en.wikipedia.org/wiki/Phylliidae",
+      "source_name": "Wikipedia - Phylliidae",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Insects breathe through a system of tubes called tracheae that deliver oxygen directly to tissues—they have no lungs and their blood doesn't carry oxygen.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The exoskeleton limits insect size—as insects grow larger, the tracheal breathing system becomes less efficient, which is why the heaviest insects weigh under 100 grams.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Insects were the earliest organisms to produce and sense sounds—hearing evolved independently at least 19 times in different insect groups.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Water striders walk on water using superhydrophobic hairs on their legs—each leg can support 15 times the insect's body weight without breaking the surface tension.",
+      "source_url": "https://en.wikipedia.org/wiki/Gerridae",
+      "source_name": "Wikipedia - Water Strider",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The cockroach genus Diploptera is viviparous—unlike most insects, they gestate embryos internally and give birth to live young.",
+      "source_url": "https://en.wikipedia.org/wiki/Diploptera",
+      "source_name": "Wikipedia - Diploptera",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some parasitoid wasps are polyembryonic—a single fertilized egg divides into hundreds of separate embryos, producing many larvae from one egg.",
+      "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+      "source_name": "Wikipedia - Parasitoid Wasp",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Aphids can reproduce so rapidly that a single female could theoretically produce 600 billion descendants in one season if all survived.",
+      "source_url": "https://en.wikipedia.org/wiki/Aphid",
+      "source_name": "Wikipedia - Aphid",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Many aphids are born pregnant—embryos begin developing inside the mother before she is even born herself (telescoping generations).",
+      "source_url": "https://en.wikipedia.org/wiki/Aphid",
+      "source_name": "Wikipedia - Aphid",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The tiger beetle is the fastest running insect—it runs so fast (up to 9 km/h) that it temporarily goes blind because its eyes can't process images quickly enough.",
+      "source_url": "https://en.wikipedia.org/wiki/Tiger_beetle",
+      "source_name": "Wikipedia - Tiger Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Australian tiger beetle (Cicindela hudsoni) can run at 2.5 meters per second—equivalent to 171 body lengths per second, proportionally faster than a cheetah.",
+      "source_url": "https://en.wikipedia.org/wiki/Tiger_beetle",
+      "source_name": "Wikipedia - Tiger Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Deathwatch beetles attract mates by banging their heads against wood—the tapping sound was historically associated with death and gave them their ominous name.",
+      "source_url": "https://en.wikipedia.org/wiki/Deathwatch_beetle",
+      "source_name": "Wikipedia - Deathwatch Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Click beetles can launch themselves up to 30 cm into the air using a 'jack-knife' mechanism that releases stored elastic energy with an audible click.",
+      "source_url": "https://en.wikipedia.org/wiki/Click_beetle",
+      "source_name": "Wikipedia - Click Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Blister beetles contain cantharidin, a defensive chemical so toxic that horses can die from eating hay contaminated with crushed beetles.",
+      "source_url": "https://en.wikipedia.org/wiki/Blister_beetle",
+      "source_name": "Wikipedia - Blister Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Stag beetle males have enlarged mandibles that can be over half their body length—used not for eating but for wrestling rival males.",
+      "source_url": "https://en.wikipedia.org/wiki/Stag_beetle",
+      "source_name": "Wikipedia - Stag Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Weevils have mouthparts at the end of an elongated snout—some species have snouts longer than their entire body.",
+      "source_url": "https://en.wikipedia.org/wiki/Weevil",
+      "source_name": "Wikipedia - Weevil",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Firefly larvae are predators that inject digestive enzymes into snails and slugs through grooved mandibles—they eat their prey from the inside out.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "All fireflies glow as larvae—the bioluminescence originally evolved as a warning signal to predators before being co-opted for adult mating displays.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Firefly luciferase enzyme is so useful for detecting ATP and contamination that it's widely used in forensics, medical research, and food safety testing.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Adult fireflies of some species never eat—they emerge only to mate, lay eggs, and die within a few weeks.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Weaver ants build nests by using their larvae as living glue guns—workers hold larvae and squeeze them to produce silk for stitching leaves together.",
+      "source_url": "https://en.wikipedia.org/wiki/Weaver_ant",
+      "source_name": "Wikipedia - Weaver Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some ant species use 'propaganda pheromones' that confuse enemy ants and cause them to attack each other instead of the invaders.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "When ant colonies detect dead nestmates, they dispose of them immediately—this 'undertaker' behavior is triggered by the smell of oleic acid from decomposition.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Army ants don't build permanent nests—instead, workers link their bodies together to form a living 'bivouac' that shelters the queen and brood.",
+      "source_url": "https://en.wikipedia.org/wiki/Army_ant",
+      "source_name": "Wikipedia - Army Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Leafcutter ants don't eat the leaves they cut—they use them as compost to grow a special fungus that they cultivate and harvest as their only food source.",
+      "source_url": "https://en.wikipedia.org/wiki/Leafcutter_ant",
+      "source_name": "Wikipedia - Leafcutter Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The total number of ants on Earth is estimated at 20 quadrillion (20,000,000,000,000,000) individuals.",
+      "source_url": "https://en.wikipedia.org/wiki/Ant",
+      "source_name": "Wikipedia - Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fire ants form floating rafts during floods—workers link together with their water-repellent exoskeletons to create a living boat that can drift for weeks.",
+      "source_url": "https://en.wikipedia.org/wiki/Fire_ant",
+      "source_name": "Wikipedia - Fire Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Saharan silver ants can survive surface temperatures up to 70°C (158°F)—they have special hairs that reflect solar radiation and cool their bodies.",
+      "source_url": "https://en.wikipedia.org/wiki/Saharan_silver_ant",
+      "source_name": "Wikipedia - Saharan Silver Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Japanese honeybees defend against giant hornets by mobbing them and vibrating their muscles to raise temperature to 47°C (117°F)—lethal to hornets but not bees.",
+      "source_url": "https://en.wikipedia.org/wiki/Apis_cerana_japonica",
+      "source_name": "Wikipedia - Japanese Honeybee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Queen bees can store millions of sperm from a single mating flight, using them to fertilize eggs for 2-5 years until she dies.",
+      "source_url": "https://en.wikipedia.org/wiki/Queen_bee",
+      "source_name": "Wikipedia - Queen Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Worker bees change jobs as they age—young bees nurse larvae, middle-aged bees build comb and process honey, older bees guard the entrance, and the oldest forage.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee",
+      "source_name": "Wikipedia - Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bees have five eyes—two large compound eyes for detecting movement and three small ocelli on top of their head for detecting light intensity.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee",
+      "source_name": "Wikipedia - Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mason bees are so efficient at pollination that just 250 females can pollinate an acre of apple trees—a job requiring 25,000 honeybees.",
+      "source_url": "https://en.wikipedia.org/wiki/Mason_bee",
+      "source_name": "Wikipedia - Mason Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Silkworm moths have been domesticated for so long (over 5,000 years) that they can no longer fly or survive in the wild without human care.",
+      "source_url": "https://en.wikipedia.org/wiki/Bombyx_mori",
+      "source_name": "Wikipedia - Silkworm",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "A single silkworm cocoon contains a continuous silk thread up to 900 meters long—but it takes about 2,500 cocoons to make one pound of silk.",
+      "source_url": "https://en.wikipedia.org/wiki/Silk",
+      "source_name": "Wikipedia - Silk",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cockroaches can live for weeks without their heads—they die only because they can't drink water, not because they need their brain to survive.",
+      "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+      "source_name": "Wikipedia - Cockroach",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cockroaches can run at speeds up to 5 km/h—equivalent to a human running at 330 km/h relative to body size.",
+      "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+      "source_name": "Wikipedia - Cockroach",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The American cockroach can hold its breath for 40 minutes and survive being submerged in water for 30 minutes.",
+      "source_url": "https://en.wikipedia.org/wiki/American_cockroach",
+      "source_name": "Wikipedia - American Cockroach",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cockroaches have been around for approximately 320 million years—they predate dinosaurs by about 70 million years.",
+      "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+      "source_name": "Wikipedia - Cockroach",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Madagascar hissing cockroach produces sound by forcing air through its spiracles—it's one of the few insects that makes sound this way rather than through stridulation.",
+      "source_url": "https://en.wikipedia.org/wiki/Madagascar_hissing_cockroach",
+      "source_name": "Wikipedia - Madagascar Hissing Cockroach",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Locusts can form swarms of billions of individuals covering hundreds of square kilometers—a single swarm can consume the same amount of food as 35,000 people daily.",
+      "source_url": "https://en.wikipedia.org/wiki/Locust",
+      "source_name": "Wikipedia - Locust",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Locusts and grasshoppers are the same insects—locusts are grasshoppers that have entered a 'gregarious phase' triggered by crowding, changing color and behavior.",
+      "source_url": "https://en.wikipedia.org/wiki/Locust",
+      "source_name": "Wikipedia - Locust",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Katydids have ears on their front legs—the tympanal organs are located in slits in their tibiae, allowing them to detect sounds for mating.",
+      "source_url": "https://en.wikipedia.org/wiki/Tettigoniidae",
+      "source_name": "Wikipedia - Katydid",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Earwigs are devoted mothers—females guard their eggs, clean them to prevent fungal growth, and protect their nymphs until they can fend for themselves.",
+      "source_url": "https://en.wikipedia.org/wiki/Earwig",
+      "source_name": "Wikipedia - Earwig",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Froghoppers (spittlebugs) can jump higher than fleas relative to body size—accelerating at 4,000 m/s² (over 400 g) during takeoff.",
+      "source_url": "https://en.wikipedia.org/wiki/Froghopper",
+      "source_name": "Wikipedia - Froghopper",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Asian giant hornets (Vespa mandarinia) can kill up to 40 honeybees per minute—a single hornet can decimate an entire hive in hours.",
+      "source_url": "https://en.wikipedia.org/wiki/Asian_giant_hornet",
+      "source_name": "Wikipedia - Asian Giant Hornet",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Paper wasps have demonstrated the ability to recognize individual faces—they use facial recognition to maintain their social hierarchy.",
+      "source_url": "https://en.wikipedia.org/wiki/Paper_wasp",
+      "source_name": "Wikipedia - Paper Wasp",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fig wasps pollinate figs by crawling inside them, often losing their wings and antennae—they then die inside, and are digested by the fig.",
+      "source_url": "https://en.wikipedia.org/wiki/Fig_wasp",
+      "source_name": "Wikipedia - Fig Wasp",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Parasitoid wasps like Cotesia glomerata can manipulate caterpillars into becoming bodyguards—even after the wasps emerge, the caterpillar protects the cocoons until it starves.",
+      "source_url": "https://en.wikipedia.org/wiki/Cotesia_glomerata",
+      "source_name": "Wikipedia - Cotesia glomerata",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The fairy wasp Dicopomorpha echmepterygis is the smallest known flying insect at just 0.139 mm—smaller than some single-celled organisms.",
+      "source_url": "https://en.wikipedia.org/wiki/Dicopomorpha_echmepterygis",
+      "source_name": "Wikipedia - Dicopomorpha echmepterygis",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Tarantula hawk wasps have one of the most painful stings in the insect world—the advice to victims: 'Lie down and scream.'",
+      "source_url": "https://en.wikipedia.org/wiki/Tarantula_hawk",
+      "source_name": "Wikipedia - Tarantula Hawk",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Velvet ants aren't ants—they're wasps whose wingless females look like furry ants and have one of the most powerful stings of any insect.",
+      "source_url": "https://en.wikipedia.org/wiki/Mutillidae",
+      "source_name": "Wikipedia - Velvet Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Carpenter bees can vibrate flowers at a specific frequency to release pollen—a technique called 'buzz pollination' that honeybees cannot do.",
+      "source_url": "https://en.wikipedia.org/wiki/Carpenter_bee",
+      "source_name": "Wikipedia - Carpenter Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Sweat bees get their name because they're attracted to human sweat—they land on people to drink perspiration for its salt content.",
+      "source_url": "https://en.wikipedia.org/wiki/Halictidae",
+      "source_name": "Wikipedia - Sweat Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The tsetse fly gives birth to one larva at a time, which is already nearly as large as the mother—it's fed 'milk' internally before being deposited.",
+      "source_url": "https://en.wikipedia.org/wiki/Tsetse_fly",
+      "source_name": "Wikipedia - Tsetse Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Houseflies taste with their feet—as soon as they land on food, they can determine whether it's edible.",
+      "source_url": "https://en.wikipedia.org/wiki/Housefly",
+      "source_name": "Wikipedia - Housefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Houseflies can only ingest liquids—they vomit digestive enzymes onto solid food to liquefy it before sucking it up.",
+      "source_url": "https://en.wikipedia.org/wiki/Housefly",
+      "source_name": "Wikipedia - Housefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Blow fly larvae (maggots) are used in medicine—they clean wounds by eating only dead tissue while secreting antimicrobial compounds.",
+      "source_url": "https://en.wikipedia.org/wiki/Maggot_therapy",
+      "source_name": "Wikipedia - Maggot Therapy",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fruit flies share about 60% of their genes with humans—and 75% of genes known to cause disease in humans have a recognizable match in fruit fly DNA.",
+      "source_url": "https://en.wikipedia.org/wiki/Drosophila_melanogaster",
+      "source_name": "Wikipedia - Drosophila melanogaster",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Fruit flies were the first animals sent into space—in 1947, they rode a V-2 rocket to study the effects of radiation at high altitude.",
+      "source_url": "https://en.wikipedia.org/wiki/Animals_in_space",
+      "source_name": "Wikipedia - Animals in Space",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Midges of the family Chironomidae can survive being frozen in liquid helium at -270°C (-454°F)—close to absolute zero.",
+      "source_url": "https://en.wikipedia.org/wiki/Chironomidae",
+      "source_name": "Wikipedia - Chironomidae",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The human botfly lays its eggs on mosquitoes—when the mosquito bites a person, the body heat triggers the eggs to hatch and burrow into the skin.",
+      "source_url": "https://en.wikipedia.org/wiki/Dermatobia_hominis",
+      "source_name": "Wikipedia - Human Botfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Hover flies are masters of aerial precision—they can hover in place, fly backwards, and make turns that would be impossible for any aircraft.",
+      "source_url": "https://en.wikipedia.org/wiki/Hoverfly",
+      "source_name": "Wikipedia - Hoverfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Lacewing larvae camouflage themselves by stacking the carcasses of their prey on their backs—they look like a pile of debris rather than a predator.",
+      "source_url": "https://en.wikipedia.org/wiki/Chrysopidae",
+      "source_name": "Wikipedia - Green Lacewing",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Antlion larvae dig conical pits in sand and wait at the bottom—when prey slides down, they flick sand to prevent escape before dragging victims underground.",
+      "source_url": "https://en.wikipedia.org/wiki/Antlion",
+      "source_name": "Wikipedia - Antlion",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Assassin bugs inject digestive enzymes that liquefy prey from the inside—they then drink the resulting 'insect smoothie.'",
+      "source_url": "https://en.wikipedia.org/wiki/Reduviidae",
+      "source_name": "Wikipedia - Assassin Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some assassin bug species camouflage themselves by covering their bodies with dead ant carcasses—both hiding from prey and deterring predators.",
+      "source_url": "https://en.wikipedia.org/wiki/Reduviidae",
+      "source_name": "Wikipedia - Assassin Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The water scorpion breathes through a snorkel—a tube at the end of its abdomen that reaches the water surface like a built-in breathing straw.",
+      "source_url": "https://en.wikipedia.org/wiki/Nepidae",
+      "source_name": "Wikipedia - Water Scorpion",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Giant water bugs can catch and eat fish, frogs, and even small snakes—they have one of the most painful bites of any insect and are called 'toe-biters.'",
+      "source_url": "https://en.wikipedia.org/wiki/Belostomatidae",
+      "source_name": "Wikipedia - Giant Water Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Male giant water bugs carry eggs on their backs—the female glues them there after mating, and he aerates them until they hatch.",
+      "source_url": "https://en.wikipedia.org/wiki/Belostomatidae",
+      "source_name": "Wikipedia - Giant Water Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Treehoppers have some of the most bizarre shapes in the insect world—their pronotum can grow into structures resembling thorns, ants, or even helicopter rotors.",
+      "source_url": "https://en.wikipedia.org/wiki/Treehopper",
+      "source_name": "Wikipedia - Treehopper",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Scale insects are so motionless and plant-like that many species were historically classified as plant growths rather than animals.",
+      "source_url": "https://en.wikipedia.org/wiki/Scale_insect",
+      "source_name": "Wikipedia - Scale Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Cochineal insects produce carmine dye—it takes 70,000 insects to make one pound of dye, which is still used in food and cosmetics.",
+      "source_url": "https://en.wikipedia.org/wiki/Cochineal",
+      "source_name": "Wikipedia - Cochineal",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Lac insects produce shellac—the original record coating and furniture finish, made from processed secretions of millions of tiny bugs.",
+      "source_url": "https://en.wikipedia.org/wiki/Lac",
+      "source_name": "Wikipedia - Lac",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "New Zealand's wētā can survive being frozen solid—they have antifreeze-like compounds in their blood that protect their cells from ice damage.",
+      "source_url": "https://en.wikipedia.org/wiki/Weta",
+      "source_name": "Wikipedia - Weta",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Giant wētā of New Zealand can weigh up to 70 grams—heavier than a sparrow and among the heaviest insects in the world.",
+      "source_url": "https://en.wikipedia.org/wiki/Giant_weta",
+      "source_name": "Wikipedia - Giant Weta",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The rhinoceros beetle can lift 850 times its own body weight—equivalent to a human lifting 65 tons.",
+      "source_url": "https://en.wikipedia.org/wiki/Rhinoceros_beetle",
+      "source_name": "Wikipedia - Rhinoceros Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Glowworm caves in New Zealand are lit by Arachnocampa luminosa larvae—they create bioluminescent 'fishing lines' of sticky silk to trap prey attracted to their glow.",
+      "source_url": "https://en.wikipedia.org/wiki/Arachnocampa_luminosa",
+      "source_name": "Wikipedia - Arachnocampa luminosa",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The death's-head hawkmoth can enter bee hives and steal honey—it mimics bee scent and produces a squeaking sound that may pacify the bees.",
+      "source_url": "https://en.wikipedia.org/wiki/Acherontia",
+      "source_name": "Wikipedia - Death's-head Hawkmoth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Atlas moths have the largest wing surface area of any insect—up to 400 square centimeters, roughly the size of a dinner plate.",
+      "source_url": "https://en.wikipedia.org/wiki/Atlas_moth",
+      "source_name": "Wikipedia - Atlas Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Sphinx moths (hawk moths) can hover like hummingbirds and have the longest proboscis of any moth—up to 30 cm in some species.",
+      "source_url": "https://en.wikipedia.org/wiki/Sphingidae",
+      "source_name": "Wikipedia - Sphinx Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Darwin predicted that a moth with a 30 cm tongue must exist to pollinate the Madagascar orchid Angraecum sesquipedale—it was discovered 21 years after his death.",
+      "source_url": "https://en.wikipedia.org/wiki/Xanthopan",
+      "source_name": "Wikipedia - Xanthopan",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The peppered moth became a textbook example of evolution—industrial pollution caused dark moths to become more common as light ones were more visible to predators on soot-covered trees.",
+      "source_url": "https://en.wikipedia.org/wiki/Peppered_moth_evolution",
+      "source_name": "Wikipedia - Peppered Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Clothes moths don't actually eat clothes—it's their larvae that digest keratin in wool, silk, and feathers using special gut enzymes.",
+      "source_url": "https://en.wikipedia.org/wiki/Tineola_bisselliella",
+      "source_name": "Wikipedia - Clothes Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Luna moths have no mouths—they live only about one week as adults, just long enough to mate, surviving on energy stored as caterpillars.",
+      "source_url": "https://en.wikipedia.org/wiki/Luna_moth",
+      "source_name": "Wikipedia - Luna Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Io moths have eyespots on their hindwings that they flash at predators—the sudden appearance of 'eyes' startles attackers into hesitating.",
+      "source_url": "https://en.wikipedia.org/wiki/Automeris_io",
+      "source_name": "Wikipedia - Io Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The cabbage white butterfly is one of the most successful invasive insects—introduced accidentally to North America in the 1860s, it's now found across the continent.",
+      "source_url": "https://en.wikipedia.org/wiki/Pieris_rapae",
+      "source_name": "Wikipedia - Cabbage White",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Asian tiger mosquitoes spread globally by laying eggs in used tires—larvae survive shipment in stagnant water collected in tire treads.",
+      "source_url": "https://en.wikipedia.org/wiki/Aedes_albopictus",
+      "source_name": "Wikipedia - Asian Tiger Mosquito",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The brown marmorated stink bug, native to Asia, invaded North America in 1998 and now costs apple growers alone $37 million annually.",
+      "source_url": "https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug",
+      "source_name": "Wikipedia - Brown Marmorated Stink Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Emerald ash borers have killed hundreds of millions of ash trees in North America since arriving in 2002—likely in wooden shipping materials.",
+      "source_url": "https://en.wikipedia.org/wiki/Emerald_ash_borer",
+      "source_name": "Wikipedia - Emerald Ash Borer",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The red imported fire ant (Solenopsis invicta) causes an estimated $6 billion in damage annually in the United States alone.",
+      "source_url": "https://en.wikipedia.org/wiki/Red_imported_fire_ant",
+      "source_name": "Wikipedia - Red Imported Fire Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Crazy ants (Nylanderia fulva) are displacing fire ants in the southern U.S.—they're immune to fire ant venom and overwhelm colonies with sheer numbers.",
+      "source_url": "https://en.wikipedia.org/wiki/Rasberry_crazy_ant",
+      "source_name": "Wikipedia - Crazy Ant",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Japanese beetle, which took 50 years to spread across the eastern U.S., has voracious larvae that destroy lawns and adults that defoliate over 300 plant species.",
+      "source_url": "https://en.wikipedia.org/wiki/Japanese_beetle",
+      "source_name": "Wikipedia - Japanese Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Insects are eaten in 80% of the world's nations by people in roughly 3,000 ethnic groups—the practice of eating insects is called entomophagy.",
+      "source_url": "https://en.wikipedia.org/wiki/Entomophagy",
+      "source_name": "Wikipedia - Entomophagy",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mealworms (beetle larvae) contain more protein per gram than beef and require far less land, water, and food to raise.",
+      "source_url": "https://en.wikipedia.org/wiki/Mealworm",
+      "source_name": "Wikipedia - Mealworm",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Researchers estimate there are 1.4 billion insects for every human on Earth—roughly 10 quintillion insects total at any given time.",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Insect populations have declined by 75% in some regions over the past 50 years—a phenomenon some scientists call the 'insect apocalypse.'",
+      "source_url": "https://en.wikipedia.org/wiki/Insect",
+      "source_name": "Wikipedia - Insect",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Light pollution threatens firefly populations worldwide—artificial light disrupts their mating signals, preventing successful reproduction.",
+      "source_url": "https://en.wikipedia.org/wiki/Firefly",
+      "source_name": "Wikipedia - Firefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Namib desert beetle harvests water from fog by tilting its body into the wind—water condenses on hydrophilic bumps and rolls down into its mouth.",
+      "source_url": "https://en.wikipedia.org/wiki/Stenocara_gracilipes",
+      "source_name": "Wikipedia - Namib Desert Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bed bugs were nearly eradicated in developed countries by the 1950s but have resurged dramatically since the 1990s due to pesticide resistance and increased travel.",
+      "source_url": "https://en.wikipedia.org/wiki/Bed_bug",
+      "source_name": "Wikipedia - Bed Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bed bugs can survive up to 400 days without feeding and detect human hosts by sensing carbon dioxide, warmth, and certain chemicals.",
+      "source_url": "https://en.wikipedia.org/wiki/Bed_bug",
+      "source_name": "Wikipedia - Bed Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The gypsy moth caterpillar can defoliate millions of acres of trees—a single outbreak in the northeastern U.S. stripped 13 million acres of leaves in one year.",
+      "source_url": "https://en.wikipedia.org/wiki/Lymantria_dispar",
+      "source_name": "Wikipedia - Gypsy Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The Colorado potato beetle has evolved resistance to 52 different insecticides—more than any other insect species.",
+      "source_url": "https://en.wikipedia.org/wiki/Colorado_potato_beetle",
+      "source_name": "Wikipedia - Colorado Potato Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Monarch butterfly populations have declined by 90% since the 1990s due to loss of milkweed habitat and climate change.",
+      "source_url": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+      "source_name": "Wikipedia - Monarch Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The rosy maple moth looks like it was designed by a candy shop—adults have bright pink and yellow coloring but don't eat, living only long enough to mate.",
+      "source_url": "https://en.wikipedia.org/wiki/Dryocampa_rubicunda",
+      "source_name": "Wikipedia - Rosy Maple Moth",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The flannel moth caterpillar ('puss caterpillar') has venomous hairs that cause intense, radiating pain—it's considered North America's most dangerous caterpillar.",
+      "source_url": "https://en.wikipedia.org/wiki/Megalopyge_opercularis",
+      "source_name": "Wikipedia - Puss Caterpillar",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Africanized 'killer' bees are hybrids that escaped from a Brazilian breeding program in 1957—they've since spread throughout the Americas.",
+      "source_url": "https://en.wikipedia.org/wiki/Africanized_bee",
+      "source_name": "Wikipedia - Africanized Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Robber flies catch prey in mid-air—they have such powerful vision they can identify and intercept specific flying insects from over a meter away.",
+      "source_url": "https://en.wikipedia.org/wiki/Asilidae",
+      "source_name": "Wikipedia - Robber Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dobsonflies have massive mandibles that look terrifying but are mostly for mating displays—their bite is relatively harmless despite the scary appearance.",
+      "source_url": "https://en.wikipedia.org/wiki/Dobsonfly",
+      "source_name": "Wikipedia - Dobsonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bot fly larvae (warbles) develop under the skin of mammals—when mature, they emerge through the skin hole, leaving a crater that heals on its own.",
+      "source_url": "https://en.wikipedia.org/wiki/Oestridae",
+      "source_name": "Wikipedia - Bot Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The aptly named 'horsefly' has blade-like mouthparts that slash the skin open—making their bites among the most painful of any fly.",
+      "source_url": "https://en.wikipedia.org/wiki/Horse-fly",
+      "source_name": "Wikipedia - Horsefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Chrysalis coloration in some butterfly species is determined by the surface they pupate on—smooth surfaces produce green pupae while rough surfaces produce brown.",
+      "source_url": "https://en.wikipedia.org/wiki/Pupa",
+      "source_name": "Wikipedia - Pupa",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The glasswing butterfly has transparent wings because the scales are pillar-like structures that let light pass through rather than flat reflective plates.",
+      "source_url": "https://en.wikipedia.org/wiki/Greta_oto",
+      "source_name": "Wikipedia - Glasswing Butterfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some caterpillars have 'countershading' coloring—dark on top and light below—which makes them appear flat and less detectable to predators.",
+      "source_url": "https://en.wikipedia.org/wiki/Countershading",
+      "source_name": "Wikipedia - Countershading",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The morpho butterfly's brilliant blue color contains no blue pigment—the color is created entirely by light interference from microscopic structures on its wing scales.",
+      "source_url": "https://en.wikipedia.org/wiki/Morpho",
+      "source_name": "Wikipedia - Morpho",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bolas spiders swing a silk thread with a sticky glob that releases moth pheromones—male moths fly toward it and get trapped.",
+      "source_url": "https://en.wikipedia.org/wiki/Bolas_spider",
+      "source_name": "Wikipedia - Bolas Spider",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Flesh flies are viviparous—they deposit live maggots directly onto decaying matter rather than laying eggs like most other flies.",
+      "source_url": "https://en.wikipedia.org/wiki/Flesh-fly",
+      "source_name": "Wikipedia - Flesh Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Crane flies are often called 'mosquito hawks' but don't eat mosquitoes—adults of most species don't eat anything at all.",
+      "source_url": "https://en.wikipedia.org/wiki/Crane_fly",
+      "source_name": "Wikipedia - Crane Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Dragonflies existed before dinosaurs—they first appeared about 300 million years ago, predating dinosaurs by around 70 million years.",
+      "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+      "source_name": "Wikipedia - Dragonfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Honeybee colonies make collective decisions through 'quorum sensing'—scout bees perform waggle dances, and the colony follows when enough scouts agree on a location.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee_learning_and_communication",
+      "source_name": "Wikipedia - Bee Communication",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The atlas beetle of Southeast Asia has horns that can be as long as its body—males use them to flip rivals off branches during territorial battles.",
+      "source_url": "https://en.wikipedia.org/wiki/Chalcosoma_atlas",
+      "source_name": "Wikipedia - Atlas Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Jewel beetles are so brilliantly metallic that they're used in traditional Thai textiles and jewelry—their shells retain their iridescence even after death.",
+      "source_url": "https://en.wikipedia.org/wiki/Buprestidae",
+      "source_name": "Wikipedia - Jewel Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The titan beetle of South America can reach 16.7 cm long and has mandibles strong enough to snap a pencil in half—or reportedly a human finger.",
+      "source_url": "https://en.wikipedia.org/wiki/Titanus_giganteus",
+      "source_name": "Wikipedia - Titan Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termite mounds in Australia can be over 4 meters tall and are oriented along a north-south axis to regulate internal temperature—earning them the name 'magnetic termites.'",
+      "source_url": "https://en.wikipedia.org/wiki/Amitermes_meridionalis",
+      "source_name": "Wikipedia - Magnetic Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Termite guts contain protozoa that digest cellulose—without these gut symbionts, termites would starve even with a stomach full of wood.",
+      "source_url": "https://en.wikipedia.org/wiki/Termite",
+      "source_name": "Wikipedia - Termite",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Springtails can jump using a forked appendage called a furcula—when released, it launches them 100 times their body length to escape predators.",
+      "source_url": "https://en.wikipedia.org/wiki/Springtail",
+      "source_name": "Wikipedia - Springtail",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Silverfish are among the oldest insects still alive—they've remained virtually unchanged for over 400 million years, predating dinosaurs.",
+      "source_url": "https://en.wikipedia.org/wiki/Silverfish",
+      "source_name": "Wikipedia - Silverfish",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The giant weta of New Zealand is so heavy it cannot jump—despite being a member of the cricket family.",
+      "source_url": "https://en.wikipedia.org/wiki/Giant_weta",
+      "source_name": "Wikipedia - Giant Weta",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Stoneflies are so sensitive to water pollution that their presence in a stream is used as an indicator of water quality.",
+      "source_url": "https://en.wikipedia.org/wiki/Plecoptera",
+      "source_name": "Wikipedia - Stonefly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Mayflies live most of their lives (1-2 years) as aquatic nymphs—adults live only hours to days, don't eat, and exist solely to mate.",
+      "source_url": "https://en.wikipedia.org/wiki/Mayfly",
+      "source_name": "Wikipedia - Mayfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Some mayfly species emerge in such massive synchronized hatches that they show up on weather radar and cause traffic accidents on bridges.",
+      "source_url": "https://en.wikipedia.org/wiki/Mayfly",
+      "source_name": "Wikipedia - Mayfly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Snow fleas (Hypogastrura nivicola) are active on snow in winter—they contain a glycine-rich antifreeze protein that keeps their bodies from freezing.",
+      "source_url": "https://en.wikipedia.org/wiki/Snow_flea",
+      "source_name": "Wikipedia - Snow Flea",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The mole cricket has shovel-like forelegs adapted for digging—and males construct specially shaped burrows that amplify their mating calls like a megaphone.",
+      "source_url": "https://en.wikipedia.org/wiki/Mole_cricket",
+      "source_name": "Wikipedia - Mole Cricket",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The horseshoe crab is not a crab or insect but is more closely related to spiders—their blue blood is used to test for bacterial contamination in medical equipment.",
+      "source_url": "https://en.wikipedia.org/wiki/Horseshoe_crab",
+      "source_name": "Wikipedia - Horseshoe Crab",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Honey has been found in ancient Egyptian tombs over 3,000 years old and was still edible—bees create the perfect preservative environment.",
+      "source_url": "https://en.wikipedia.org/wiki/Honey",
+      "source_name": "Wikipedia - Honey",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "A honeybee must visit about 2 million flowers and fly 55,000 miles to produce one pound of honey.",
+      "source_url": "https://en.wikipedia.org/wiki/Honey",
+      "source_name": "Wikipedia - Honey",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Bees can be trained to detect explosives, drugs, and even diseases like tuberculosis and diabetes by associating specific scents with sugar rewards.",
+      "source_url": "https://en.wikipedia.org/wiki/Bee",
+      "source_name": "Wikipedia - Bee",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The honey badger-honeyguide bird relationship depends on bees—the bird leads mammals to hives, waits for them to break in, then eats the wax and larvae.",
+      "source_url": "https://en.wikipedia.org/wiki/Honeyguide",
+      "source_name": "Wikipedia - Honeyguide",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The jewel wasp turns cockroaches into zombies—it stings their brain in two precise locations, then leads them by the antenna to its burrow where larvae eat them alive.",
+      "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+      "source_name": "Wikipedia - Jewel Wasp",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Ophiocordyceps fungus infects ants' brains and compels them to climb to a height optimal for spore dispersal before killing them—the 'zombie ant' fungus.",
+      "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+      "source_name": "Wikipedia - Zombie Ant Fungus",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Gordian worms grow inside grasshoppers and crickets, then manipulate their hosts to jump into water—where the worm emerges and the host drowns.",
+      "source_url": "https://en.wikipedia.org/wiki/Nematomorpha",
+      "source_name": "Wikipedia - Horsehair Worm",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Strepsipterans are bizarre parasites where females live their entire lives embedded in a host insect's body—only their reproductive parts poke outside.",
+      "source_url": "https://en.wikipedia.org/wiki/Strepsiptera",
+      "source_name": "Wikipedia - Strepsiptera",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Phorid flies in the genus Pseudacteon decapitate fire ants—the larvae develop inside the ant's head, eventually causing it to fall off.",
+      "source_url": "https://en.wikipedia.org/wiki/Phoridae",
+      "source_name": "Wikipedia - Phorid Fly",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "Oil beetles ooze toxic cantharidin from their leg joints when threatened—the same substance in blister beetles that can kill horses.",
+      "source_url": "https://en.wikipedia.org/wiki/Meloe",
+      "source_name": "Wikipedia - Oil Beetle",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    },
+    {
+      "text": "The spittle bug nymph creates frothy 'cuckoo spit' by blowing air into a mucus secretion—this foam protects it from predators and desiccation.",
+      "source_url": "https://en.wikipedia.org/wiki/Froghopper",
+      "source_name": "Wikipedia - Spittle Bug",
+      "category": "entomology_insects",
+      "extracted_at": "2026-01-30T21:02:00.000Z"
+    }
+  ]
+}

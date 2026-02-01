@@ -1,0 +1,3544 @@
+[
+  {
+    "text": "Bacteriophages are the most abundant biological entity on Earth \u2014 estimated 10^31 exist, outnumbering all other organisms combined.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Up to 70% of marine bacteria may be infected by bacteriophages at any given time.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Viruses are the second largest component of biomass in the world's oceans after prokaryotes, with up to 9\u00d710^8 virions per milliliter found in microbial mats.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Phage therapy was used as an alternative to antibiotics in the Soviet Union since the 1920s, decades before Western medicine rediscovered it.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The smallest bacteriophage genomes encode as few as four genes, while the largest contain hundreds of genes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The largest bacteriophage genomes reach 735 kilobases \u2014 larger than some bacterial genomes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteriophages communicate with each other using a protein called 'arbitrium' to decide whether to kill host cells or remain dormant.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Three Nobel Prizes have been awarded for bacteriophage research \u2014 in 1969 for viral replication and in 2018 for phage display technology.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The Hershey-Chase experiment in 1952 used bacteriophages to prove that DNA \u2014 not protein \u2014 is the genetic material of life.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Some bacteriophages inject their DNA using a hypodermic syringe-like motion, contracting their tail to pierce bacterial cell membranes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions contain no DNA or RNA \u2014 they're misfolded proteins that 'reproduce' by corrupting normal proteins into copies of themselves.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "All known prion diseases in mammals are 100% fatal with no effective treatment \u2014 they progressively destroy brain tissue.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions are virtually indestructible \u2014 they resist heat, radiation, formaldehyde, and proteases that would destroy any other infectious agent.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions can survive heating to 134\u00b0C (273\u00b0F) for 18 minutes in a pressurized autoclave \u2014 conditions that sterilize everything else.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The human incubation period for prion diseases can be 5 to 20+ years, but once symptoms appear, death occurs within months.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions may play a role in long-term memory \u2014 the same protein-folding mechanism that causes disease might help neurons store information.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Fungal prions exist in yeast and are often beneficial \u2014 they help organisms adapt to new environments without changing their DNA.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions can persist in soil for years by binding to clay minerals, creating environmental reservoirs of disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Plants can uptake prions from contaminated soil and transmit them to animals that eat them \u2014 completing an environmental disease cycle.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mad cow disease (BSE) jumped to humans as variant Creutzfeldt-Jakob disease (vCJD) \u2014 one of the few documented prion cross-species transmissions.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Deinococcus radiodurans can survive 6,000 Gy of ionizing radiation \u2014 1,500 times the dose that would kill a human.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria from Earth survived three years in outer space on the International Space Station, supporting the theory of panspermia.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Viable bacterial spores 40 million years old have been found on Earth \u2014 they're hardened against radiation and time itself.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria have been found living half a mile below Antarctic ice and in the Mariana Trench at crushing pressures of 1,100 bar.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Picrophilus oshimae thrives at pH 0.06 \u2014 essentially growing in battery acid, near the theoretical limit for life.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Microorganisms have been found thriving 1.2 km below the seafloor in 120\u00b0C sediment \u2014 the deepest life discovered.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Endospores from Bacillus bacteria survived heating to 420\u00b0C (788\u00b0F) \u2014 hotter than the surface of Mercury.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria can survive hypergravity of 403,627 g \u2014 conditions only found in cosmic environments like supernova shock waves.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Radiotrophic fungi discovered at Chernobyl actually use radiation as an energy source \u2014 essentially 'eating' radioactivity.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Sulfur-breathing bacteria 7,900 feet below Earth's surface eat rocks like pyrite for food and have been isolated from sunlight for millions of years.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Lichen survived 34 days under simulated Mars conditions including UV radiation and extreme cold \u2014 suggesting life could exist on Mars.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria discovered in Antarctica feed on air \u2014 using hydrogen and carbon monoxide from the atmosphere for energy.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacterial endospores can survive high-velocity impacts up to 299 m/s, suggesting life could travel between planets via meteorites.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Microbes adapt to space in ways 'not observed on Earth' \u2014 showing increased growth and virulence in microgravity.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Microbes live in liquid asphalt at Pitch Lake in Trinidad \u2014 populations of 10^6 to 10^7 cells per gram thrive in tar.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The human body contains approximately 38 trillion bacterial cells \u2014 roughly matching our 30 trillion human cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Your microbiome contains 2 million bacterial genes \u2014 100 times more genes than the ~20,000 in the human genome.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "500 to 1,000 different bacterial species live in the human gut, belonging to just a few major phyla.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Babies born by C-section have different gut microbiomes than vaginally-born babies \u2014 with more pathogenic bacteria like E. coli and Staphylococcus.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Your gut bacteria function like an endocrine organ \u2014 producing hormones and signaling molecules that affect your entire body.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Gut bacteria ferment dietary fiber into short-chain fatty acids like butyric acid \u2014 essentially producing nutrients you couldn't make yourself.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Probiotics can improve symptoms of anxiety, depression, autism, and OCD when taken in daily doses of 10^9-10^10 bacteria for 1-2 months.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Only about 50% of humans have detectable populations of methane-producing archaea in their guts \u2014 colonization is highly variable.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "'Obelisks' \u2014 a new class of viroid-like elements \u2014 were discovered in the human microbiome in 2024, along with their unique proteins called 'oblins'.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Each person's microbiome is unique \u2014 like a fingerprint made of bacteria, it varies dramatically between individuals.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Your skin hosts bacteria from 205 different genera across 19 phyla \u2014 a miniature ecosystem on your body's surface.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The placenta was long thought sterile, but bacterial DNA has been found there \u2014 though contamination during sampling is debated.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mycorrhizal networks \u2014 fungal 'Wood Wide Web' \u2014 connect trees underground, allowing them to share nutrients and even send chemical warnings about pests.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Fungal networks can transfer up to 30% of a plant's photosynthetically-fixed carbon to the fungus in exchange for nitrogen and phosphorus.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Trees transfer more carbon to closely related trees via fungal networks \u2014 suggesting plants can recognize kin underground.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "When a Douglas fir is attacked by insects, it sends chemical signals through fungal networks to neighboring ponderosa pines, which then produce defense enzymes.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mycorrhizal associations evolved before plants colonized land \u2014 they're one of the oldest and most fundamental biological partnerships.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Carbon flows through fungal networks seasonally \u2014 shifting to whichever connected plants need it most at different times of year.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Invasive plants can hijack mycorrhizal networks, changing which species the fungi connect to in order to spread allelopathic chemicals to native plants.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Some plants like Monotropa ('ghost pipe') are parasites that steal all their food through mycorrhizal networks \u2014 they can't photosynthesize at all.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "\u03b2-lactamase enzymes that destroy penicillin evolved over 2 billion years ago \u2014 bacteria had antibiotic resistance before antibiotics existed.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Traces of tetracycline have been found in human bones from ancient Sudanese Nubia dating to 350-550 CE \u2014 people were accidentally consuming antibiotics 1,500 years ago.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The first hospital-used antibiotic, Pyocyanase (1899), was made from Pseudomonas aeruginosa bacteria \u2014 decades before penicillin.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Each year 25,000 patients in the EU and 63,000 in the US die from infections with multidrug-resistant bacteria.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The golden era of antibiotic discovery was the 1950s-1970s \u2014 no new antibiotic classes have been discovered since then.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Treponema pallidum (syphilis) has remained susceptible to penicillin for 80+ years \u2014 one of the few bacteria that hasn't developed resistance.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Red soils in Jordan have been used for thousands of years to treat skin infections \u2014 they contain antibiotic-producing bacteria that make actinomycin.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Paul Ehrlich tested 606 different compounds before finding Salvarsan \u2014 the first synthetic antibiotic \u2014 showing drug discovery has always been a numbers game.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Some bacteria protect their entire colony from antibiotics through 'kin selection' \u2014 a small number of resistant bacteria shield their sensitive neighbors.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - A Brief History of the Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Streptomyces bacteria in soil produce about two-thirds of all naturally-derived antibiotics in clinical use today.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Actinobacteria can be found at depths of more than 2 meters below ground, at densities of 10^6 to 10^9 cells per gram of soil.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Streptomyces accounts for over 95% of Actinomycetales bacteria isolated from soil \u2014 they dominate the underground world.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mycobacterium tuberculosis and M. leprae are likely obligate human parasites \u2014 they've co-evolved with humans and can't survive elsewhere.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Tropheryma whipplei, which causes Whipple's disease, has a tiny genome of only 926 kb and G+C content of just 46% \u2014 unusually small for bacteria.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Propionibacterium acnes, the bacterium blamed for acne, was recently found inside grapevine plants \u2014 transferred horizontally between kingdoms of life.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Salinispora is the first bacterial genus that requires seawater to grow \u2014 it's obligately marine.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Nocardia infections are considered an emerging disease \u2014 mortality from Nocardia brain abscesses is 31%, three times higher than other brain abscesses.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Corynebacterium glutamicum is an industrial workhorse \u2014 used to produce millions of tons of amino acids like glutamic acid and lysine annually.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bifidobacteria produce antimicrobials and bacteriocins \u2014 they actively fight pathogens in your gut while helping you digest food.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+    "source_name": "PMC - Taxonomy of Actinobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Coagulase-negative staphylococci (CoNS) are now one of the major nosocomial pathogens \u2014 previously dismissed as harmless skin bacteria.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+    "source_name": "PMC - Coagulase-Negative Staphylococci",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "S. epidermidis accounts for 31% of all nosocomial bloodstream infections \u2014 the most common cause of hospital-acquired bacteremia.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+    "source_name": "PMC - Coagulase-Negative Staphylococci",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "S. epidermidis secretes a protease that destroys S. aureus biofilms and prevents nasal colonization \u2014 skin bacteria that protect you from worse infections.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+    "source_name": "PMC - Coagulase-Negative Staphylococci",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The attributable cost per catheter-related bloodstream infection is $11,971 to $56,000 \u2014 bacterial biofilms on medical devices are expensive problems.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+    "source_name": "PMC - Coagulase-Negative Staphylococci",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The SARS-CoV-2 spike protein D614G mutation increased transmissibility \u2014 viruses evolve in real-time during pandemics.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The E484K mutation reduces neutralization by antibodies by over 10-fold \u2014 a single amino acid change can help viruses escape immunity.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "SARS-CoV-2 acquires about 2 mutations per month in the global population \u2014 viruses evolve on a timescale we can watch.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "~90% of neutralizing antibody activity against SARS-CoV-2 targets the spike receptor-binding domain \u2014 a tiny region controls immune recognition.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "SARS-CoV-2 variants of concern like B.1.1.7 and B.1.351 emerged independently with similar mutations \u2014 convergent evolution under immune pressure.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The N501Y mutation in SARS-CoV-2 increases ACE2 binding affinity \u2014 making the virus stick better to human cells.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mink-to-human transmission of SARS-CoV-2 in Denmark created a novel variant cluster \u2014 viruses can ping-pong between species and evolve.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Over 1 million SARS-CoV-2 genome sequences were shared via GISAID \u2014 enabling real-time surveillance of viral evolution unprecedented in history.",
+    "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+    "source_name": "Nature Reviews Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prophages (dormant viruses in bacterial DNA) can convert harmless bacteria into deadly pathogens \u2014 like making Vibrio cholerae produce cholera toxin.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "A 68-year-old patient with an antibiotic-resistant superbug infection was saved in 2017 using personalized phage therapy \u2014 cocktails of viruses that kill bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Some roseophages use deoxyuridine instead of deoxythymidine in their DNA \u2014 a way to evade bacterial CRISPR defense systems.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The FDA approved the first phage-based food safety product in 2006 \u2014 viruses that kill Listeria bacteria on deli meat.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "T4 phage assembly requires helper proteins that act catalytically \u2014 viruses have their own molecular machines within machines.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Walter Fiers in 1976 was the first to sequence a complete viral genome \u2014 bacteriophage MS2 \u2014 launching the era of genomics.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria have evolved CRISPR, retrons, and Thoeris defense systems against phages \u2014 an ancient immune arms race.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The Hailong anti-phage defense triggers bacterial suicide via ion channels \u2014 infected cells die to protect the colony.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Phage genomes are highly mosaic \u2014 different regions come from completely different evolutionary sources, shuffled by recombination.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Filamentous phages don't kill their hosts \u2014 they continuously secrete new virus particles while keeping the bacterium alive.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Some bacteriophages actually protect bacteria from antibiotics by helping form biofilms in cystic fibrosis lungs.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Fatal familial insomnia is a prion disease \u2014 patients progressively lose the ability to sleep and die within months.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Kuru \u2014 a prion disease spread by ritual cannibalism in Papua New Guinea \u2014 had incubation periods of up to 50 years.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Chronic wasting disease in deer and elk is spreading across North America \u2014 a prion epidemic in wild ungulates.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prions create sponge-like holes in brain tissue \u2014 the hallmark 'spongiform' damage visible under microscopy.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Multiple system atrophy (MSA) was linked to prion-like alpha-synuclein in 2015 \u2014 expanding the prion concept beyond PrP protein.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Alzheimer's, Parkinson's, and ALS may spread via prion-like mechanisms \u2014 misfolded proteins corrupting normal ones.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Sterilizing surgical instruments against prions requires 1N sodium hydroxide plus autoclaving at 121\u00b0C for 30 minutes \u2014 far more extreme than standard sterilization.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Prion strains exist with different 'templates' even when made of identical amino acid sequences \u2014 misfolding patterns carry information.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Platelets are the largest reservoir of prion protein in human blood \u2014 raising concerns about transfusion transmission.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Stanley Prusiner won the 1997 Nobel Prize for discovering prions \u2014 initially ridiculed for proposing a protein-only infectious agent.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Thermophilic bacteria thrive above 45\u00b0C, while hyperthermophiles require temperatures above 80\u00b0C \u2014 hotter than any multicellular life can survive.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Pyrolobus fumarii holds the record for high-temperature growth at 113\u00b0C (235\u00b0F) \u2014 above the normal boiling point of water.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Psychrophiles grow best at 15\u00b0C or below \u2014 some can metabolize at -20\u00b0C inside ice.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Halophiles require salt concentrations above 5% to thrive \u2014 the Dead Sea and Great Salt Lake are full of them.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Taq polymerase from Thermus aquaticus enables PCR \u2014 the enzyme that revolutionized molecular biology came from hot spring bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Desulforudis audaxviator lives 2.8 km underground in a South African gold mine \u2014 completely isolated from all other life for millions of years.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Alkaliphiles live at pH 11 \u2014 more basic than household ammonia, in soda lakes where other life dissolves.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Xerophiles survive in the Atacama Desert with ~60% relative humidity \u2014 the driest places on Earth still have life.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Polyextremophiles tolerate multiple extremes simultaneously \u2014 like the bacterium Thermococcus barophilus that needs both high heat AND high pressure.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Oligotrophs thrive in nutritionally-limited environments \u2014 they've evolved to survive on almost nothing.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Ernest Hanbury Hankin in 1896 discovered something in the Ganges River that killed cholera bacteria \u2014 the first hint of bacteriophages, 20 years before they were officially discovered.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "F\u00e9lix d'H\u00e9relle named bacteriophages 'bacteria-eaters' from the Greek phagein \u2014 and immediately recognized their therapeutic potential in 1917.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Phages were used to treat Red Army soldiers in World War II \u2014 Soviet military medicine relied on viruses to fight bacterial infections.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Coliphages serve as indicators of fecal contamination in water \u2014 where you find E. coli phages, you find sewage.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "A cyanophage discovered in 1977 uses 2-aminoadenine (Z) instead of adenine (A) in its DNA \u2014 an alien genetic alphabet.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Phage display technology won the 2018 Nobel Prize in Chemistry \u2014 using viruses to evolve new antibodies and drugs.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bacteria in cheese sometimes get infected by phages, ruining fermentation \u2014 cheesemakers battle viruses they can't see.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Temperate phages can give antibiotic resistance genes to their bacterial hosts \u2014 viruses spreading drug resistance.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The Luria-Delbr\u00fcck experiment (1943) used phages to prove that bacterial mutations occur randomly \u2014 confirming Darwin over Lamarck for microbes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Membrane vesicles can transfer viral genomes between different archaeal species \u2014 horizontal gene transfer via microscopic bubbles.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Airway cilia beat 10-20 times per second, moving mucus at ~5.5 mm/min \u2014 a continuous escalator pushing pathogens out of your lungs.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "The adult human lung contains approximately 3 trillion motile cilia \u2014 a microscopic forest sweeping the airways clean.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Each ciliated airway cell has over 100 cilia on its surface \u2014 more than 100 tiny hairs per cell fighting infection.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Primary ciliary dyskinesia \u2014 where cilia don't work properly \u2014 causes situs inversus (reversed organs) in 50% of patients.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Cigarette smoke shortens cilia and reduces beat frequency \u2014 directly compromising your lungs' bacterial defense system.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "ATP released by airway cells stimulates ciliary beating and mucus hydration \u2014 your cells chemically signal to clear infections.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Bitter taste receptors on airway cilia detect bacterial compounds and trigger faster beating \u2014 your lungs can 'taste' pathogens.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Normal respiratory mucus is ~97% water, ~1% salt, ~1% mucins, and ~1% other proteins \u2014 a precisely balanced defense gel.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Cystic fibrosis results from CFTR chloride channel mutations \u2014 too little chloride secretion makes mucus too thick for cilia to clear.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Mutations in 33+ genes can cause primary ciliary dyskinesia \u2014 the disease can result from broken motors, spokes, or dozens of other ciliary parts.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+    "source_name": "PMC - Cilia and Mucociliary Clearance",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T20:58:00.000Z"
+  },
+  {
+    "text": "Phage infection of a single bacterium can produce 100-200 new virus particles within 20-30 minutes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The T4 bacteriophage DNA injection takes about 30 seconds to transfer all 170,000 base pairs into the host bacterium.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Phages can exist as 'prophages' inside bacterial DNA for countless generations, only activating when conditions deteriorate.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacteriophage lambda is the model organism for understanding how viruses 'decide' between lying dormant or killing their host.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The KeyPath test uses bacteriophages to detect MRSA in blood cultures \u2014 returning results in 5 hours instead of 2-3 days.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+    "source_name": "Wikipedia - Bacteriophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Methanopyrus kandleri holds the record for high-temperature growth in archaea at 122\u00b0C (252\u00b0F).",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The colorful rings of Yellowstone's Grand Prismatic Spring are created by thermophilic bacteria \u2014 different species at different temperatures.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Haloquadratum walsbyi is a flat, square-shaped archaeon that floats in hypersaline lakes using gas vesicles.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Dunaliella salina produces beta-carotene commercially in hypersaline lakes \u2014 thriving where salt concentration exceeds 20%.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Acidithiobacillus ferrooxidans helps remediate mercury contamination in acidic soil \u2014 using its merA gene for mercury resistance.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Piezophiles thrive at pressures above 10 MPa (99 atmospheres) \u2014 hyperpiezophiles require pressures above 50 MPa.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Osmophiles are adapted to high sugar concentrations \u2014 they're why honey doesn't spoil despite containing some microbes.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Capnophiles require high CO2 concentrations \u2014 like the bacteria living in ruminant digestive systems.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Some bacteria use lanthanides (rare earth elements) as enzyme cofactors \u2014 metals humans consider exotic.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Geobacillus thermodenitrificans can remove heavy metals from industrial effluent in just 12 hours at extreme temperatures.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Tortoises can survive 40,000 roentgens of radiation \u2014 50 times more than the lethal dose for humans.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Lepidopteran insects show significant DNA damage only at 20 Gy or higher \u2014 10 times the dose that damages human cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sulfolobus solfataricus survived Martian-level UV radiation \u2014 suggesting microbial life could exist on Mars.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacillus boroniphilus is strongly borophilic \u2014 thriving in high boron concentrations toxic to most life.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Thermus brockianus from Yellowstone produces a catalase stable at 80\u00b0C and pH 10 for 15 days \u2014 industrial-strength enzymes from hot springs.",
+    "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source_name": "Wikipedia - Extremophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The Human Microbiome Project identified over 10,000 microbial species in 242 healthy volunteers.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The mouth has distinct microbial neighborhoods \u2014 bacteria of the same species form different communities on teeth versus tongue.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Lactobacillus species in the vagina produce hydrogen peroxide and lactic acid to suppress pathogens.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "African American women have different vaginal flora with less hydrogen peroxide-producing lactobacilli \u2014 ethnicity affects microbiomes.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sexual intercourse with condoms changes lactobacilli levels and increases E. coli in vaginal flora.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The esophagus was thought sterile until the 1980s \u2014 it actually has a diverse microbiome dominated by Streptococcus.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The bladder has its own microbiome \u2014 standard culture methods just couldn't detect the bacteria present there.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Gut bacteria synthesize vitamin B and vitamin K for you \u2014 essential nutrients you get from your microbiome.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Oral bacteria form biofilms that harden into tarite (calculus) if not brushed away \u2014 and secrete acids that cause tooth decay.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Trimethylamine produced by gut bacteria gets converted to TMAO in the liver \u2014 linked to cardiovascular disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Lysozyme in tears has antibacterial activity \u2014 it's why eye infections are relatively rare despite constant exposure.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Malassezia yeasts live on skin by consuming oils from sebaceous glands \u2014 feeding off your face.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Candida albicans and Lactobacillus mutually inhibit each other \u2014 yeast and bacteria battling in your body.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The vaginal microbiome changes throughout the menstrual cycle \u2014 fluctuating bacterial communities track hormones.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Methanobrevibacter smithii is the dominant methanogen in human guts \u2014 producing methane from hydrogen and CO2.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "PrP (prion protein) normally exists on cell membranes of neurons and blood cells \u2014 it only becomes dangerous when misfolded.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Normal prion protein (PrPC) binds copper ions \u2014 it may have antioxidant functions in healthy cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Prion diseases cause characteristic 'astrogliosis' \u2014 star-shaped brain cells multiply in response to dying neurons.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Scrapie in sheep was the first prion disease described \u2014 named because affected sheep compulsively scrape their wool off on fences.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sporadic Creutzfeldt-Jakob disease affects about 1 in 1 million people annually \u2014 prion misfolding occurs spontaneously.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The methionine/methionine genotype at codon 129 of the prion gene increases CJD risk 5-fold compared to heterozygotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Feline and exotic ungulate spongiform encephalopathies appeared after contaminated cattle feed spread BSE across species.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Cryo-electron microscopy has revealed the atomic structure of brain-derived infectious prions \u2014 finally seeing the enemy.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Prion fibers grow at their ends like crystals \u2014 breakage creates more ends, enabling exponential replication.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "A drug blocking prion fiber growth could slow disease even without eliminating prions \u2014 buying patients more time.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Prion protein is required for bone marrow self-renewal \u2014 mice without PrP have impaired blood stem cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Autophagy can clear prion aggregates from cells \u2014 promoting autophagy delays disease onset in mice.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The keratinase enzyme from Bacillus licheniformis can actually degrade prions \u2014 one of few known ways to destroy them biologically.",
+    "source_url": "https://en.wikipedia.org/wiki/Prion",
+    "source_name": "Wikipedia - Prion",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sulfa drugs (sulfonamides) are the oldest synthetic antibiotics \u2014 discovered in 1935 and still used today.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Antibiotic resistance costs the EU \u20ac1.5 billion annually in extra healthcare costs and lost productivity.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Quinolone resistance genes (qnr) were acquired from aquatic bacteria \u2014 environmental DNA became clinical resistance.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Artemisinin \u2014 the anti-malarial drug from traditional Chinese medicine \u2014 was used for thousands of years before modern isolation.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Fleming warned about penicillin resistance in his 1945 Nobel lecture \u2014 predicting the crisis before it began.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Penicillinase (\u03b2-lactamase) was discovered even before penicillin was widely used \u2014 bacteria were pre-adapted to resist it.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Carbapenem-resistant Enterobacteriaceae (CRE) are resistant to nearly all antibiotics \u2014 earning the nickname 'nightmare bacteria'.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Agricultural use of antibiotics for growth promotion was banned in the EU in 2006 \u2014 reducing environmental resistance pressure.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sublethal antibiotic concentrations in the environment accelerate resistance evolution through stress responses.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The SOS response in bacteria (triggered by UV and DNA damage) promotes horizontal transfer of resistance genes.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+    "source_name": "PMC - Antibiotic Era",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "A single fungal network can extend for kilometers underground, connecting thousands of individual trees.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Allelochemicals like juglone from black walnuts travel faster through fungal networks than through soil alone.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Plants connected via fungal networks show primed immune defenses \u2014 ready to fight pathogens before they arrive.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Tomato plants connected by mycorrhizal networks upregulate defense genes when a neighbor is infected by fungal pathogens.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Aphid-free plants express salicylic acid pathways only when connected via mycorrhizal network to infested plants.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Arbuscular mycorrhizal fungi penetrate plant cell walls; ectomycorrhizal fungi thread between cells \u2014 two different strategies.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Carbon moves through fungal networks following source-sink dynamics \u2014 flowing from surplus to deficit like water downhill.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Nitrogen flows from nitrogen-fixing plants to non-fixers through mycorrhizal networks \u2014 sharing the wealth underground.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Sugar maple saplings receive carbon from the network in spring when budding; trout lilies receive it in fall when developing roots.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "A 1% carbon gain through fungal networks can cause a 4-fold increase in seedling establishment \u2014 tiny transfers, huge effects.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "source_name": "Wikipedia - Mycorrhizal network",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacteria divide so fast that one cell could theoretically produce more mass than Earth in 48 hours \u2014 if unlimited resources existed.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteria",
+    "source_name": "Wikipedia - Bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The smallest known free-living bacterium is Mycoplasma genitalium with a genome of just 580,000 base pairs.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycoplasma_genitalium",
+    "source_name": "Wikipedia - Mycoplasma genitalium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Pelagibacter ubique is the most abundant organism on Earth \u2014 trillions upon trillions live in the ocean.",
+    "source_url": "https://en.wikipedia.org/wiki/Pelagibacter",
+    "source_name": "Wikipedia - Pelagibacter",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacteria can form multicellular biofilms with internal channels, specialized cell types, and coordinated behaviors.",
+    "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+    "source_name": "Wikipedia - Biofilm",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Quorum sensing allows bacteria to count their population and coordinate behavior \u2014 like voting on when to attack.",
+    "source_url": "https://en.wikipedia.org/wiki/Quorum_sensing",
+    "source_name": "Wikipedia - Quorum sensing",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacteria can share antibiotic resistance genes via conjugation \u2014 essentially microbial sex spreading drug resistance.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacterial_conjugation",
+    "source_name": "Wikipedia - Bacterial conjugation",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The word 'bacteria' was coined by Christian Gottfried Ehrenberg in 1838 from Greek for 'small stick'.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteria",
+    "source_name": "Wikipedia - Bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Magnetotactic bacteria contain chains of magnetic crystals that let them navigate using Earth's magnetic field.",
+    "source_url": "https://en.wikipedia.org/wiki/Magnetotactic_bacteria",
+    "source_name": "Wikipedia - Magnetotactic bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Some bacteria have circular chromosomes; others have linear ones \u2014 chromosome shape isn't universal even among prokaryotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacterial_chromosome",
+    "source_name": "Wikipedia - Bacterial chromosome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Endosymbiotic bacteria became mitochondria and chloroplasts \u2014 all complex life descended from bacterial mergers.",
+    "source_url": "https://en.wikipedia.org/wiki/Endosymbiotic_theory",
+    "source_name": "Wikipedia - Endosymbiotic theory",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Wolbachia infects up to 60% of insect species \u2014 one of the most successful reproductive parasites in the world.",
+    "source_url": "https://en.wikipedia.org/wiki/Wolbachia",
+    "source_name": "Wikipedia - Wolbachia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacteria can survive in clouds, traveling thousands of kilometers before raining down to colonize new environments.",
+    "source_url": "https://en.wikipedia.org/wiki/Airborne_microorganism",
+    "source_name": "Wikipedia - Airborne microorganism",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Clostridium botulinum produces botulinum toxin \u2014 the most acutely lethal substance known, yet used cosmetically as Botox.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridium_botulinum",
+    "source_name": "Wikipedia - Clostridium botulinum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Anthrax spores can remain viable in soil for 70+ years \u2014 ancient graves can still harbor deadly bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Anthrax",
+    "source_name": "Wikipedia - Anthrax",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Vibrio cholerae doesn't cause disease until it colonizes the gut and produces cholera toxin \u2014 triggered by environmental signals.",
+    "source_url": "https://en.wikipedia.org/wiki/Vibrio_cholerae",
+    "source_name": "Wikipedia - Vibrio cholerae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Yersinia pestis (plague) can kill a human in 24-36 hours in its septicemic form \u2014 one of history's deadliest pathogens.",
+    "source_url": "https://en.wikipedia.org/wiki/Yersinia_pestis",
+    "source_name": "Wikipedia - Yersinia pestis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Legionella pneumophila lives inside amoebae in water \u2014 human infection is accidental, from contaminated cooling towers.",
+    "source_url": "https://en.wikipedia.org/wiki/Legionella",
+    "source_name": "Wikipedia - Legionella",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Helicobacter pylori infects half of all humans and causes most stomach ulcers \u2014 a discovery that won the 2005 Nobel Prize.",
+    "source_url": "https://en.wikipedia.org/wiki/Helicobacter_pylori",
+    "source_name": "Wikipedia - Helicobacter pylori",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Borrelia burgdorferi (Lyme disease) has one of the most complex genomes of any bacterium \u2014 with a linear chromosome and over 20 plasmids.",
+    "source_url": "https://en.wikipedia.org/wiki/Borrelia_burgdorferi",
+    "source_name": "Wikipedia - Borrelia burgdorferi",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Rickettsia can only reproduce inside host cells \u2014 they're obligate intracellular parasites, like tiny cellular hijackers.",
+    "source_url": "https://en.wikipedia.org/wiki/Rickettsia",
+    "source_name": "Wikipedia - Rickettsia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Cyanobacteria were the first organisms to produce oxygen through photosynthesis \u2014 changing Earth's atmosphere forever.",
+    "source_url": "https://en.wikipedia.org/wiki/Cyanobacteria",
+    "source_name": "Wikipedia - Cyanobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Giant viruses (Mimivirus, Pandoravirus) are larger than some bacteria \u2014 blurring the line between virus and cell.",
+    "source_url": "https://en.wikipedia.org/wiki/Giant_virus",
+    "source_name": "Wikipedia - Giant virus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Pandoravirus has 2,500 genes \u2014 more than some parasitic bacteria and eukaryotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Pandoravirus",
+    "source_name": "Wikipedia - Pandoravirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Viruses that infect viruses (virophages) exist \u2014 parasites have their own parasites.",
+    "source_url": "https://en.wikipedia.org/wiki/Virophage",
+    "source_name": "Wikipedia - Virophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Retroviruses like HIV insert their DNA into host chromosomes \u2014 becoming a permanent part of the infected cell's genome.",
+    "source_url": "https://en.wikipedia.org/wiki/Retrovirus",
+    "source_name": "Wikipedia - Retrovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "About 8% of the human genome consists of ancient retroviral DNA \u2014 genetic fossils of ancient infections.",
+    "source_url": "https://en.wikipedia.org/wiki/Endogenous_retrovirus",
+    "source_name": "Wikipedia - Endogenous retrovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Influenza A virus reassorts its genome segments in pigs and birds \u2014 creating new pandemic strains through genetic mixing.",
+    "source_url": "https://en.wikipedia.org/wiki/Antigenic_shift",
+    "source_name": "Wikipedia - Antigenic shift",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Rabies virus travels along nerves to the brain at about 20-30mm per day \u2014 a slow but relentless journey to death.",
+    "source_url": "https://en.wikipedia.org/wiki/Rabies",
+    "source_name": "Wikipedia - Rabies",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Smallpox was declared eradicated in 1980 \u2014 the only human disease completely eliminated by vaccination.",
+    "source_url": "https://en.wikipedia.org/wiki/Smallpox",
+    "source_name": "Wikipedia - Smallpox",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Polio was 99.9% eradicated but persists in a few countries \u2014 close but not complete victory.",
+    "source_url": "https://en.wikipedia.org/wiki/Poliomyelitis",
+    "source_name": "Wikipedia - Poliomyelitis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Ebola virus kills up to 90% of infected people in some outbreaks \u2014 one of the deadliest pathogens known.",
+    "source_url": "https://en.wikipedia.org/wiki/Ebola",
+    "source_name": "Wikipedia - Ebola",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Herpesviruses establish lifelong latent infections \u2014 once infected, you carry them forever.",
+    "source_url": "https://en.wikipedia.org/wiki/Herpesvirus",
+    "source_name": "Wikipedia - Herpesvirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Hepatitis B virus has a partially double-stranded DNA genome \u2014 unique among human viruses.",
+    "source_url": "https://en.wikipedia.org/wiki/Hepatitis_B",
+    "source_name": "Wikipedia - Hepatitis B",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Measles is so contagious that 90% of unvaccinated people exposed to it will become infected.",
+    "source_url": "https://en.wikipedia.org/wiki/Measles",
+    "source_name": "Wikipedia - Measles",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "HPV causes virtually all cervical cancers \u2014 a virus that causes cancer.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_papillomavirus",
+    "source_name": "Wikipedia - Human papillomavirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Dengue fever can be worse on second infection \u2014 antibodies from the first infection enhance the second.",
+    "source_url": "https://en.wikipedia.org/wiki/Dengue_fever",
+    "source_name": "Wikipedia - Dengue fever",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The honey fungus (Armillaria ostoyae) in Oregon's Blue Mountains covers 2,384 acres \u2014 the largest known organism.",
+    "source_url": "https://en.wikipedia.org/wiki/Armillaria_ostoyae",
+    "source_name": "Wikipedia - Armillaria ostoyae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Fungi produce powerful antibiotics \u2014 penicillin, cephalosporins, and many more came from mold.",
+    "source_url": "https://en.wikipedia.org/wiki/Penicillin",
+    "source_name": "Wikipedia - Penicillin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Ophiocordyceps fungi turn ants into 'zombies' \u2014 hijacking their nervous systems to spread spores.",
+    "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps",
+    "source_name": "Wikipedia - Ophiocordyceps",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Cryptococcus neoformans can cause fatal meningitis in immunocompromised patients \u2014 thriving in pigeon droppings.",
+    "source_url": "https://en.wikipedia.org/wiki/Cryptococcus_neoformans",
+    "source_name": "Wikipedia - Cryptococcus neoformans",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Aspergillus fumigatus releases millions of spores per day \u2014 we breathe hundreds of them daily without harm.",
+    "source_url": "https://en.wikipedia.org/wiki/Aspergillus_fumigatus",
+    "source_name": "Wikipedia - Aspergillus fumigatus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Candida auris emerged globally in the 2010s with multidrug resistance \u2014 a new fungal superbug.",
+    "source_url": "https://en.wikipedia.org/wiki/Candida_auris",
+    "source_name": "Wikipedia - Candida auris",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Histoplasma capsulatum hides inside macrophages \u2014 the immune cells meant to kill it become its home.",
+    "source_url": "https://en.wikipedia.org/wiki/Histoplasma_capsulatum",
+    "source_name": "Wikipedia - Histoplasma capsulatum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Fungi are more closely related to animals than to plants \u2014 we share a common ancestor with mushrooms.",
+    "source_url": "https://en.wikipedia.org/wiki/Opisthokont",
+    "source_name": "Wikipedia - Opisthokont",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Dermatophytes (ringworm fungi) evolved to digest keratin \u2014 why they attack skin, hair, and nails.",
+    "source_url": "https://en.wikipedia.org/wiki/Dermatophyte",
+    "source_name": "Wikipedia - Dermatophyte",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Batrachochytrium dendrobatidis has driven over 200 amphibian species to extinction \u2014 the worst pathogen in wildlife history.",
+    "source_url": "https://en.wikipedia.org/wiki/Batrachochytrium_dendrobatidis",
+    "source_name": "Wikipedia - Batrachochytrium dendrobatidis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "CRISPR was discovered as a bacterial immune system before becoming a gene-editing tool \u2014 bacteria had it first.",
+    "source_url": "https://en.wikipedia.org/wiki/CRISPR",
+    "source_name": "Wikipedia - CRISPR",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Horizontal gene transfer is so common that 'species' is hard to define for bacteria \u2014 genes flow freely between lineages.",
+    "source_url": "https://en.wikipedia.org/wiki/Horizontal_gene_transfer",
+    "source_name": "Wikipedia - Horizontal gene transfer",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Archaea were only recognized as a separate domain of life in 1977 \u2014 previously lumped with bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Archaea",
+    "source_name": "Wikipedia - Archaea",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Methanogens produce 1 billion tons of methane annually \u2014 microbial farts contributing to climate change.",
+    "source_url": "https://en.wikipedia.org/wiki/Methanogen",
+    "source_name": "Wikipedia - Methanogen",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Thiomargarita namibiensis is visible to the naked eye \u2014 the largest known bacterium at 0.75 mm.",
+    "source_url": "https://en.wikipedia.org/wiki/Thiomargarita_namibiensis",
+    "source_name": "Wikipedia - Thiomargarita namibiensis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Synthetic biology created the first cell with an entirely artificial genome in 2010 \u2014 life made from scratch.",
+    "source_url": "https://en.wikipedia.org/wiki/Synthetic_biology",
+    "source_name": "Wikipedia - Synthetic biology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacterial cell division can occur every 20 minutes under ideal conditions \u2014 exponential growth at frightening speed.",
+    "source_url": "https://en.wikipedia.org/wiki/Binary_fission",
+    "source_name": "Wikipedia - Binary fission",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "The oldest known fossils are microbial stromatolites 3.5 billion years old \u2014 life started simple and stayed that way for 3 billion years.",
+    "source_url": "https://en.wikipedia.org/wiki/Stromatolite",
+    "source_name": "Wikipedia - Stromatolite",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Microbes have been found in every environment tested on Earth \u2014 there is nowhere microbes haven't colonized.",
+    "source_url": "https://en.wikipedia.org/wiki/Microbiology",
+    "source_name": "Wikipedia - Microbiology",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Bacterial flagella rotate at up to 1000 rpm \u2014 the fastest known biological motor.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacterial_flagellum",
+    "source_name": "Wikipedia - Bacterial flagellum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:00:00.000Z"
+  },
+  {
+    "text": "Scientists created a minimal cell with only 473 genes in 2016 \u2014 the simplest self-replicating life form ever made.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycoplasma_laboratorium",
+    "source_name": "Wikipedia - Minimal cell",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Phage therapy is being revived as 'last resort' treatment for antibiotic-resistant infections in Western hospitals.",
+    "source_url": "https://en.wikipedia.org/wiki/Phage_therapy",
+    "source_name": "Wikipedia - Phage therapy",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "E. coli has been engineered to produce insulin since 1978 \u2014 the first commercial use of genetic engineering.",
+    "source_url": "https://en.wikipedia.org/wiki/Insulin",
+    "source_name": "Wikipedia - Insulin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacteria can be programmed to glow in presence of explosives, arsenic, or disease markers \u2014 living biosensors.",
+    "source_url": "https://en.wikipedia.org/wiki/Biosensor",
+    "source_name": "Wikipedia - Biosensor",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Fecal microbiota transplant (FMT) cures Clostridioides difficile infection in over 90% of cases \u2014 poop as medicine.",
+    "source_url": "https://en.wikipedia.org/wiki/Fecal_microbiota_transplant",
+    "source_name": "Wikipedia - FMT",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Engineered bacteria can produce biofuels, plastics, and pharmaceuticals \u2014 living chemical factories.",
+    "source_url": "https://en.wikipedia.org/wiki/Metabolic_engineering",
+    "source_name": "Wikipedia - Metabolic engineering",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacteria have been engineered to detect and destroy cancer cells \u2014 microbial cancer therapy.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacterial_cancer_therapy",
+    "source_name": "Wikipedia - Bacterial cancer therapy",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bioluminescent bacteria light up the ocean at night \u2014 creating glowing waves and 'milky seas'.",
+    "source_url": "https://en.wikipedia.org/wiki/Bioluminescence",
+    "source_name": "Wikipedia - Bioluminescence",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Photorhabdus luminescens bacteria glow inside nematode worms that invade insect larvae \u2014 illuminated parasitism.",
+    "source_url": "https://en.wikipedia.org/wiki/Photorhabdus",
+    "source_name": "Wikipedia - Photorhabdus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Vibrio fischeri in Hawaiian bobtail squid light organs glow to eliminate the squid's shadow from predators below.",
+    "source_url": "https://en.wikipedia.org/wiki/Vibrio_fischeri",
+    "source_name": "Wikipedia - Vibrio fischeri",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Neisseria gonorrhoeae can acquire human DNA during infection \u2014 stealing our genes.",
+    "source_url": "https://en.wikipedia.org/wiki/Neisseria_gonorrhoeae",
+    "source_name": "Wikipedia - Neisseria gonorrhoeae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Streptococcus mutans produces acid that dissolves tooth enamel \u2014 the main cause of dental cavities.",
+    "source_url": "https://en.wikipedia.org/wiki/Streptococcus_mutans",
+    "source_name": "Wikipedia - Streptococcus mutans",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Chlamydia trachomatis is the most common bacterial sexually transmitted infection \u2014 often symptomless but damaging.",
+    "source_url": "https://en.wikipedia.org/wiki/Chlamydia_trachomatis",
+    "source_name": "Wikipedia - Chlamydia trachomatis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Treponema pallidum (syphilis) cannot be cultured in the lab \u2014 it only grows inside living organisms.",
+    "source_url": "https://en.wikipedia.org/wiki/Treponema_pallidum",
+    "source_name": "Wikipedia - Treponema pallidum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Mycobacterium tuberculosis kills more people than any other single pathogen \u2014 1.5 million deaths annually.",
+    "source_url": "https://en.wikipedia.org/wiki/Tuberculosis",
+    "source_name": "Wikipedia - Tuberculosis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Salmonella can persist on stainless steel surfaces for weeks \u2014 why kitchen hygiene matters.",
+    "source_url": "https://en.wikipedia.org/wiki/Salmonella",
+    "source_name": "Wikipedia - Salmonella",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Listeria monocytogenes grows at refrigerator temperatures \u2014 cold doesn't stop this food pathogen.",
+    "source_url": "https://en.wikipedia.org/wiki/Listeria_monocytogenes",
+    "source_name": "Wikipedia - Listeria monocytogenes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Staphylococcus aureus colonizes the nasal passages of 30% of healthy people \u2014 most carriers never get sick.",
+    "source_url": "https://en.wikipedia.org/wiki/Staphylococcus_aureus",
+    "source_name": "Wikipedia - Staphylococcus aureus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "MRSA (methicillin-resistant S. aureus) evolved in hospitals under antibiotic pressure \u2014 a man-made superbug.",
+    "source_url": "https://en.wikipedia.org/wiki/MRSA",
+    "source_name": "Wikipedia - MRSA",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Pseudomonas aeruginosa can survive in distilled water and disinfectants \u2014 extremely hard to eliminate.",
+    "source_url": "https://en.wikipedia.org/wiki/Pseudomonas_aeruginosa",
+    "source_name": "Wikipedia - Pseudomonas aeruginosa",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Nitrogen-fixing bacteria convert atmospheric N2 to ammonia \u2014 making most life on Earth possible.",
+    "source_url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+    "source_name": "Wikipedia - Nitrogen fixation",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Rhizobia bacteria live in root nodules of legumes, providing plants with nitrogen in exchange for sugars.",
+    "source_url": "https://en.wikipedia.org/wiki/Rhizobia",
+    "source_name": "Wikipedia - Rhizobia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Anaerobic bacteria at the ocean floor generate hydrogen sulfide \u2014 creating toxic 'dead zones'.",
+    "source_url": "https://en.wikipedia.org/wiki/Hydrogen_sulfide",
+    "source_name": "Wikipedia - Hydrogen sulfide",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Nitrifying bacteria convert ammonia to nitrate in soil \u2014 essential for the nitrogen cycle.",
+    "source_url": "https://en.wikipedia.org/wiki/Nitrification",
+    "source_name": "Wikipedia - Nitrification",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Denitrifying bacteria return nitrogen to the atmosphere \u2014 completing Earth's nitrogen cycle.",
+    "source_url": "https://en.wikipedia.org/wiki/Denitrification",
+    "source_name": "Wikipedia - Denitrification",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Sulfur-oxidizing bacteria at hydrothermal vents are primary producers \u2014 life without sunlight.",
+    "source_url": "https://en.wikipedia.org/wiki/Chemolithotrophy",
+    "source_name": "Wikipedia - Chemolithotrophy",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Oil-eating bacteria like Alcanivorax help clean up oil spills \u2014 natural bioremediation.",
+    "source_url": "https://en.wikipedia.org/wiki/Alcanivorax",
+    "source_name": "Wikipedia - Alcanivorax",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Geobacter bacteria can generate electricity by transferring electrons to metal surfaces \u2014 microbial fuel cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Geobacter",
+    "source_name": "Wikipedia - Geobacter",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Shewanella bacteria can reduce uranium from soluble U(VI) to insoluble U(IV) \u2014 biological nuclear waste cleanup.",
+    "source_url": "https://en.wikipedia.org/wiki/Shewanella",
+    "source_name": "Wikipedia - Shewanella",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Anammox bacteria convert ammonium and nitrite directly to nitrogen gas \u2014 discovered only in 1999.",
+    "source_url": "https://en.wikipedia.org/wiki/Anammox",
+    "source_name": "Wikipedia - Anammox",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "HIV mutates so fast that every possible single-nucleotide mutation occurs daily in an infected person.",
+    "source_url": "https://en.wikipedia.org/wiki/HIV",
+    "source_name": "Wikipedia - HIV",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Norovirus particles are so infectious that 18 virus particles can cause disease \u2014 extreme infectivity.",
+    "source_url": "https://en.wikipedia.org/wiki/Norovirus",
+    "source_name": "Wikipedia - Norovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Rotavirus kills over 200,000 children annually worldwide \u2014 mostly in developing countries.",
+    "source_url": "https://en.wikipedia.org/wiki/Rotavirus",
+    "source_name": "Wikipedia - Rotavirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Rhinoviruses (common cold) have over 160 different serotypes \u2014 why you can catch colds repeatedly.",
+    "source_url": "https://en.wikipedia.org/wiki/Rhinovirus",
+    "source_name": "Wikipedia - Rhinovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Coronaviruses are named for their crown-like spike proteins \u2014 'corona' means crown in Latin.",
+    "source_url": "https://en.wikipedia.org/wiki/Coronavirus",
+    "source_name": "Wikipedia - Coronavirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Zika virus can cross the placenta and cause microcephaly in developing fetuses \u2014 a mosquito-borne birth defect.",
+    "source_url": "https://en.wikipedia.org/wiki/Zika_virus",
+    "source_name": "Wikipedia - Zika virus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "West Nile virus arrived in New York in 1999 and spread across North America in 5 years \u2014 viral invasion in real time.",
+    "source_url": "https://en.wikipedia.org/wiki/West_Nile_virus",
+    "source_name": "Wikipedia - West Nile virus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Hantaviruses are spread by breathing dust contaminated with rodent droppings \u2014 inhalation infection.",
+    "source_url": "https://en.wikipedia.org/wiki/Hantavirus",
+    "source_name": "Wikipedia - Hantavirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Nipah virus kills 40-75% of infected people and has no treatment \u2014 one of the deadliest known viruses.",
+    "source_url": "https://en.wikipedia.org/wiki/Nipah_virus",
+    "source_name": "Wikipedia - Nipah virus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Epstein-Barr virus infects 95% of adults worldwide \u2014 usually causing only mild illness or none at all.",
+    "source_url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus",
+    "source_name": "Wikipedia - Epstein-Barr virus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Saccharomyces cerevisiae (baker's yeast) was the first eukaryote to have its genome sequenced (1996).",
+    "source_url": "https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae",
+    "source_name": "Wikipedia - Saccharomyces cerevisiae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Penicillium chrysogenum produces penicillin \u2014 Alexander Fleming's 'mold juice' that changed medicine.",
+    "source_url": "https://en.wikipedia.org/wiki/Penicillium_chrysogenum",
+    "source_name": "Wikipedia - Penicillium chrysogenum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Claviceps purpurea (ergot) causes hallucinations when eaten \u2014 possibly explaining medieval 'dancing plagues'.",
+    "source_url": "https://en.wikipedia.org/wiki/Claviceps_purpurea",
+    "source_name": "Wikipedia - Claviceps purpurea",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Amanita phalloides (death cap) contains toxins that destroy the liver \u2014 responsible for most mushroom deaths.",
+    "source_url": "https://en.wikipedia.org/wiki/Amanita_phalloides",
+    "source_name": "Wikipedia - Amanita phalloides",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Pneumocystis jirovecii was a rare infection until HIV \u2014 then became the leading cause of AIDS deaths.",
+    "source_url": "https://en.wikipedia.org/wiki/Pneumocystis_jirovecii",
+    "source_name": "Wikipedia - Pneumocystis jirovecii",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Coccidioides immitis spores cause 'Valley fever' \u2014 a fungal lung infection endemic to the American Southwest.",
+    "source_url": "https://en.wikipedia.org/wiki/Coccidioides",
+    "source_name": "Wikipedia - Coccidioides",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Blastomyces dermatitidis can disseminate from lungs to skin, bones, and brain \u2014 systemic fungal infection.",
+    "source_url": "https://en.wikipedia.org/wiki/Blastomyces_dermatitidis",
+    "source_name": "Wikipedia - Blastomyces dermatitidis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Microsporum and Trichophyton cause ringworm, athlete's foot, and jock itch \u2014 not worms but fungi.",
+    "source_url": "https://en.wikipedia.org/wiki/Dermatophytosis",
+    "source_name": "Wikipedia - Dermatophytosis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Sporothrix schenckii is called 'rose gardener's disease' \u2014 entering through thorn pricks.",
+    "source_url": "https://en.wikipedia.org/wiki/Sporothrix_schenckii",
+    "source_name": "Wikipedia - Sporothrix schenckii",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Mucormycosis ('black fungus') surged during COVID-19 in India \u2014 opportunistic infection in steroid-treated patients.",
+    "source_url": "https://en.wikipedia.org/wiki/Mucormycosis",
+    "source_name": "Wikipedia - Mucormycosis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Antoni van Leeuwenhoek first saw bacteria in 1676 using a single-lens microscope of his own design.",
+    "source_url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+    "source_name": "Wikipedia - Leeuwenhoek",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Louis Pasteur disproved spontaneous generation in 1859 \u2014 life only comes from life.",
+    "source_url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "source_name": "Wikipedia - Pasteur",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Robert Koch established the germ theory of disease with his famous postulates in 1890.",
+    "source_url": "https://en.wikipedia.org/wiki/Robert_Koch",
+    "source_name": "Wikipedia - Koch",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Ignaz Semmelweis reduced childbirth fever deaths from 10% to 1% with handwashing \u2014 ridiculed, later vindicated.",
+    "source_url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+    "source_name": "Wikipedia - Semmelweis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Joseph Lister introduced antiseptic surgery in 1867 \u2014 saving countless lives from surgical infections.",
+    "source_url": "https://en.wikipedia.org/wiki/Joseph_Lister",
+    "source_name": "Wikipedia - Lister",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The 1918 flu pandemic killed 50-100 million people \u2014 more than World War I itself.",
+    "source_url": "https://en.wikipedia.org/wiki/Spanish_flu",
+    "source_name": "Wikipedia - Spanish flu",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The Black Death killed 30-60% of Europe's population in the 1340s \u2014 Yersinia pestis on an apocalyptic scale.",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Death",
+    "source_name": "Wikipedia - Black Death",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Edward Jenner invented vaccination in 1796 using cowpox to prevent smallpox \u2014 the first immunization.",
+    "source_url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+    "source_name": "Wikipedia - Jenner",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "John Snow traced a cholera outbreak to a water pump in 1854 \u2014 founding epidemiology.",
+    "source_url": "https://en.wikipedia.org/wiki/John_Snow",
+    "source_name": "Wikipedia - John Snow",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Mary Mallon ('Typhoid Mary') infected 51+ people as an asymptomatic carrier \u2014 quarantined for 26 years.",
+    "source_url": "https://en.wikipedia.org/wiki/Mary_Mallon",
+    "source_name": "Wikipedia - Typhoid Mary",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Deinococcus radiodurans repairs its shattered DNA in hours after massive radiation damage \u2014 using backup copies.",
+    "source_url": "https://en.wikipedia.org/wiki/Deinococcus_radiodurans",
+    "source_name": "Wikipedia - D. radiodurans",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Some bacteria can survive on electricity alone \u2014 'electric bacteria' living on electrons.",
+    "source_url": "https://en.wikipedia.org/wiki/Geobacter",
+    "source_name": "Wikipedia - Electric bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Cable bacteria conduct electricity centimeters through sediments \u2014 living electrical wires.",
+    "source_url": "https://en.wikipedia.org/wiki/Cable_bacteria",
+    "source_name": "Wikipedia - Cable bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacteria can be frozen for 250 million years and revived \u2014 trapped in ancient salt crystals.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacillus_permians",
+    "source_name": "Wikipedia - Ancient bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Nematode-trapping fungi form sticky loops and lassos to catch and digest worms \u2014 fungal predators.",
+    "source_url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+    "source_name": "Wikipedia - Nematophagous fungi",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Photobacterium profundum lives at crushing pressures of 280 atmospheres in the deep ocean.",
+    "source_url": "https://en.wikipedia.org/wiki/Photobacterium_profundum",
+    "source_name": "Wikipedia - P. profundum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Sphingomonas bacteria degrade PAHs (polycyclic aromatic hydrocarbons) \u2014 eating toxic pollutants.",
+    "source_url": "https://en.wikipedia.org/wiki/Sphingomonas",
+    "source_name": "Wikipedia - Sphingomonas",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Ideonella sakaiensis evolved to eat plastic (PET) \u2014 discovered in Japanese recycling facility in 2016.",
+    "source_url": "https://en.wikipedia.org/wiki/Ideonella_sakaiensis",
+    "source_name": "Wikipedia - I. sakaiensis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Dehalococcoides bacteria can dechlorinate toxic solvents \u2014 bioremediation for industrial pollution.",
+    "source_url": "https://en.wikipedia.org/wiki/Dehalococcoides",
+    "source_name": "Wikipedia - Dehalococcoides",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Acetobacter bacteria turn wine into vinegar \u2014 the microbes behind 'mother of vinegar'.",
+    "source_url": "https://en.wikipedia.org/wiki/Acetobacter",
+    "source_name": "Wikipedia - Acetobacter",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Gut bacteria produce about 95% of the body's serotonin \u2014 microbes affecting your mood.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "source_name": "Wikipedia - Gut-brain axis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The gut microbiome weighs about 2 kg (4.4 lbs) in an adult \u2014 as heavy as your brain.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source_name": "Wikipedia - Human microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacteroides thetaiotaomicron degrades complex plant polysaccharides \u2014 helping you digest vegetables.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteroides_thetaiotaomicron",
+    "source_name": "Wikipedia - Bacteroides",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Akkermansia muciniphila lives in the gut mucus layer and is associated with metabolic health.",
+    "source_url": "https://en.wikipedia.org/wiki/Akkermansia_muciniphila",
+    "source_name": "Wikipedia - Akkermansia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Faecalibacterium prausnitzii produces butyrate and is depleted in Crohn's disease patients.",
+    "source_url": "https://en.wikipedia.org/wiki/Faecalibacterium_prausnitzii",
+    "source_name": "Wikipedia - Faecalibacterium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Breast milk contains prebiotics (HMOs) that specifically feed beneficial gut bacteria in infants.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_milk_oligosaccharide",
+    "source_name": "Wikipedia - HMOs",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The appendix may serve as a 'safe house' for gut bacteria to repopulate after diarrheal illness.",
+    "source_url": "https://en.wikipedia.org/wiki/Appendix_(anatomy)",
+    "source_name": "Wikipedia - Appendix",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Gut bacteria influence blood pressure, body weight, and even risk of colon cancer.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+    "source_name": "Wikipedia - Gut microbiota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Diet changes can shift gut microbiome composition within 24-48 hours \u2014 rapid microbial adaptation.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+    "source_name": "Wikipedia - Gut microbiota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Exercise increases gut microbiome diversity independently of diet \u2014 yet another benefit of activity.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+    "source_name": "Wikipedia - Gut microbiota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Vancomycin was called 'antibiotic of last resort' until VRSA (vancomycin-resistant S. aureus) emerged.",
+    "source_url": "https://en.wikipedia.org/wiki/Vancomycin-resistant_Staphylococcus_aureus",
+    "source_name": "Wikipedia - VRSA",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Colistin is a last-line antibiotic so toxic it was abandoned \u2014 now revived for pan-resistant infections.",
+    "source_url": "https://en.wikipedia.org/wiki/Colistin",
+    "source_name": "Wikipedia - Colistin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The mcr-1 gene for colistin resistance was first found in Chinese pig farms in 2015 \u2014 agricultural origin.",
+    "source_url": "https://en.wikipedia.org/wiki/MCR-1",
+    "source_name": "Wikipedia - MCR-1",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "NDM-1 (New Delhi metallo-beta-lactamase) makes bacteria resistant to carbapenems \u2014 a global threat.",
+    "source_url": "https://en.wikipedia.org/wiki/NDM-1",
+    "source_name": "Wikipedia - NDM-1",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Extensively drug-resistant TB (XDR-TB) is resistant to at least 4 classes of antibiotics \u2014 nearly untreatable.",
+    "source_url": "https://en.wikipedia.org/wiki/Extensively_drug-resistant_tuberculosis",
+    "source_name": "Wikipedia - XDR-TB",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Antibiotic-resistant Neisseria gonorrhoeae may soon cause untreatable gonorrhea \u2014 'super gonorrhea'.",
+    "source_url": "https://en.wikipedia.org/wiki/Neisseria_gonorrhoeae",
+    "source_name": "Wikipedia - Resistant gonorrhea",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Daptomycin was the first new antibiotic class in 30 years when approved in 2003.",
+    "source_url": "https://en.wikipedia.org/wiki/Daptomycin",
+    "source_name": "Wikipedia - Daptomycin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Most antibiotic classes came from screening soil Streptomyces \u2014 the 'Golden Age' approach is exhausted.",
+    "source_url": "https://en.wikipedia.org/wiki/Streptomyces",
+    "source_name": "Wikipedia - Streptomyces",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Teixobactin was discovered in 2015 from 'unculturable' soil bacteria using the iChip technology.",
+    "source_url": "https://en.wikipedia.org/wiki/Teixobactin",
+    "source_name": "Wikipedia - Teixobactin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Only about 1% of environmental bacteria can be cultured \u2014 vast antibiotic potential remains undiscovered.",
+    "source_url": "https://en.wikipedia.org/wiki/Unculturable_microorganism",
+    "source_name": "Wikipedia - Unculturable bacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Halomonas titanicae was found living on the Titanic wreck \u2014 slowly eating the ship's iron.",
+    "source_url": "https://en.wikipedia.org/wiki/Halomonas_titanicae",
+    "source_name": "Wikipedia - Halomonas titanicae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Tersicoccus phoenicis was found only in spacecraft assembly clean rooms \u2014 thrives where nothing else can.",
+    "source_url": "https://en.wikipedia.org/wiki/Tersicoccus_phoenicis",
+    "source_name": "Wikipedia - Tersicoccus phoenicis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Conan the Bacterium' (D. radiodurans) is listed in the Guinness Book of Records as the most radiation-resistant organism.",
+    "source_url": "https://en.wikipedia.org/wiki/Deinococcus_radiodurans",
+    "source_name": "Wikipedia - D. radiodurans",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacillus infernus was isolated from 2.7 km underground \u2014 one of the deepest bacteria found.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacillus_infernus",
+    "source_name": "Wikipedia - Bacillus infernus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Ferroplasma acidarmanus lives at pH 0 in acid mine drainage \u2014 essentially living in battery acid.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferroplasma",
+    "source_name": "Wikipedia - Ferroplasma",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Thermus aquaticus from Yellowstone hot springs gave us Taq polymerase \u2014 enabling PCR and molecular biology.",
+    "source_url": "https://en.wikipedia.org/wiki/Thermus_aquaticus",
+    "source_name": "Wikipedia - Thermus aquaticus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Pyrococcus furiosus ('furious fireball') grows fastest at 100\u00b0C \u2014 boiling water is its comfort zone.",
+    "source_url": "https://en.wikipedia.org/wiki/Pyrococcus_furiosus",
+    "source_name": "Wikipedia - Pyrococcus furiosus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Natronobacterium gregoryi thrives at pH 11.5 in soda lakes \u2014 more alkaline than ammonia.",
+    "source_url": "https://en.wikipedia.org/wiki/Natronobacterium",
+    "source_name": "Wikipedia - Natronobacterium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Colwellia psychrerythraea grows at -12\u00b0C, the lowest temperature for any known growing organism.",
+    "source_url": "https://en.wikipedia.org/wiki/Colwellia",
+    "source_name": "Wikipedia - Colwellia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Salinibacter ruber is red due to carotenoids and can survive at 5.2 M salt \u2014 saltier than the Dead Sea.",
+    "source_url": "https://en.wikipedia.org/wiki/Salinibacter_ruber",
+    "source_name": "Wikipedia - Salinibacter ruber",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "The oldest living culture is a sourdough starter from 1847 San Francisco \u2014 continuously fed for 175+ years.",
+    "source_url": "https://en.wikipedia.org/wiki/Sourdough",
+    "source_name": "Wikipedia - Sourdough",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Lactobacillus reuteri produces antimicrobials in the gut and has been in humans for millions of years.",
+    "source_url": "https://en.wikipedia.org/wiki/Lactobacillus_reuteri",
+    "source_name": "Wikipedia - L. reuteri",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Oenococcus oeni converts malic acid to lactic acid \u2014 the malolactic fermentation that softens wine.",
+    "source_url": "https://en.wikipedia.org/wiki/Oenococcus_oeni",
+    "source_name": "Wikipedia - Oenococcus oeni",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Propionibacterium freudenreichii creates the holes in Swiss cheese by producing CO2 bubbles.",
+    "source_url": "https://en.wikipedia.org/wiki/Propionibacterium_freudenreichii",
+    "source_name": "Wikipedia - P. freudenreichii",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Bacillus thuringiensis (Bt) produces insecticidal toxins \u2014 the basis of organic pesticides and GMO crops.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacillus_thuringiensis",
+    "source_name": "Wikipedia - Bt",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Nostoc bacteria can fix nitrogen in rice paddies \u2014 natural fertilizer from cyanobacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Nostoc",
+    "source_name": "Wikipedia - Nostoc",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Spirulina (Arthrospira) is sold as a 'superfood' supplement \u2014 cyanobacteria you can eat.",
+    "source_url": "https://en.wikipedia.org/wiki/Spirulina_(dietary_supplement)",
+    "source_name": "Wikipedia - Spirulina",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Xanthomonas campestris produces xanthan gum \u2014 the thickener in salad dressings and ice cream.",
+    "source_url": "https://en.wikipedia.org/wiki/Xanthan_gum",
+    "source_name": "Wikipedia - Xanthan gum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Leuconostoc mesenteroides ferments sauerkraut and pickles \u2014 preserving vegetables without refrigeration.",
+    "source_url": "https://en.wikipedia.org/wiki/Leuconostoc_mesenteroides",
+    "source_name": "Wikipedia - Leuconostoc",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Gluconobacter oxydans partially oxidizes glucose to gluconic acid \u2014 used industrially for vitamin C production.",
+    "source_url": "https://en.wikipedia.org/wiki/Gluconobacter",
+    "source_name": "Wikipedia - Gluconobacter",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T21:30:00.000Z"
+  },
+  {
+    "text": "Mimicry virus (Mimivirus) was mistaken for a bacterium for years due to its giant size \u2014 over 400 nm.",
+    "source_url": "https://en.wikipedia.org/wiki/Mimivirus",
+    "source_name": "Wikipedia - Mimivirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Sputnik virophage infects Mimivirus and reduces its replication \u2014 a virus parasite of a virus.",
+    "source_url": "https://en.wikipedia.org/wiki/Sputnik_virophage",
+    "source_name": "Wikipedia - Sputnik virophage",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Pithovirus sibericum was revived after 30,000 years frozen in Siberian permafrost \u2014 still infectious.",
+    "source_url": "https://en.wikipedia.org/wiki/Pithovirus",
+    "source_name": "Wikipedia - Pithovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Mollivirus was awakened from 30,000-year-old permafrost in 2015 \u2014 ancient giant virus resurrection.",
+    "source_url": "https://en.wikipedia.org/wiki/Mollivirus",
+    "source_name": "Wikipedia - Mollivirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Viruses may have originated from ancient cells that became parasitic \u2014 the 'regressive hypothesis'.",
+    "source_url": "https://en.wikipedia.org/wiki/Viral_evolution",
+    "source_name": "Wikipedia - Viral evolution",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Tobacco mosaic virus was the first virus discovered (1898) \u2014 crystallized to prove viruses weren't cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Tobacco_mosaic_virus",
+    "source_name": "Wikipedia - TMV",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Porcine circovirus is one of the smallest viruses at 17 nm \u2014 barely larger than a ribosome.",
+    "source_url": "https://en.wikipedia.org/wiki/Porcine_circovirus",
+    "source_name": "Wikipedia - Porcine circovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Circoviruses have circular single-stranded DNA \u2014 the smallest DNA genomes known in viruses.",
+    "source_url": "https://en.wikipedia.org/wiki/Circoviridae",
+    "source_name": "Wikipedia - Circoviridae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Polioviruses infect through the intestine but cross into the nervous system \u2014 gut infection with neurological consequences.",
+    "source_url": "https://en.wikipedia.org/wiki/Poliovirus",
+    "source_name": "Wikipedia - Poliovirus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Adeno-associated virus (AAV) integrates into a specific location on human chromosome 19 \u2014 remarkably predictable.",
+    "source_url": "https://en.wikipedia.org/wiki/Adeno-associated_virus",
+    "source_name": "Wikipedia - AAV",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Archaea have cell membranes with ether-linked lipids \u2014 fundamentally different from bacterial fatty acid membranes.",
+    "source_url": "https://en.wikipedia.org/wiki/Archaea",
+    "source_name": "Wikipedia - Archaea",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Lokiarchaeota was discovered in 2015 and may represent the transition from archaea to eukaryotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Lokiarchaeota",
+    "source_name": "Wikipedia - Lokiarchaeota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Asgard archaea have genes for actin and other cytoskeleton proteins \u2014 archaeal ancestors of eukaryotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Asgard_(archaea)",
+    "source_name": "Wikipedia - Asgard archaea",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "LUCA (Last Universal Common Ancestor) lived 3.5-3.8 billion years ago \u2014 the ancestor of all life on Earth.",
+    "source_url": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+    "source_name": "Wikipedia - LUCA",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Horizontal gene transfer may have preceded vertical inheritance in early life \u2014 genes flowing freely before species existed.",
+    "source_url": "https://en.wikipedia.org/wiki/Horizontal_gene_transfer",
+    "source_name": "Wikipedia - HGT",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Nanoarchaeota are symbiotic archaea only 400 nm in diameter \u2014 among the smallest cells known.",
+    "source_url": "https://en.wikipedia.org/wiki/Nanoarchaeota",
+    "source_name": "Wikipedia - Nanoarchaeota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Nanoarchaeum equitans attaches to Ignicoccus cells and lacks genes for most metabolic pathways \u2014 dependent on its host.",
+    "source_url": "https://en.wikipedia.org/wiki/Nanoarchaeum_equitans",
+    "source_name": "Wikipedia - N. equitans",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Thaumarchaea are the most abundant archaea in the ocean \u2014 dominating ammonia oxidation.",
+    "source_url": "https://en.wikipedia.org/wiki/Thaumarchaeota",
+    "source_name": "Wikipedia - Thaumarchaeota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Candidatus Prometheoarchaeum took 12 years to culture \u2014 the closest archaeal relative to eukaryotes.",
+    "source_url": "https://en.wikipedia.org/wiki/Candidatus_Prometheoarchaeum",
+    "source_name": "Wikipedia - Prometheoarchaeum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Sulfolobus species have internal cytoplasm compartments \u2014 approaching eukaryotic complexity.",
+    "source_url": "https://en.wikipedia.org/wiki/Sulfolobus",
+    "source_name": "Wikipedia - Sulfolobus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Staphylococcus epidermidis protects skin by producing antimicrobials against pathogens.",
+    "source_url": "https://en.wikipedia.org/wiki/Staphylococcus_epidermidis",
+    "source_name": "Wikipedia - S. epidermidis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Propionibacterium acnes (now Cutibacterium) lives in skin pores and is associated with acne.",
+    "source_url": "https://en.wikipedia.org/wiki/Cutibacterium_acnes",
+    "source_name": "Wikipedia - C. acnes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Corynebacterium produces the armpit smell \u2014 your body odor is bacterial metabolism.",
+    "source_url": "https://en.wikipedia.org/wiki/Corynebacterium",
+    "source_name": "Wikipedia - Corynebacterium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Demodex mites live in human hair follicles and feed on skin cells \u2014 you have them in your eyelashes.",
+    "source_url": "https://en.wikipedia.org/wiki/Demodex",
+    "source_name": "Wikipedia - Demodex",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Brevibacterium linens gives Limburger cheese its distinctive foot-like smell \u2014 same bacteria on feet.",
+    "source_url": "https://en.wikipedia.org/wiki/Brevibacterium_linens",
+    "source_name": "Wikipedia - B. linens",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Foot bacteria attract mosquitoes \u2014 the more diverse your foot microbiome, the more bites you get.",
+    "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+    "source_name": "Wikipedia - Mosquito",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bacteria under your arms can hydrolyze testosterone into smelly steroids \u2014 different bacteria, different smells.",
+    "source_url": "https://en.wikipedia.org/wiki/Body_odor",
+    "source_name": "Wikipedia - Body odor",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Oral bacteria form plaque biofilms within hours of brushing \u2014 teeth are never truly 'clean'.",
+    "source_url": "https://en.wikipedia.org/wiki/Dental_plaque",
+    "source_name": "Wikipedia - Dental plaque",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Porphyromonas gingivalis linked to gum disease has been found in Alzheimer's brain plaques.",
+    "source_url": "https://en.wikipedia.org/wiki/Porphyromonas_gingivalis",
+    "source_name": "Wikipedia - P. gingivalis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Fusobacterium nucleatum oral bacteria have been found in colorectal tumors \u2014 oral microbes gone astray.",
+    "source_url": "https://en.wikipedia.org/wiki/Fusobacterium_nucleatum",
+    "source_name": "Wikipedia - F. nucleatum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Clostridia include both deadly pathogens (C. botulinum, C. tetani) and beneficial gut bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridia",
+    "source_name": "Wikipedia - Clostridia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Clostridium tetani spores are everywhere in soil \u2014 any deep wound can cause tetanus without vaccination.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridium_tetani",
+    "source_name": "Wikipedia - C. tetani",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Clostridium perfringens can double in just 10 minutes \u2014 one of the fastest-growing bacteria known.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridium_perfringens",
+    "source_name": "Wikipedia - C. perfringens",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Gas gangrene bacteria produce tissue-destroying enzymes and hydrogen gas \u2014 causing crackling under skin.",
+    "source_url": "https://en.wikipedia.org/wiki/Gas_gangrene",
+    "source_name": "Wikipedia - Gas gangrene",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Clostridioides difficile infection causes nearly 500,000 cases and 29,000 deaths annually in the US.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridioides_difficile_infection",
+    "source_name": "Wikipedia - C. diff",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "C. diff spores can survive on hospital surfaces for months \u2014 persistent nosocomial threat.",
+    "source_url": "https://en.wikipedia.org/wiki/Clostridioides_difficile",
+    "source_name": "Wikipedia - C. diff",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Streptococcus pyogenes ('flesh-eating bacteria') can kill within 24 hours of first symptoms.",
+    "source_url": "https://en.wikipedia.org/wiki/Streptococcus_pyogenes",
+    "source_name": "Wikipedia - S. pyogenes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Vibrio vulnificus from raw oysters has 50% mortality \u2014 deadliest foodborne infection in the US.",
+    "source_url": "https://en.wikipedia.org/wiki/Vibrio_vulnificus",
+    "source_name": "Wikipedia - V. vulnificus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Burkholderia cepacia is harmless to most but deadly to cystic fibrosis patients \u2014 host-dependent virulence.",
+    "source_url": "https://en.wikipedia.org/wiki/Burkholderia_cepacia_complex",
+    "source_name": "Wikipedia - B. cepacia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bartonella henselae causes cat scratch disease \u2014 bacteria transmitted by cat scratches and flea bites.",
+    "source_url": "https://en.wikipedia.org/wiki/Bartonella_henselae",
+    "source_name": "Wikipedia - B. henselae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Leprosy (Mycobacterium leprae) still affects 200,000 new people annually \u2014 not an ancient disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Leprosy",
+    "source_name": "Wikipedia - Leprosy",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "M. leprae cannot be cultured in the lab \u2014 only in armadillos and mouse foot pads.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_leprae",
+    "source_name": "Wikipedia - M. leprae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Armadillos naturally carry leprosy and can transmit it to humans \u2014 a zoonotic reservoir in the Americas.",
+    "source_url": "https://en.wikipedia.org/wiki/Armadillo",
+    "source_name": "Wikipedia - Armadillo",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Tuberculosis bacteria can enter a dormant state for decades \u2014 reactivating when immunity wanes.",
+    "source_url": "https://en.wikipedia.org/wiki/Latent_tuberculosis",
+    "source_name": "Wikipedia - Latent TB",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "One-quarter of the world's population has latent TB infection \u2014 a massive reservoir of potential disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Tuberculosis",
+    "source_name": "Wikipedia - Tuberculosis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Mycobacterium ulcerans causes Buruli ulcer \u2014 the third most common mycobacterial disease after TB and leprosy.",
+    "source_url": "https://en.wikipedia.org/wiki/Buruli_ulcer",
+    "source_name": "Wikipedia - Buruli ulcer",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "MAC (Mycobacterium avium complex) infection is common in AIDS patients with low CD4 counts.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_avium_complex",
+    "source_name": "Wikipedia - MAC",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Nontuberculous mycobacteria are increasing in hot tubs, showerheads, and swimming pools.",
+    "source_url": "https://en.wikipedia.org/wiki/Nontuberculous_mycobacteria",
+    "source_name": "Wikipedia - NTM",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Mycobacterium marinum causes 'fish tank granuloma' \u2014 infection from aquarium water or fish.",
+    "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_marinum",
+    "source_name": "Wikipedia - M. marinum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "TB treatment requires 6+ months of multiple antibiotics \u2014 short-cut courses lead to resistance.",
+    "source_url": "https://en.wikipedia.org/wiki/Tuberculosis_treatment",
+    "source_name": "Wikipedia - TB treatment",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Plasmodium falciparum (malaria) kills over 600,000 people annually \u2014 mostly African children.",
+    "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+    "source_name": "Wikipedia - Malaria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Trypanosoma brucei causes sleeping sickness by crossing the blood-brain barrier \u2014 fatal if untreated.",
+    "source_url": "https://en.wikipedia.org/wiki/Trypanosoma_brucei",
+    "source_name": "Wikipedia - T. brucei",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Trypanosoma cruzi (Chagas disease) infects 6-7 million people in Latin America \u2014 often for life.",
+    "source_url": "https://en.wikipedia.org/wiki/Chagas_disease",
+    "source_name": "Wikipedia - Chagas disease",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Toxoplasma gondii infects 30-50% of humans \u2014 possibly altering behavior and risk-taking.",
+    "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+    "source_name": "Wikipedia - Toxoplasma",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Toxoplasma can only sexually reproduce in cats \u2014 all other hosts are 'dead ends' for its lifecycle.",
+    "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+    "source_name": "Wikipedia - Toxoplasma",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Giardia lamblia has two nuclei per cell \u2014 giving it a 'face-like' appearance under microscopy.",
+    "source_url": "https://en.wikipedia.org/wiki/Giardia_lamblia",
+    "source_name": "Wikipedia - Giardia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Cryptosporidium survives chlorination of swimming pools \u2014 the leading cause of recreational water illness.",
+    "source_url": "https://en.wikipedia.org/wiki/Cryptosporidium",
+    "source_name": "Wikipedia - Cryptosporidium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Entamoeba histolytica causes amebic dysentery \u2014 the third leading parasitic cause of death worldwide.",
+    "source_url": "https://en.wikipedia.org/wiki/Entamoeba_histolytica",
+    "source_name": "Wikipedia - E. histolytica",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Naegleria fowleri is the 'brain-eating amoeba' \u2014 97% fatal infection from warm freshwater.",
+    "source_url": "https://en.wikipedia.org/wiki/Naegleria_fowleri",
+    "source_name": "Wikipedia - N. fowleri",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Acanthamoeba keratitis comes from contaminated contact lens solutions \u2014 blindness from protozoa.",
+    "source_url": "https://en.wikipedia.org/wiki/Acanthamoeba_keratitis",
+    "source_name": "Wikipedia - Acanthamoeba",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Phytoplankton produce 50% of Earth's oxygen \u2014 half of every breath comes from ocean microbes.",
+    "source_url": "https://en.wikipedia.org/wiki/Phytoplankton",
+    "source_name": "Wikipedia - Phytoplankton",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Prochlorococcus is the smallest and most abundant photosynthetic organism \u2014 feeding the base of ocean food webs.",
+    "source_url": "https://en.wikipedia.org/wiki/Prochlorococcus",
+    "source_name": "Wikipedia - Prochlorococcus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Marine viruses kill 20-40% of ocean bacteria daily \u2014 driving nutrient cycling and carbon flux.",
+    "source_url": "https://en.wikipedia.org/wiki/Marine_virus",
+    "source_name": "Wikipedia - Marine viruses",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Viral shunt returns bacterial carbon to dissolved organic matter \u2014 short-circuiting the food chain.",
+    "source_url": "https://en.wikipedia.org/wiki/Viral_shunt",
+    "source_name": "Wikipedia - Viral shunt",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Ocean bacteria contain 3 gigatons of carbon \u2014 more than all fish combined.",
+    "source_url": "https://en.wikipedia.org/wiki/Marine_microorganism",
+    "source_name": "Wikipedia - Marine microbes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "A single liter of seawater contains 1 billion bacteria and 10 billion viruses.",
+    "source_url": "https://en.wikipedia.org/wiki/Marine_microorganism",
+    "source_name": "Wikipedia - Marine microbes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Synechococcus cyanobacteria produce sticky polysaccharides that aggregate into marine snow.",
+    "source_url": "https://en.wikipedia.org/wiki/Synechococcus",
+    "source_name": "Wikipedia - Synechococcus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Coral bleaching occurs when corals expel their symbiotic Symbiodinium algae under heat stress.",
+    "source_url": "https://en.wikipedia.org/wiki/Coral_bleaching",
+    "source_name": "Wikipedia - Coral bleaching",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Giant kelp forests depend on bacteria to remineralize nutrients in the water column.",
+    "source_url": "https://en.wikipedia.org/wiki/Kelp_forest",
+    "source_name": "Wikipedia - Kelp forest",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Deep ocean bacteria survive for millions of years with almost no energy \u2014 metabolic rates near zero.",
+    "source_url": "https://en.wikipedia.org/wiki/Deep_biosphere",
+    "source_name": "Wikipedia - Deep biosphere",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bacterial spores have been germinated after 40 million years trapped in amber \u2014 extreme longevity.",
+    "source_url": "https://en.wikipedia.org/wiki/Endospore",
+    "source_name": "Wikipedia - Endospore",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bdelloid rotifers have survived 24 million years without sex \u2014 incorporating foreign genes horizontally.",
+    "source_url": "https://en.wikipedia.org/wiki/Bdelloid_rotifer",
+    "source_name": "Wikipedia - Bdelloid rotifer",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Some bacteria can survive millions of years in Antarctic ice \u2014 psychrophile extremes.",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrophile",
+    "source_name": "Wikipedia - Psychrophile",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Zombie bacteria can exist in a viable but non-culturable state (VBNC) \u2014 alive but won't grow in lab.",
+    "source_url": "https://en.wikipedia.org/wiki/Viable_but_nonculturable",
+    "source_name": "Wikipedia - VBNC",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Persister cells are dormant bacteria that survive antibiotics without resistance genes \u2014 phenotypic tolerance.",
+    "source_url": "https://en.wikipedia.org/wiki/Persister_cell",
+    "source_name": "Wikipedia - Persister cells",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Biofilm bacteria are 10-1000 times more resistant to antibiotics than planktonic cells.",
+    "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+    "source_name": "Wikipedia - Biofilm",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Microbes in biofilms communicate via electrical signals \u2014 bacterial 'neural' networks.",
+    "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+    "source_name": "Wikipedia - Biofilm",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Dental biofilms can contain 600+ bacterial species \u2014 complex ecosystems in your mouth.",
+    "source_url": "https://en.wikipedia.org/wiki/Dental_biofilm",
+    "source_name": "Wikipedia - Dental biofilm",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Catheters, implants, and medical devices are common sites for biofilm infections \u2014 80% of chronic infections.",
+    "source_url": "https://en.wikipedia.org/wiki/Medical_device",
+    "source_name": "Wikipedia - Medical device biofilm",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Quorum quenching enzymes can disrupt biofilm formation \u2014 a new approach to fighting infection.",
+    "source_url": "https://en.wikipedia.org/wiki/Quorum_quenching",
+    "source_name": "Wikipedia - Quorum quenching",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "The vagal nerve connects gut bacteria to brain function \u2014 the gut-brain axis.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "source_name": "Wikipedia - Gut-brain axis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Gut bacteria produce neurotransmitters like GABA and dopamine \u2014 microbial mood modulation.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "source_name": "Wikipedia - Gut-brain axis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Germ-free mice have abnormal brain development and behavior \u2014 proving microbiome-brain links.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "source_name": "Wikipedia - Germ-free mice",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Autism spectrum disorder is associated with altered gut microbiome composition in many studies.",
+    "source_url": "https://en.wikipedia.org/wiki/Autism",
+    "source_name": "Wikipedia - Autism",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Depression and anxiety correlate with reduced gut microbiome diversity \u2014 psychobiotics are being developed.",
+    "source_url": "https://en.wikipedia.org/wiki/Psychobiotic",
+    "source_name": "Wikipedia - Psychobiotics",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bifidobacterium infantis is critical for infant gut health \u2014 evolved specifically for breast-fed babies.",
+    "source_url": "https://en.wikipedia.org/wiki/Bifidobacterium_infantis",
+    "source_name": "Wikipedia - B. infantis",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "C-section babies have different gut microbiomes than vaginally-delivered babies for years.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+    "source_name": "Wikipedia - Gut microbiota",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Antibiotic use in infancy is linked to increased risk of allergies, asthma, and obesity later.",
+    "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+    "source_name": "Wikipedia - Infant microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Hunter-gatherer Hadza people have 40% more gut bacterial diversity than Westerners.",
+    "source_url": "https://en.wikipedia.org/wiki/Hadza_people",
+    "source_name": "Wikipedia - Hadza microbiome",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Enterotypes are distinct gut bacterial community types \u2014 like blood types for your microbiome.",
+    "source_url": "https://en.wikipedia.org/wiki/Enterotype",
+    "source_name": "Wikipedia - Enterotypes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bacteriocins are antimicrobial peptides bacteria use to kill competitors \u2014 natural antibiotics.",
+    "source_url": "https://en.wikipedia.org/wiki/Bacteriocin",
+    "source_name": "Wikipedia - Bacteriocin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Nisin from Lactococcus lactis is a food preservative used since the 1950s \u2014 bacterial antibiotic in your food.",
+    "source_url": "https://en.wikipedia.org/wiki/Nisin",
+    "source_name": "Wikipedia - Nisin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Type VI secretion systems are molecular syringes bacteria use to inject toxins into competitors.",
+    "source_url": "https://en.wikipedia.org/wiki/Type_VI_secretion_system",
+    "source_name": "Wikipedia - T6SS",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Contact-dependent inhibition lets bacteria inject toxins only into touching cells \u2014 close-range warfare.",
+    "source_url": "https://en.wikipedia.org/wiki/Contact-dependent_growth_inhibition",
+    "source_name": "Wikipedia - CDI",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Myxococcus xanthus hunts in packs and digests prey bacteria \u2014 wolves of the microbial world.",
+    "source_url": "https://en.wikipedia.org/wiki/Myxococcus_xanthus",
+    "source_name": "Wikipedia - Myxococcus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Bdellovibrio bacteriovorus is a predatory bacterium that invades and consumes other bacteria from inside.",
+    "source_url": "https://en.wikipedia.org/wiki/Bdellovibrio_bacteriovorus",
+    "source_name": "Wikipedia - Bdellovibrio",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Vampirococcus attaches to prey bacteria and sucks out their cytoplasm \u2014 bacterial vampire.",
+    "source_url": "https://en.wikipedia.org/wiki/Vampirovibrio",
+    "source_name": "Wikipedia - Vampirococcus",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Micavibrio feeds on the outer surface of other bacteria \u2014 grazing rather than hunting.",
+    "source_url": "https://en.wikipedia.org/wiki/Micavibrio",
+    "source_name": "Wikipedia - Micavibrio",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Some bacteria produce antibiotics only when population density is high enough \u2014 quorum-sensing weapons.",
+    "source_url": "https://en.wikipedia.org/wiki/Quorum_sensing",
+    "source_name": "Wikipedia - Quorum sensing",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Allelopathy in bacteria includes producing antibiotics, siderophores, and volatile compounds to suppress competitors.",
+    "source_url": "https://en.wikipedia.org/wiki/Allelopathy",
+    "source_name": "Wikipedia - Bacterial allelopathy",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Azospirillum promotes plant growth by producing auxins \u2014 bacteria as natural fertilizers.",
+    "source_url": "https://en.wikipedia.org/wiki/Azospirillum",
+    "source_name": "Wikipedia - Azospirillum",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Pseudomonas fluorescens protects plant roots by producing antifungal compounds \u2014 biocontrol agents.",
+    "source_url": "https://en.wikipedia.org/wiki/Pseudomonas_fluorescens",
+    "source_name": "Wikipedia - P. fluorescens",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Frankia bacteria fix nitrogen in actinorhizal plants like alder \u2014 not just legumes have bacterial partners.",
+    "source_url": "https://en.wikipedia.org/wiki/Frankia",
+    "source_name": "Wikipedia - Frankia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Plant immune systems can distinguish beneficial from pathogenic bacteria \u2014 selective recognition.",
+    "source_url": "https://en.wikipedia.org/wiki/Plant_immune_system",
+    "source_name": "Wikipedia - Plant immunity",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Agrobacterium tumefaciens transfers DNA into plant cells \u2014 the basis of plant genetic engineering.",
+    "source_url": "https://en.wikipedia.org/wiki/Agrobacterium_tumefaciens",
+    "source_name": "Wikipedia - Agrobacterium",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Crown gall disease is caused by Agrobacterium inserting genes that make plant cells produce bacterial food.",
+    "source_url": "https://en.wikipedia.org/wiki/Crown_gall",
+    "source_name": "Wikipedia - Crown gall",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Fire blight (Erwinia amylovora) can kill an apple orchard in one season \u2014 devastating bacterial disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Fire_blight",
+    "source_name": "Wikipedia - Fire blight",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Xylella fastidiosa causes Pierce's disease in grapevines \u2014 spread by sharpshooter insects.",
+    "source_url": "https://en.wikipedia.org/wiki/Xylella_fastidiosa",
+    "source_name": "Wikipedia - Xylella fastidiosa",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Phytoplasmas cause 'witch's broom' disease \u2014 turning orderly plants into tangled masses.",
+    "source_url": "https://en.wikipedia.org/wiki/Phytoplasma",
+    "source_name": "Wikipedia - Phytoplasma",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Ralstonia solanacearum causes bacterial wilt in over 200 plant species \u2014 one of the most destructive pathogens.",
+    "source_url": "https://en.wikipedia.org/wiki/Ralstonia_solanacearum",
+    "source_name": "Wikipedia - Ralstonia",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:00:00.000Z"
+  },
+  {
+    "text": "Streptomyces produce over 75% of clinically useful antibiotics \u2014 the pharmaceutical goldmine of soil bacteria.",
+    "source_url": "https://en.wikipedia.org/wiki/Streptomyces",
+    "source_name": "Wikipedia - Streptomyces",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "The petrichor smell after rain comes partly from geosmin produced by Streptomyces \u2014 bacterial aromatherapy.",
+    "source_url": "https://en.wikipedia.org/wiki/Geosmin",
+    "source_name": "Wikipedia - Geosmin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Actinomycetes form filamentous colonies that look like fungal mycelium \u2014 bacteria pretending to be fungi.",
+    "source_url": "https://en.wikipedia.org/wiki/Actinomycetota",
+    "source_name": "Wikipedia - Actinomycetes",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Caulobacter crescentus produces the strongest biological adhesive known \u2014 stronger than superglue.",
+    "source_url": "https://en.wikipedia.org/wiki/Caulobacter_crescentus",
+    "source_name": "Wikipedia - Caulobacter",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Bacterial nanowires can conduct electricity over centimeter distances \u2014 living electrical components.",
+    "source_url": "https://en.wikipedia.org/wiki/Microbial_nanowire",
+    "source_name": "Wikipedia - Bacterial nanowires",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Cyanobacteria created the Great Oxidation Event 2.4 billion years ago \u2014 they made our atmosphere breathable.",
+    "source_url": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+    "source_name": "Wikipedia - Great Oxidation Event",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Some cyanobacteria can perform photosynthesis and nitrogen fixation \u2014 but not in the same cell at the same time.",
+    "source_url": "https://en.wikipedia.org/wiki/Cyanobacteria",
+    "source_name": "Wikipedia - Cyanobacteria",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Heterocysts in cyanobacteria are specialized nitrogen-fixing cells that exclude oxygen.",
+    "source_url": "https://en.wikipedia.org/wiki/Heterocyst",
+    "source_name": "Wikipedia - Heterocyst",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Harmful algal blooms (HABs) produce neurotoxins that can kill fish, birds, and even humans.",
+    "source_url": "https://en.wikipedia.org/wiki/Harmful_algal_bloom",
+    "source_name": "Wikipedia - HABs",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Microcystin from cyanobacteria is one of the most powerful liver toxins known \u2014 contaminating drinking water.",
+    "source_url": "https://en.wikipedia.org/wiki/Microcystin",
+    "source_name": "Wikipedia - Microcystin",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Beta-lactamase enzymes destroy penicillin-type antibiotics \u2014 bacteria's molecular defense against our drugs.",
+    "source_url": "https://en.wikipedia.org/wiki/Beta-lactamase",
+    "source_name": "Wikipedia - Beta-lactamase",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Efflux pumps actively expel antibiotics from bacterial cells \u2014 a major mechanism of multidrug resistance.",
+    "source_url": "https://en.wikipedia.org/wiki/Efflux_(microbiology)",
+    "source_name": "Wikipedia - Efflux pumps",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Riboswitches in bacterial mRNA can sense antibiotics and trigger resistance \u2014 RNA-based defense systems.",
+    "source_url": "https://en.wikipedia.org/wiki/Riboswitch",
+    "source_name": "Wikipedia - Riboswitch",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Integrons can capture and express antibiotic resistance genes \u2014 modular genetic resistance platforms.",
+    "source_url": "https://en.wikipedia.org/wiki/Integron",
+    "source_name": "Wikipedia - Integron",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Plasmids can carry multiple resistance genes \u2014 one transfer can make a bacterium resistant to many antibiotics.",
+    "source_url": "https://en.wikipedia.org/wiki/Plasmid",
+    "source_name": "Wikipedia - Plasmid",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "R-plasmids (resistance plasmids) were discovered in Japan in the 1950s during Shigella dysentery outbreaks.",
+    "source_url": "https://en.wikipedia.org/wiki/R-plasmid",
+    "source_name": "Wikipedia - R-plasmid",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Pathogenicity islands are chunks of DNA that convert harmless bacteria into pathogens \u2014 transferable virulence.",
+    "source_url": "https://en.wikipedia.org/wiki/Pathogenicity_island",
+    "source_name": "Wikipedia - Pathogenicity island",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Transduction by phages can move virulence genes between bacterial species \u2014 virus-mediated gene transfer.",
+    "source_url": "https://en.wikipedia.org/wiki/Transduction_(genetics)",
+    "source_name": "Wikipedia - Transduction",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Transformation lets bacteria absorb naked DNA from dead cells \u2014 recycling genetic information from corpses.",
+    "source_url": "https://en.wikipedia.org/wiki/Transformation_(genetics)",
+    "source_name": "Wikipedia - Transformation",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "The first whole genome sequence of a free-living organism was Haemophilus influenzae in 1995.",
+    "source_url": "https://en.wikipedia.org/wiki/Haemophilus_influenzae",
+    "source_name": "Wikipedia - H. influenzae",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Metagenomic sequencing can identify all microbes in a sample without culturing \u2014 sampling the unculturable.",
+    "source_url": "https://en.wikipedia.org/wiki/Metagenomics",
+    "source_name": "Wikipedia - Metagenomics",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "16S rRNA gene sequencing is the 'barcode' for identifying bacteria \u2014 universal bacterial fingerprinting.",
+    "source_url": "https://en.wikipedia.org/wiki/16S_ribosomal_RNA",
+    "source_name": "Wikipedia - 16S rRNA",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "MALDI-TOF mass spectrometry identifies bacteria in minutes by their protein fingerprint \u2014 rapid diagnosis.",
+    "source_url": "https://en.wikipedia.org/wiki/MALDI-TOF",
+    "source_name": "Wikipedia - MALDI-TOF",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Oxford Nanopore sequencing can identify pathogens in real-time \u2014 diagnosis at the bedside.",
+    "source_url": "https://en.wikipedia.org/wiki/Nanopore_sequencing",
+    "source_name": "Wikipedia - Nanopore sequencing",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  },
+  {
+    "text": "Single-cell sequencing reveals heterogeneity within bacterial populations \u2014 not all cells are the same.",
+    "source_url": "https://en.wikipedia.org/wiki/Single_cell_sequencing",
+    "source_name": "Wikipedia - Single-cell sequencing",
+    "category": "microbiology_pathogens",
+    "extracted_at": "2026-01-30T22:30:00.000Z"
+  }
+]
