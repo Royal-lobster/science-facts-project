@@ -14,15 +14,16 @@ size_categories:
   - 10K<n<100K
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://em-content.zobj.net/source/apple/391/microscope_1f52c.png" width="100" />
+</p>
 
-# 🔬 Science Facts
+<h1 align="center">Science Facts</h1>
 
-**10,000 obscure, surprising, and verifiable science facts**
-
-The kind that make you go "wait, really?"
-
-</div>
+<p align="center">
+  <strong>10,000 obscure, surprising, and verifiable science facts</strong><br/>
+  The kind that make you go "wait, really?"
+</p>
 
 ---
 
