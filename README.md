@@ -14,11 +14,30 @@ size_categories:
   - 10K<n<100K
 ---
 
-# 10,000 Science Facts
+<div align="center">
 
-A collection of obscure, surprising, and verifiable science facts — the kind that make you go "wait, really?"
+# 🔬 Science Facts
 
-## Examples
+**10,000 obscure, surprising, and verifiable science facts**
+
+The kind that make you go "wait, really?"
+
+</div>
+
+---
+
+## 🤔 What is this?
+
+A curated dataset of **10,003 science facts** across 32 categories — from quantum physics to parasites to the history of food.
+
+Every fact is:
+- **Sourced** — from Wikipedia, Wikidata, academic sources
+- **Verifiable** — no LLM hallucinations
+- **Surprising** — passes the "dinner party test"
+
+---
+
+## ✨ Examples
 
 > The mantis shrimp's punch accelerates faster than a bullet and generates cavitation bubbles that reach temperatures close to the sun's surface.
 
@@ -26,66 +45,91 @@ A collection of obscure, surprising, and verifiable science facts — the kind t
 
 > The peacock uses infrasound in its mating display, producing frequencies humans cannot hear but which may be felt by potential mates.
 
-> Human trafficking generates an estimated $150 billion per year globally, more than the GDP of most countries, with 25 million victims worldwide.
-
 > Coffee was supposedly discovered when Ethiopian goatherds noticed their goats acting energetic after eating coffee berries.
 
-## What's in here
+---
 
-**10,003 facts** across 32 categories — everything from quantum physics to parasites to the history of food.
+## 📊 Categories
 
-| Category | Facts | What it covers |
-|----------|-------|----------------|
-| microbiology | 865 | Bacteria, viruses, parasites, pathogens |
-| biology | 860 | Animals, weird creatures, animal behavior |
-| astronomy | 613 | Space, stars, planets, cosmology |
-| computer_science | 524 | Algorithms, computing history, AI |
-| botany | 514 | Plants, trees, fungi |
-| paleontology | 489 | Dinosaurs, fossils, ancient life |
-| earth_science | 487 | Geology, geography, glaciers |
-| food_science | 476 | Cooking chemistry, nutrition facts |
-| linguistics | 469 | Languages, etymology, writing systems |
-| marine_biology | 407 | Ocean creatures, deep sea |
-| chemistry | 396 | Elements, materials, reactions |
-| entomology | 372 | Insects (they deserve their own category) |
-| economics | 359 | Game theory, behavioral economics |
-| weather | 305 | Extreme weather, climate |
-| inventions | 282 | Discoveries, accidental inventions |
-| human_body | 278 | Anatomy, weird body facts |
-| forensics | 230 | Crime science, investigation |
-| music | 219 | Acoustics, sound, instruments |
-| physics | 215 | Quantum mechanics, optics |
-| sleep | 210 | Dreams, circadian rhythms |
-| + 12 more... | | |
+| Category | Count | What's inside |
+|----------|------:|---------------|
+| 🦠 microbiology | 865 | Bacteria, viruses, parasites |
+| 🐾 biology | 860 | Animals, weird creatures |
+| 🌌 astronomy | 613 | Space, stars, planets |
+| 💻 computer_science | 524 | Algorithms, computing history |
+| 🌿 botany | 514 | Plants, trees, fungi |
+| 🦴 paleontology | 489 | Dinosaurs, fossils |
+| 🌍 earth_science | 487 | Geology, geography |
+| 🍳 food_science | 476 | Cooking chemistry, nutrition |
+| 🗣️ linguistics | 469 | Languages, etymology |
+| 🐠 marine_biology | 407 | Ocean creatures |
+| ⚗️ chemistry | 396 | Elements, materials |
+| 🐛 entomology | 372 | Insects |
+| 📈 economics | 359 | Game theory |
+| 🌦️ weather | 305 | Extreme weather, climate |
+| 💡 inventions | 282 | Discoveries, accidents |
+| 🫀 human_body | 278 | Anatomy, weird body facts |
+| 🔍 forensics | 230 | Crime science |
+| 🎵 music | 219 | Acoustics, sound |
+| ⚛️ physics | 215 | Quantum mechanics |
+| 😴 sleep | 210 | Dreams, circadian rhythms |
+| *+ 12 more...* | | |
 
-## Files
+---
+
+## 📁 Files
 
 ```
-facts.json              → all 10,003 facts
-categories/astronomy.json    → just astronomy facts
-categories/biology.json      → just biology facts
-...
+facts.json                    # All 10,003 facts
+categories/
+├── astronomy.json            # 613 facts
+├── biology.json              # 860 facts
+├── chemistry.json            # 396 facts
+└── ...                       # 32 categories total
 ```
 
-Each fact looks like:
-```json
+---
+
+## 🔧 Usage
+
+```python
+import json
+
+# Load everything
+with open('facts.json') as f:
+    facts = json.load(f)
+
+# Load a specific category
+with open('categories/astronomy.json') as f:
+    space_facts = json.load(f)
+
+# Each fact
 {
-  "text": "The actual fact text here.",
-  "source": "https://where-it-came-from.com",
-  "original_category": "the_original_category"
+  "text": "The actual fact here.",
+  "source": "https://source-url.com",
+  "original_category": "astronomy"
 }
 ```
 
-## Sources
+---
 
-Facts were gathered from:
+## 📚 Sources
+
 - Wikipedia "Did You Know" archives
-- Wikidata queries
+- Wikidata SPARQL queries
 - Reddit r/todayilearned (top posts)
-- Academic sources and science news
+- Academic and science news sources
 
-All facts are sourced and verifiable — no LLM hallucinations here.
+---
 
-## License
+## 📝 License
 
 MIT — do whatever you want with it.
+
+---
+
+<div align="center">
+
+**Built for curious minds 🧠**
+
+</div>
