@@ -14,101 +14,78 @@ size_categories:
   - 10K<n<100K
 ---
 
-# Science Facts Dataset
+# 10,000 Science Facts
 
-A curated collection of **10,003 obscure, verifiable science facts** across 32 categories.
+A collection of obscure, surprising, and verifiable science facts — the kind that make you go "wait, really?"
 
-## Dataset Description
+## Examples
 
-Each fact is:
-- **Verifiable** — sourced from Wikipedia, Wikidata, academic sources
-- **Specific** — contains concrete details (numbers, names, dates)
-- **Surprising** — not common knowledge
+> The mantis shrimp's punch accelerates faster than a bullet and generates cavitation bubbles that reach temperatures close to the sun's surface.
 
-## Structure
+> Tardigrades survived 10 days of exposure to the vacuum of space, cosmic radiation, and extreme temperatures aboard a European Space Agency satellite.
 
-```
-science-facts/
-├── facts.json           # All 10,003 facts
-└── categories/          # Facts split by category
-    ├── astronomy.json   # 613 facts
-    ├── biology.json     # 860 facts
-    ├── chemistry.json   # 396 facts
-    └── ... (32 categories)
-```
+> The peacock uses infrasound in its mating display, producing frequencies humans cannot hear but which may be felt by potential mates.
 
-## Categories
+> Human trafficking generates an estimated $150 billion per year globally, more than the GDP of most countries, with 25 million victims worldwide.
 
-| Category | Count | Description |
-|----------|-------|-------------|
+> Coffee was supposedly discovered when Ethiopian goatherds noticed their goats acting energetic after eating coffee berries.
+
+## What's in here
+
+**10,003 facts** across 32 categories — everything from quantum physics to parasites to the history of food.
+
+| Category | Facts | What it covers |
+|----------|-------|----------------|
 | microbiology | 865 | Bacteria, viruses, parasites, pathogens |
-| biology | 860 | Animals, zoology, animal behavior |
-| astronomy | 613 | Space, cosmology, planets, stars |
-| computer_science | 524 | Algorithms, computing history, information theory |
+| biology | 860 | Animals, weird creatures, animal behavior |
+| astronomy | 613 | Space, stars, planets, cosmology |
+| computer_science | 524 | Algorithms, computing history, AI |
 | botany | 514 | Plants, trees, fungi |
-| paleontology | 489 | Fossils, dinosaurs, ancient life |
+| paleontology | 489 | Dinosaurs, fossils, ancient life |
 | earth_science | 487 | Geology, geography, glaciers |
-| food_science | 476 | Cooking chemistry, nutrition |
-| linguistics | 469 | Language, etymology, writing systems |
-| marine_biology | 407 | Ocean life, fish, marine mammals |
-| chemistry | 396 | Materials, reactions, elements |
-| entomology | 372 | Insects |
+| food_science | 476 | Cooking chemistry, nutrition facts |
+| linguistics | 469 | Languages, etymology, writing systems |
+| marine_biology | 407 | Ocean creatures, deep sea |
+| chemistry | 396 | Elements, materials, reactions |
+| entomology | 372 | Insects (they deserve their own category) |
 | economics | 359 | Game theory, behavioral economics |
-| trivia | 349 | Miscellaneous interesting facts |
-| weather | 305 | Meteorology, climate, extreme weather |
-| inventions | 282 | Discoveries, engineering, serendipity |
-| human_body | 278 | Anatomy, physiology |
-| history | 252 | Science history, archaeology |
+| weather | 305 | Extreme weather, climate |
+| inventions | 282 | Discoveries, accidental inventions |
+| human_body | 278 | Anatomy, weird body facts |
 | forensics | 230 | Crime science, investigation |
 | music | 219 | Acoustics, sound, instruments |
-| physics | 215 | Quantum mechanics, optics, energy |
-| sleep | 210 | Sleep science, dreams, circadian rhythms |
-| technology | 192 | Engineering, aviation, gadgets |
-| genetics | 177 | DNA, evolution, heredity |
-| neuroscience | 108 | Brain science |
-| medicine | 90 | Medical facts, diseases |
-| psychology | 66 | Cognitive science, behavior |
-| mathematics | 62 | Numbers, logic, measurement |
-| oceanography | 60 | Ocean science |
-| architecture | 38 | Buildings, structures |
-| other | 24 | Uncategorized |
-| culture | 15 | Anthropology, philosophy |
+| physics | 215 | Quantum mechanics, optics |
+| sleep | 210 | Dreams, circadian rhythms |
+| + 12 more... | | |
 
-## Fact Schema
+## Files
 
+```
+facts.json              → all 10,003 facts
+categories/astronomy.json    → just astronomy facts
+categories/biology.json      → just biology facts
+...
+```
+
+Each fact looks like:
 ```json
 {
-  "text": "The mantis shrimp's punch accelerates faster than a bullet...",
-  "source": "https://en.wikipedia.org/wiki/Mantis_shrimp",
-  "original_category": "marine_biology"
+  "text": "The actual fact text here.",
+  "source": "https://where-it-came-from.com",
+  "original_category": "the_original_category"
 }
 ```
 
-## Usage
+## Sources
 
-```python
-import json
+Facts were gathered from:
+- Wikipedia "Did You Know" archives
+- Wikidata queries
+- Reddit r/todayilearned (top posts)
+- Academic sources and science news
 
-# Load all facts
-with open('facts.json') as f:
-    facts = json.load(f)
-
-# Load a specific category
-with open('categories/astronomy.json') as f:
-    astronomy_facts = json.load(f)
-```
+All facts are sourced and verifiable — no LLM hallucinations here.
 
 ## License
 
-MIT License
-
-## Citation
-
-```bibtex
-@dataset{science_facts_2024,
-  title={Science Facts Dataset},
-  year={2024},
-  publisher={Hugging Face},
-  howpublished={\url{https://huggingface.co/datasets/Royal-lobster/science-facts}}
-}
-```
+MIT — do whatever you want with it.
