@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Sleep literally cleans your brain - during slumber, cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.",
+    "source": "https://www.mentalfloss.com/amazing-facts",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "A cat's brain has 300 million neurons compared to a dog's 160 million, and the cerebral cortex structure is about 90 percent similar to the human brain.",
+    "source": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "Foreign Accent Syndrome is a rare side effect of brain trauma where patients speak their native language in a foreign accent.",
+    "source": "https://www.mentalfloss.com/amazing-facts",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "Cats' short-term memory for physical movement (stepping over obstacles) lasts about 10 minutes, but their visual-only memory lasts just a few seconds.",
+    "source": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "Following 150 minutes of moderate-to-vigorous exercise per week for 12 months can make your brain look biologically 0.6 years younger on MRI scans - the control group showed brains 0.35 years older than chronological age.",
+    "source": "https://www.sciencealert.com/exercise-can-actually-make-your-brain-look-younger-mri-scans-reveal",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "A common sleeping pill may reduce the buildup of Alzheimer's proteins in the brain, according to a 2026 study.",
+    "source": "https://www.sciencealert.com/a-common-sleeping-pill-may-reduce-buildup-of-alzheimers-proteins-study-reveals",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "Sleep loss physically damages brain cells - but this damage can be countered with proper sleep recovery.",
+    "source": "https://www.sciencealert.com/sleep-loss-is-physically-damaging-your-brain-cells-study-suggests",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "The New Caledonian crow's brain weighs 0.26 ounces but accounts for 2.7% of its overall weight - proportionately much larger than a human's 3-pound brain which is only 1.9% of body weight.",
+    "source": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "A 2020 study found crows can perceive sensory input consciously, despite lacking a cerebral cortex - suggesting consciousness may have evolved multiple times in different brain structures.",
+    "source": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "The hypothalamus contains the suprachiasmatic nucleus (SCN), the master clock that controls circadian rhythms based on light exposure.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The pineal gland releases melatonin in response to darkness, helping regulate the sleep-wake cycle.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The brainstem (pons and medulla) sends signals during REM sleep to paralyze muscles, preventing us from acting out our dreams.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The amygdala, which processes emotions, becomes increasingly active during REM sleep.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "Adenosine accumulates in the brain during wakefulness and promotes sleepiness; caffeine blocks adenosine receptors to counteract this effect.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The brain uses significantly less energy during non-REM sleep, allowing it to restore its supply of ATP.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "While awake, the brain is responsible for about 20% of the body's total energy consumption.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "Sleep plays a housekeeping role, removing toxins including amyloid proteins that build up in the brain during wakefulness.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "GABA is a neurotransmitter associated with sleep, muscle relaxation, and sedation.",
+    "source": "NINDS",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "Orexin (also called hypocretin) is a brain chemical that helps regulate wakefulness; its deficiency causes narcolepsy type 1.",
+    "source": "Sleep Foundation",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The ventrolateral preoptic nucleus (VLPO) is a key brain region that promotes sleep onset.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The ascending reticular activating system keeps us awake and is inhibited during sleep.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "Glycogen depletion in the forebrain contributes to the homeostatic drive for sleep.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "The left-brain interpreter creates a plausible narrative from signals received during sleep, which we experience as dreams.",
+    "source": "Wikipedia",
+    "original_category": "brain_anatomy"
+  },
+  {
+    "text": "Diverse fields study the mind, including psychology, neuroscience, cognitive science, and philosophy.",
+    "source": "https://en.wikipedia.org/wiki/Mind",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "A screen based on the circuitry of a rat brain is displayed on the fa\u00e7ade of the Jerusalem-based Edmond and Lily Safra Center for Brain Sciences.",
+    "source": "https://en.wikipedia.org/wiki/Edmond_and_Lily_Safra_Center_for_Brain_Sciences",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "People sometimes experience short-term memory loss when they walk through doorways or switch tasks (event perception).",
+    "source": "https://en.wikipedia.org/wiki/Event_perception",
+    "original_category": "neuroscience_brain"
+  },
+  {
+    "text": "The following are two lists of animals ordered by the size of their nervous system.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The first list shows number of neurons in their entire nervous system.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The second list shows the number of neurons in the structure that has been found to be representative of animal intelligence.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain contains 86 billion neurons, with 16 billion neurons in the cerebral cortex.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Not all animals have neurons; Trichoplax and sponges lack nerve cells altogether.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Finally, some numbers are the result of estimations based on correlations observed between number of cortical neurons and brain mass within closely related taxa.",
+    "source": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain can store approximately 2.5 petabytes of information \u2014 enough to record 300 years of continuous TV.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Nerve impulses travel at up to 268 mph \u2014 the fastest signals in your body.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "You can't tickle yourself because your cerebellum predicts the sensation and cancels out the tickle response.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain itself cannot feel pain because it has no pain receptors \u2014 that's why brain surgery can be performed while patients are awake.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Dreams typically last only 5-20 minutes, but most people forget 90% of their dreams within 10 minutes of waking.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain is 73% water and uses 20 watts of power \u2014 less than a refrigerator light bulb.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "You're always looking at your own nose, but your brain edits it out of your vision.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Humans are the only animals whose brains shrink as they age.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain's hippocampus, responsible for memory, actually grows larger in London taxi drivers due to their extensive spatial navigation training.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain can read jumbled text as long as the first and last letters are in the right place.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain uses 20% of the body's total energy.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain generates about 20 watts of power \u2014 enough to power a dim lightbulb.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain is 73% water.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Humans can survive with only half a brain \u2014 children who have a hemisphere removed can lead normal lives.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain can't feel pain because it has no pain receptors \u2014 that's why brain surgery can be done while awake.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your sense of smell is closely linked to memory because the olfactory bulb is part of the brain's limbic system.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Synesthesia causes some people to taste words or see sounds as colors.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain deletes unnecessary synapses while you sleep, literally making room for new learning.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Phantom limb syndrome can be 'cured' using a simple mirror box that tricks the brain into thinking the limb is still there.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain can't multitask \u2014 what we call multitasking is actually rapid task-switching, which reduces efficiency by up to 40%.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "D\u00e9j\u00e0 vu may be a memory glitch where the brain accidentally stores information in long-term memory before short-term, making new experiences feel familiar.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The smell of chocolate increases theta brain waves, triggering relaxation \u2014 which is why chocolate shops smell so inviting.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Split-brain patients whose corpus callosum is severed can develop two separate consciousnesses with different preferences and beliefs.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain continues to develop until age 25, which is why teenagers make riskier decisions \u2014 their prefrontal cortex isn't fully formed.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Confabulation is when the brain invents memories to fill gaps \u2014 patients can create elaborate false memories with complete conviction.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The 'cocktail party effect' allows you to focus on one conversation in a noisy room, but your brain still monitors other sounds for your name.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Synesthesia causes some people to taste words, see music as colors, or perceive numbers as having personalities.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Hyperthymesia gives some people total recall of every day of their lives, but it's often more burden than gift.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The 'tip of the tongue' phenomenon is called lethologica, and it increases with age.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Babies have more neural connections than adults \u2014 the brain 'prunes' unused connections throughout childhood.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "People with aphantasia cannot visualize images in their mind \u2014 they have no 'mind's eye' and think entirely in words and concepts.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your memory of an event is altered every time you recall it \u2014 memories are reconstructed, not played back like videos.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "People with HSAM (highly superior autobiographical memory) remember every day of their lives with perfect clarity but often find it overwhelming.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Prosopagnosia (face blindness) prevents people from recognizing faces, even of close family members.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain's reward system responds to anticipation of reward more than the reward itself, which is why wanting feels better than having.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Anosognosia causes people with brain damage to be completely unaware of their disability \u2014 they genuinely believe nothing is wrong.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain processes rejection the same way it processes physical pain, which is why heartbreak actually 'hurts.'",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Capgras delusion causes people to believe their loved ones have been replaced by identical imposters.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain uses about 20 watts of power but has 86 billion neurons, making it more efficient than any computer.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Cotard's delusion makes people believe they're dead, don't exist, or have lost their blood and organs.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Flashbulb memories feel vivid and accurate but are just as prone to distortion as ordinary memories.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Alien hand syndrome causes one hand to act independently of conscious control, sometimes fighting with the other hand.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain can 'hear' silence \u2014 there are neurons that specifically respond to the absence of sound.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain uses about 20% of the body's oxygen.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain can store 2.5 petabytes of data.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain generates about 70,000 thoughts per day.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Phineas Gage survived having an iron rod shot through his brain, changing his personality.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Singing activates the same brain areas as drugs.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain can't feel pain because it has no pain receptors.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The smell of chocolate increases theta brain waves and relaxation.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "A human brain can power a 20-watt light bulb.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brain is 73% water.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "A human head remains conscious for about 20 seconds after decapitation.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain uses 20% of your body's total energy.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain generates about 70,000 thoughts per day.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain is about 60% fat.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain can survive 5-10 minutes without oxygen.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain is about 75% water.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain can survive for 5-10 minutes without oxygen.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain weighs about 3 pounds.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The speed of thought is about 120 m/s.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain contains 86 billion neurons.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The cerebellum coordinates movement.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The thalamus relays sensory information.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The hippocampus is essential for memory.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The amygdala processes emotions.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The brainstem controls breathing and heart rate.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The corpus callosum connects brain hemispheres.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Yawning cools the brain.",
+    "source": "",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain uses about 20% of the body's total energy despite being only 2% of body weight.",
+    "source": "https://en.wikipedia.org/wiki/Human_brain",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "Your brain uses about 20 watts of power - about the same as a dim light bulb.",
+    "source": "https://en.wikipedia.org/wiki/Human_brain",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain is about 73% water.",
+    "source": "https://en.wikipedia.org/wiki/Human_brain",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain contains about 86 billion neurons.",
+    "source": "https://en.wikipedia.org/wiki/Human_brain",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain uses about 12 watts of power.",
+    "source": "https://en.wikipedia.org/wiki/Human_brain",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain processes images seen for as little as 13 milliseconds.",
+    "source": "https://en.wikipedia.org/wiki/Visual_perception",
+    "original_category": "neuroscience"
+  },
+  {
+    "text": "The human brain continues to develop until around age 25.",
+    "source": "https://en.wikipedia.org/wiki/Adolescence",
+    "original_category": "neuroscience"
+  }
+]

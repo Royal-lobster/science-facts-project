@@ -1,0 +1,1152 @@
+[
+  {
+    "text": "The first written account of using medicine and entomology to solve criminal cases is attributed to the Chinese book 'Xi Yuan Lu' (Washing Away of Wrongs), written in 1248 by Song Ci, making it the world's earliest forensic science manual.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1235, a Chinese murder case was solved when an investigator had villagers place their sickles in a line\u2014flies were attracted to invisible blood traces on only one sickle, revealing the murderer.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Sir Alec Jeffreys invented DNA fingerprinting in 1984 at the University of Leicester by realizing that certain DNA regions have highly variable repetitive sequences unique to each individual.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Colin Pitchfork became the first person convicted using DNA evidence in 1988, after being caught when a coworker revealed he had someone else submit a DNA sample on his behalf during a mass screening.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Richard Buckland was the first person exonerated using DNA evidence in 1986, despite having confessed to murder\u2014the same DNA technology that freed him went on to catch the real killer.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Although 99.9% of human DNA sequences are the same in every person, enough DNA is different that it is possible to distinguish one individual from another, unless they are monozygotic (identical) twins.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Francis Galton calculated in 1892 that the chance of two different individuals having the same fingerprints was about 1 in 64 billion.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Fingerprints form around the 15th week of fetal development and remain unchanged until after death when decomposition begins.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1892, Francisca Rojas of Argentina became the first person convicted of murder based on fingerprint evidence, after a bloody thumbprint on a door matched her right thumb.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Henry Classification System, developed in colonial India and still used today, classifies fingerprints into three basic patterns: loops (60-65% of all fingerprints), whorls (30-35%), and arches (5%).",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Edmond Locard, known as the 'Sherlock Holmes of France,' formulated the basic principle of forensic science: 'Every contact leaves a trace,' now known as Locard's Exchange Principle.",
+    "source": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Locard's Exchange Principle holds that the perpetrator of a crime will bring something into the crime scene and leave with something from it, both of which can be used as forensic evidence.",
+    "source": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Marsh test, developed by James Marsh in 1836, could detect as little as one-fiftieth of a milligram of arsenic and revolutionized forensic toxicology in poisoning cases.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1784, John Toms was convicted of murder when a pistol wad (crushed paper) found in the victim's head wound matched perfectly with a torn newspaper found in Toms's pocket\u2014one of the earliest examples of forensic evidence.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Henry Goddard at Scotland Yard pioneered the use of bullet comparison in 1835 by noticing a flaw in a bullet and tracing it back to the mold used in the manufacturing process.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Jack the Ripper case in 1888 produced the earliest surviving offender profile, created by police surgeon Thomas Bond, who described the killer as a man of 'solitary habits' subject to 'periodical attacks of homicidal and erotic mania.'",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Alphonse Bertillon created the first scientific criminal identification system in the 1880s, using anthropometry (body measurements), which was eventually replaced by fingerprinting but his innovations like the mug shot remain in use today.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Uhlenhuth test, invented in 1901, could distinguish human blood from animal blood using antigen-antibody reactions, representing a major breakthrough in forensic science.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Blowflies can detect the smell of death from up to 16 kilometers (10 miles) away and are often the first insects to arrive at a corpse, making them crucial for determining time of death.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic entomologists can estimate time of death by analyzing insect life cycles, as blowfly eggs hatch to the first larval stage within 8 hours to one day.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Jean Pierre M\u00e9gnin published 'La Faune des Cadavres' in 1894, identifying eight distinct waves of insect succession on corpses\u2014a foundational work for forensic entomology.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Cheese skipper flies (Piophilidae) do not colonize a corpse until 3-6 months after death, making them valuable indicators for estimating longer postmortem intervals.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Coffin flies (Phoridae) can burrow to a depth of 50 cm over 4 days, making them important for investigating buried bodies.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Entomotoxicology, a branch of forensic entomology, analyzes drugs present in insects feeding on corpses, as certain substances can alter maggot development and potentially skew time-of-death estimates.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Hide beetles (Dermestidae) are the only beetles with enzymes capable of breaking down keratin, making them crucial for processing the final stages of decomposition including hair and nails.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The vitreous humour (eye fluid) is often used for toxicology testing in highly decomposed bodies because the fibrous eyeball layer and eye socket protect the sample from trauma and contamination.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Hair analysis can provide a timeline of drug use because head hair grows approximately 1-1.5 cm per month, and chemicals from the bloodstream are stored in the follicle.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Marijuana can be detected in urine for 3 days after a single use, 5-7 days for moderate use, 10-15 days for daily use, and up to 30 days for long-term heavy use.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The United States maintains the largest DNA database in the world\u2014CODIS (Combined DNA Index System)\u2014holding over 13 million records as of 2018.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1992, plant DNA was first admitted in a criminal case when DNA from seed pods of a palo verde tree matched pods found in the suspect's truck, helping convict Mark Alan Bogan of murder.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Familial DNA searching led to the arrest of the 'Grim Sleeper' serial killer in 2010 when his son's DNA (obtained from a felony arrest) was partially matched to crime scene evidence.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Israeli scientists demonstrated in 2009 that DNA evidence can be fabricated in a laboratory, creating synthesized DNA samples that matched any desired genetic profile without obtaining actual tissue.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The first use of genetic genealogy to solve a major criminal case occurred in 2018 when the Golden State Killer, Joseph James DeAngelo, was identified through DNA uploaded to public genealogy databases.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Approximately 60% of criminal cases involving encrypted digital devices go unprocessed because investigators have no way to access potential evidence.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Cliff Stoll's 1986 pursuit of hacker Markus Hess was one of the first publicized examples of digital forensics\u2014Stoll tracked the hacker through network logs despite not being a specialized examiner.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2000, the FBI lured Russian hackers to the United States for a fake job interview and monitored their network traffic to collect passwords, enabling evidence collection from Russian computers.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Florida Computer Crimes Act of 1978 was the first law to recognize computer crimes, including legislation against unauthorized modification or deletion of data on computer systems.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "During the Soham murders investigation, mobile phone records disproved the murderer's alibi by showing that the person he claimed to be with was out of town at the time.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Killer Neil Entwistle's intent to murder was established partly through his Internet search history, which included references to a website discussing 'How to kill people.'",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2007, prosecutors used a spreadsheet recovered from Joseph Edward Duncan's computer to prove premeditation and secure the death penalty.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Hugo M\u00fcnsterberg published 'On the Witness Stand' in 1908, becoming the first to systematically apply psychological research to legal proceedings, founding forensic psychology.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The lie detector (polygraph) was invented by psychologist William Marston in 1917\u2014the same person who later created the comic book character Wonder Woman.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Frye v. United States case in 1923 established that scientific evidence is only admissible when it has 'gained general acceptance' in the scientific community.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Brown v. Board of Education case in 1954 was the first U.S. Supreme Court case to reference expert psychological opinions, citing research on the psychological effects of segregation.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic psychologist David Canter helped capture the Railway Rapists in the UK through psychological profiling, establishing the field of investigative psychology.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "According to the Innocence Project, forensic science errors contributed to 39-46% of wrongful convictions in the United States.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The FBI abandoned comparative bullet-lead analysis in 2005 after internal and external studies found the technique unreliable\u2014despite its use in cases from 1963 (JFK assassination) onward.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "A 1999 study found a 63% rate of false identifications in forensic bite-mark analysis, yet the technique remains legally admissible in many jurisdictions.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Frances Glessner Lee, known as 'the mother of forensic science,' created the Nutshell Studies of Unexplained Death\u2014intricate crime scene dioramas still used to train investigators today.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "William Bass established the first body farm in 1981 at the University of Tennessee, allowing researchers to study human decomposition under various conditions for forensic purposes.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic anthropologists can determine sex from skeletal remains with high accuracy using the pelvis, as female pelvises have wider pubic arches and differently positioned sacra compared to males.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "After age 30, humans lose approximately one centimeter of height every decade, a factor forensic anthropologists must account for when estimating stature from skeletal remains.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The clavicle (collarbone) is the last bone to complete growth, with its growth plate sealing around age 25\u2014making it useful for determining if skeletal remains are from an adult.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic anthropologists helped identify victims of the 9/11 terrorist attacks, plane crashes, and genocide investigations in Rwanda and Srebrenica.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "William Maples identified the remains of Czar Nicholas II and the Romanov family, and examined President Zachary Taylor's remains for arsenic poisoning.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic anthropologist Clyde Snow worked on identifying King Tutankhamun, victims of the Oklahoma City bombing, and the investigation into JFK's assassination.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Bone osteons (microscopic bone structures) constantly regenerate\u2014younger adults have fewer and larger osteons while older adults have smaller and more osteon fragments, helping estimate skeletal age.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Past bone fractures are visible through bone remodeling, but after about seven years, the remodeling makes the fracture impossible to detect\u2014a timeline useful in forensic investigations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Thomas Wingate Todd created the first large collection of human skeletons in 1912, acquiring 3,300 human skulls and skeletons for scientific research.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The BTK serial killer Dennis Rader was caught in 2005 after metadata in a floppy disk he sent to police revealed his identity\u2014technology that didn't exist when he committed his crimes.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The oldest criminal case ever solved using DNA evidence occurred in 2011, when Samuel Evans was convicted of James Keuler's 1968 murder\u201443 years after the crime.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 16th Street Baptist Church bombing of 1963 wasn't prosecuted until 1977-2002 because the FBI identified the perpetrators in 1965 but the case was shelved for political reasons.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1983, Peter Reyn-Bardt confessed to murder after peat cutters found human remains in a bog\u2014but carbon-14 dating later showed the remains were thousands of years old. He was still convicted based on his detailed confession.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Carlina White solved her own kidnapping at age 23 in 2012 after recognizing herself in old photos\u2014she had been abducted from a hospital as a 19-day-old infant in 1987.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Josef Fritzl imprisoned his daughter Elisabeth in an underground cell for 24 years, where she gave birth to seven children\u2014the truth was discovered in 2008 when one child was hospitalized.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Even identical twins with the same DNA can be distinguished by fingerprints, as environmental factors during fetal development cause slight variations in friction ridge patterns.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Gloves can leave prints as unique as human fingerprints. Law enforcement can match glove prints to collected evidence or prints from other crime scenes.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Adermatoglyphia is an extremely rare condition where people are born without fingerprints\u2014only five families worldwide had been identified with this condition as of 2011.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "John Dillinger burned his fingertips with acid to remove fingerprints, but prints taken during a previous arrest and upon death still exhibited almost complete relation to one another.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The anti-cancer medication capecitabine can cause the loss of fingerprints as a side effect.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Fingerprint sensors in smartphones can potentially be deceived by fake fingerprints cast in gels, as demonstrated by researchers after the iPhone 5S release in 2013.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2024, deep learning research found that fingerprints from different fingers of the same person can be identified as belonging to that individual with 99.99% confidence\u2014contradicting the prevailing assumption that prints from different fingers are independent.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Fingerprints can be detected on surfaces using nanoparticles and antibodies that reveal traces of cotinine (a nicotine metabolite), allowing identification of tobacco smokers from their prints.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The elasticity of skin decreases with age, making fingerprints of many senior citizens difficult to capture\u2014the ridges get thicker while height between ridges and furrows becomes narrower.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The International Association for Identification, formed in 1915, was the first professional forensic organization, founded on the basis of fingerprint identification.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Sir William Herschel began using fingerprints for identification in India in 1858, initially on contracts and deeds to prevent repudiation of signatures.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Persian physician Rashid-al-Din Hamadani wrote in the early 14th century about the Chinese practice of identifying people via fingerprints, noting 'Experience shows that no two individuals have fingers exactly alike.'",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Ancient methods of lie detection included making suspects chew rice (China), hold rice powder in their mouths (India), or lick hot metal rods (Middle East)\u2014based on the principle that guilty people produce less saliva.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Francesco Redi disproved the theory of spontaneous generation in 1668 by showing that maggots on rotting meat came from fly eggs, not from the meat itself\u2014revolutionizing understanding of decomposition.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Myiasis (infestation of living tissue with fly larvae) can confuse forensic investigations because it indicates time of neglect or injury rather than time since death if the victim was colonized while still alive.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Flesh flies (Sarcophagidae) give live birth rather than laying eggs, depositing maggots directly onto decomposing bodies at any stage of decomposition.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Scorpionflies (Mecoptera) were found to be the first insects to arrive at a donated human cadaver in Texas research, remaining on the corpse for 1.5 days and outnumbering flies during that period.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "If maggots are exposed to salt water for more than 30 minutes, their development is delayed by approximately 24 hours\u2014important for estimating time of death in drowning cases.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Nicrophorus beetles carry Poecilochirus mites that eat fly eggs\u2014if these beetles arrive before fly eggs hatch, the first eggs are eaten and maggot development is delayed, potentially skewing time-of-death estimates.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA profiling uses repetitive sequences called Short Tandem Repeats (STRs), which are so variable that unrelated individuals are unlikely to share the same patterns.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The CODIS DNA profiling system uses 20 core loci (genetic locations), allowing match probabilities of 1 in a quintillion (10^18) or more.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Low-template DNA (less than 0.1 ng in a sample) can cause 'allelic dropout' where genetic markers randomly disappear from results, making mixture interpretation unreliable.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "MiniSTR technology, developed after 9/11, allows DNA analysis of highly degraded samples by targeting smaller DNA fragments than traditional STR testing.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Y-chromosome analysis can trace paternal lineage and is stored in a reference database (YHRD) containing over 300,000 haplotypes from worldwide populations.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "A genetic chimera is an ultra-rare individual with at least two different sets of DNA\u2014there have been cases where DNA profiling falsely suggested a mother was unrelated to her own children.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA evidence posthumously exonerated Frank Lee Smith in 2000 after spending 14 years on death row for murder\u2014but he died of cancer just before his innocence was proven.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Earl Washington Jr. had his death sentence commuted just one week before scheduled execution based on DNA evidence in 1994, receiving a full pardon in 2000 after more advanced testing.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "James Hanratty, executed for murder in 1962, was exhumed in 2002 for DNA testing\u2014the results convinced Court of Appeal judges his guilt was 'proven beyond doubt,' despite decades of campaigns claiming his innocence.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2005, DNA evidence convicted Gary Leiterman of a 1969 murder, but also matched blood on the victim's hand to a man who was only four years old at the time of the crime\u2014likely due to lab contamination.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 2004 disappearance of Bobby Dunbar was reexamined through DNA testing, proving the boy found in 1912 was not actually Bobby\u2014whose true fate remains unknown over 100 years later.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Trace evidence includes any material transferred through contact between two surfaces, from fibers and hair to microscopic glass fragments and shoe impressions.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "No standards and methodologies exist to determine physical fit between two pieces of evidence, leaving analysts' discretion to determine if samples came from the same source.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Scanning electron microscopy (SEM) can identify sulfur traces on a cracked fuel pipe, indicating a sulfuric acid attack from a car battery\u2014useful in determining causes of vehicular accidents.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Trace evidence collection methods include handpicking, tape lifts, combing, and removal of entire objects\u2014with different techniques used depending on the evidence type and surface.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Vinland Map was identified as a 20th-century forgery through chemical trace evidence analysis of its ink composition.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Witness marks\u2014impact depressions or tool marks left during a crime\u2014can link a product to the implement that caused damage, such as a hammer or nail.",
+    "source": "https://en.wikipedia.org/wiki/Trace_evidence",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic toxicology in the US comprises three disciplines: Postmortem toxicology (autopsy analysis), Human Performance toxicology (drug effects on behavior), and Forensic Drug Testing (workplace/sport screening).",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Heroin rapidly metabolizes into morphine in the body, requiring forensic toxicologists to examine injection marks and chemical purity rather than detecting heroin directly.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Cocaine effects last only about 30 minutes despite causing a significant surge in dopamine levels, contributing to the cycle of repeated use and addiction.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Urine samples are less prone to viral infections like HIV or Hepatitis B compared to blood samples, making them safer for forensic collection.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Testing for drugs in hair may show racial bias because darker and coarser hair retains more drug residue\u2014two people who consumed the same amount of drugs may show different test results based on hair type.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Blood samples provide a profile of substances influencing a person at the exact time of collection, making them the sample of choice for blood alcohol content in drunk driving cases.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Gas chromatography-mass spectrometry (GC-MS) is preferred for forensic analysis because of its detailed mass spectra and large library of reference spectra.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Reinsch test can identify metals in biological samples by destroying organic matter and analyzing the remaining inorganic residue.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "A blood sample of approximately 10 ml is usually sufficient to screen and confirm most common toxic substances.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Immunoassay drug testing can produce four results: true-positive, false-negative, false-positive, and true-negative\u2014highlighting the importance of confirmation testing.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Ethanol is one of the most commonly tested substances in forensic toxicology because alcohol abuse is a leading factor in suicides, car crashes, and various crimes.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic geotaphonomy examines how decomposing bodies affect the environment, including soil disturbance, pH changes, and plant growth patterns around burial sites.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Grave sites typically have looser, darker, more organic soil than surrounding areas, and increased nutrients from decomposing bodies encourage different plant growth.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The FORDISC computer program calculates the most likely ancestry of skeletal remains using complex mathematical formulas comparing skull measurements to population databases.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "A 2009 study found that FORDISC ancestry classifications have only a 1% confidence level even in favorable circumstances, highlighting limitations in skeletal ancestry determination.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic anthropologists classify sex from skeletons as one of five possibilities: male, maybe male, indeterminate, maybe female, or female\u2014rather than a binary determination.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Male teeth are slightly larger than female teeth on average, with the greatest difference in canine teeth\u2014potentially useful for sex determination in juvenile remains.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The TV series 'Bones' is based on the work of forensic anthropologist and author Kathy Reichs, who created the fictional character Dr. Temperance Brennan.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Greulich and Pyle Atlas is one of the most used methods for estimating age from hand and wrist X-rays in living individuals.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "MRI is being investigated as a radiation-free alternative to X-rays and CT scans for forensic age estimation, due to ethical concerns about using ionizing radiation for non-medical purposes.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Confirmation bias is a significant risk in forensic anthropology, particularly in ambiguous or complex cases, requiring practitioners to be aware of contextual influences.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Argentine Forensic Anthropology Team has been working to identify victims of the 1976-1983 military dictatorship's 'disappeared' persons through forensic investigation.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Minnesota Protocol, devised in the late 1980s, provides UN guidelines for investigating extralegal executions and was revised in 2016 for continued use in human rights investigations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 'CSI effect' describes the phenomenon where jurors' expectations of forensic evidence are distorted by television crime dramas, potentially biasing them toward defendants.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Real forensic scientists describe their work as 'far more mundane, tedious and boring' than depicted in TV shows, which wildly distort the ease, speed, and glamour of investigations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic 3D scanning using drones can map accident scenes in only 10-20 minutes without shutting down traffic, producing centimeter-accurate measurements admissible in court.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "As of 2025, there are approximately 18,500 forensic science technicians working in the United States.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Archibald Reiss founded the world's first school of forensic science at the University of Lausanne in 1909.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Edmond Locard established the first criminal laboratory in the world in 1910, after persuading the Lyon Police Department to give him two attic rooms and two assistants.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Hans Gross wrote the 'Handbook for Coroners, police officials, military policemen' in 1893, generally acknowledged as the birth of criminalistics as a field.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The fictional detective Sherlock Holmes was ahead of his time in using forensic methods\u2014all the techniques he advocated later became reality, though most were in their infancy when Conan Doyle wrote about them.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 2009 US Supreme Court case Melendez-Diaz v. Massachusetts ruled that crime laboratory reports cannot be used against defendants unless analysts testify and face cross-examination.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "An audit of the Houston Police Department lab in 2002 found fabricated evidence that led to wrongful convictions\u2014the former director estimated 5,000-10,000 cases could have been contaminated.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Studies show white rape victims report higher frequency of injuries than black victims, but this may be due to forensic examination techniques being less sensitive to injuries on darker skin.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_science",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Digital forensics grew from hobbyists and computer enthusiasts in law enforcement during the 1980s-90s, unlike other forensic disciplines that developed from the scientific community.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The FBI launched its Computer Analysis and Response Team in 1984, marking the beginning of specialized digital crime investigation units.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "EnCase and FTK, developed in the late 1990s, became the first advanced commercial tools allowing digital forensic analysts to examine copies of media without altering the original.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Budapest Convention on Cybercrime, effective since 2004, is an international treaty aimed at harmonizing national computer crime laws and investigative techniques across 43 signatory nations.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "OBIM (formerly U.S. VISIT) holds the largest repository of biometric identifiers in the U.S. government, with over 260 million individual identities.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Mobile phones must be placed in a Faraday shield during seizure to prevent remote wiping or alteration of evidence through radio signals.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "SMS data from mobile forensics helped exonerate Patrick Lumumba in the Amanda Knox case (murder of Meredith Kercher).",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Thomas Onofri kidnapping was solved in 2006 through mobile phone location data tracked via cell site logs.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic analyst Brian Carrier argued in 2003 that open source forensic tools may better meet legal admissibility requirements than closed-source tools because their code can be peer-reviewed.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Deepfake detection is a growing branch of digital image forensics, with implications for criminal trials, news verification, and social media integrity.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "EXIF metadata in digital photos can prove their origin, potentially containing GPS coordinates, camera information, and timestamps useful in court.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "IoT (Internet of Things) forensics has emerged as a new branch dealing with evidence extraction from smart home devices, wearables, and connected appliances.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Dark web forensics focuses on identifying and analyzing digital evidence from overlay networks like Tor and I2P, used in investigating illegal marketplaces and cybercrime.",
+    "source": "https://en.wikipedia.org/wiki/Digital_forensics",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic psychology research by Saul Kassin on false confessions was instrumental in overturning the wrongful convictions of the Central Park Five.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Ted Bundy was evaluated by multiple forensic psychologists in 1980 to determine his competency to stand trial\u2014he was found fit despite obvious psychological disturbance.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Elizabeth Loftus's research on eyewitness memory has demonstrated how easily false memories can be implanted, fundamentally changing how courts evaluate witness testimony.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The M'Naghten Rule from 1843 defines insanity as not understanding the nature of one's acts or that they were wrong due to mental disease\u2014still used in many jurisdictions today.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic human factors professionals analyze how cognitive factors like perception, situational awareness, and decision-making contributed to accidents and system failures.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The American Board of Forensic Psychology was chartered in 1976, eventually becoming part of the American Board of Professional Psychology in 1985.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Forensic psychology was recognized as a professional specialty by the American Psychological Association in 2001.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Daubert standard, established in 1993, requires judges to evaluate whether expert testimony is based on sufficient facts, reliable methods, and proper application to case facts.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Meta-analysis of over 45,000 risk assessments showed that structured tools significantly outperform unstructured clinical judgment in predicting violence risk.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The median annual income for clinical-forensic psychologists in the United States is $125,000-$149,999, ranging from $50,000 entry-level to over $350,000.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2023, the U.S. Bureau of Labor Statistics reported a 7% rise in psychologist employment, faster than average, with 207,500 new jobs.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "There are 67 forensic psychology degree programs offered in the United States.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The American Psychology-Law Society's 2020 guidelines provide nine recommendations for eyewitness identification procedures, including double-blind lineups and immediate confidence statements.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Research shows that lay assessors (potential jurors) have limited ability to distinguish between accurate and inaccurate eyewitness identifications, particularly affected by racial bias.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Risk assessment instruments may inadvertently reinforce racial and socioeconomic disparities because underlying data reflects historical patterns of unequal treatment.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_psychology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The rate of cold cases being solved is slowly declining\u2014soon less than 30% will be solved per year, with about 35% of 'solved' cases not truly being cold cases.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The FBI's Next Generation Identification (NGI) system is replacing the older IAFIS fingerprint database, offering improved matching capabilities for cold cases.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Jack the Ripper case from 1888 remains unsolved over 135 years later, despite numerous theories and modern forensic analysis attempts.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Zodiac Killer has been studied extensively for over 50 years with numerous suspects discussed, but no confirmed identification has ever been made.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Wall Street bombing of 1920 has never been positively solved, though the Galleanist anarchist group is widely believed responsible.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Timothy Evans was wrongly executed in 1950 for murders actually committed by serial killer John Christie, who lived in the same house\u2014the case helped end capital punishment in Britain.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2003, a cold case murder was solved when fingerprints from 1957 were finally matched using computerized databases\u2014identifying Gerald Mason 45 years after the crime.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Green River Killer, Gary Ridgway, was identified in 2001 through DNA testing of samples collected in 1987\u2014proving that preserved evidence can solve cases decades later.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2002, the conviction of 75-year-old war crimes related to Nazi concentration camps was achieved\u2014likely the oldest criminal conduct ever proved in a US court.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The MKULTRA program's involvement in Harold Blauer's death in 1953 wasn't confirmed until 1975\u2014his estate received $700,000 in damages in 1987.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The murder of Irene Garza in 1960 wasn't prosecuted until 2017 because the long-time district attorney opposed investigation of the priest suspect for 34 years.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Kalinka Bamberski case was solved when the victim's father had the suspect kidnapped from Germany and delivered to French police in 2009\u2014receiving only a suspended sentence for the abduction.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Dos Erres massacre conviction resulted in sentences of 6,060 years for each perpetrator\u2014among the longest prison sentences ever issued.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The murder of Martha Moxley in 1975 wasn't solved until 2002 when Michael Skakel was convicted\u2014suspicion had shifted between family members for 27 years.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The case of Etan Patz (missing since 1979) wasn't solved until 2017 when Pedro Hernandez was convicted\u2014after it emerged he had confessed publicly at his church in the 1980s but wasn't investigated.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Christian Gerhartsreiter was convicted of a 1985 murder only in 2013, when the victim's adopted status prevented DNA comparison until advanced testing became available in 2010.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Robert Bierenbaum was convicted of his wife's 1985 disappearance after investigators discovered he took an unexplained two-hour flight over the Atlantic Ocean the day she vanished.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Stephanie Lazarus was convicted of a 1986 murder in 2012 after DNA from a bite mark was finally identified as female\u2014she had been an LAPD detective who had an affair with the victim's husband.",
+    "source": "https://en.wikipedia.org/wiki/Cold_case",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Locard's exchange principle applies to cyber crime as well\u2014committing digital crimes leaves digital traces that can be forensically analyzed.",
+    "source": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Paul Kirk expressed Locard's principle: 'Physical evidence cannot be wrong, it cannot perjure itself, it cannot be wholly absent. Only human failure to find it, study and understand it, can diminish its value.'",
+    "source": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Koalas have fingerprints so similar to humans that even with an electron microscope, it can be difficult to distinguish between them.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Mark Twain's 1883 memoir 'Life on the Mississippi' contains an account of a murder solved by thumbprint identification\u2014predating real-world forensic use of the technique.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Ancient Babylonians used fingerprints to sign contracts around 200 BC, potentially representing the earliest documented use of prints for identification.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1686, Italian professor Marcello Malpighi at the University of Bologna first identified ridges, spirals and loops in fingerprint patterns under scientific study.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "German anatomist Johann Christoph Andreas Mayer was the first European to conclude that fingerprints were unique to each individual, publishing his findings in 1788.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Jan Evangelista Purkyn\u011b identified nine fingerprint patterns in 1823, including the tented arch, loop, and whorl that are still used in modern forensic classification.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The aqueous component of a fingerprint can evaporate within 24 hours, while the sebaceous oils remain much longer\u2014affecting which detection methods are effective over time.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Fingerprints can be visualized in 3D without chemicals using infrared lasers, representing one of the newer techniques in forensic print detection.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Ninhydrin, developed for fingerprint detection, reacts specifically with amino acids left in print residue, making invisible prints visible through a purple color change.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Vacuum metal deposition using gold and zinc can detect fat layers as thin as one molecule, making it one of the most sensitive fingerprint detection methods available.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "A 2007 technique proposed identifying ethnicity, sex, and dietary patterns from fingerprint chemical composition\u2014expanding potential forensic applications beyond simple identification.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "England requires 16 identification points to match two fingerprints, while France requires only 12\u2014showing the lack of international standardization in fingerprint evidence.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 'one dissimilarity doctrine' holds that if there is one dissimilarity between two fingerprints, they cannot be from the same finger\u2014a strict standard used by some examiners.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Scanning Kelvin Probe (SKP) fingerprint technique makes no physical contact and requires no chemical developers, potentially allowing DNA analysis of the same sample.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1840, a provincial doctor wrote to Scotland Yard suggesting checking for fingerprints after the murder of Lord William Russell\u2014decades before the technique was officially adopted.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Non-contact 3D fingerprint scanners were developed around 2010 to overcome problems with distortion caused by pressing fingers onto flat surfaces.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "To collect fingerprints from cadavers in advanced decomposition, forensic examiners may boil dried skin to rehydrate it and restore friction ridge detail.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Research has identified WNT, BMP and EDAR as signaling pathways regulating fingerprint ridge formation through a Turing reaction-diffusion system.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In the UK, schools were fingerprinting tens of thousands of children by 2002, often without parental consent\u2014raising significant privacy concerns addressed by the Protection of Freedoms Act 2012.",
+    "source": "https://en.wikipedia.org/wiki/Fingerprint",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 1999, a disabled man was arrested and detained for seven hours based on a DNA match that was later found to be incorrect\u2014highlighting the importance of confirmation testing.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The 2012 U.S. Supreme Court ruling Maryland v. King upheld that DNA sampling of prisoners arrested for serious crimes is constitutional.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA evidence can theoretically be fabricated\u201470% of human DNA is methylated, allowing tests to distinguish manufactured synthetic DNA from genuine samples.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The UK's Human Tissue Act 2004 prohibits private individuals from covertly collecting biological samples for DNA analysis, but exempts medical and criminal investigations.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "In 2016, DNA testing revealed that a woman abandoned as a baby identified her deceased mother and father through forensic analysis of saliva on old stamps and envelopes.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA profiling has been used to establish the right of succession to British aristocratic titles, including the Baron Moynihan and Pringle baronets cases.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The claim that Anna Anderson was Grand Duchess Anastasia was definitively disproved through DNA testing in 1994\u2014the samples showed no relation to the Romanov family.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA evidence in civil cases uncovered that two babies were switched at birth decades earlier when a woman's ancestry test unexpectedly showed Ashkenazi Jewish heritage inconsistent with her Irish family.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The PIDS (Plant International DNA-fingerprinting System) manages microsatellite DNA fingerprint data for plant identification, used in forensics, breeding, and variety rights protection.",
+    "source": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Insects can help determine if a body was moved after death because certain species are unique to specific geographical areas and will not be present if remains were transported.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Bodies found in water have different insect colonization patterns\u2014flies will not cross large bodies of water unless there is a substantially influential attractant.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Accumulated Degree Hour (ADH) models calculate total heat energy generated by a body since death, helping estimate postmortem interval based on insect development temperature.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Potassium permanganate staining is a faster, lower-cost alternative to scanning electron microscopy for identifying fly egg species in forensic entomology.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Mitochondrial DNA analysis developed in 2001 can differentiate between Chrysomyinae fly species when specimens lack distinctive physical characteristics at certain life stages.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Gene expression studies can determine the age of fly eggs to within two hours by measuring expression levels of genes like bicoid, slalom, and chitin synthase.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Pigs are most frequently used as forensic decomposition models because they share characteristics with humans including subcutaneous fat, skin thickness, hair covering, and omnivorous diets.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Stable isotope analysis of insect tissues can reveal the geographic origin of insects found on a body and aspects of their diet, including whether they consumed human remains.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Urban forensic entomology can evaluate pest control efficiency, determine infestation size, and identify responsible parties in rental property infestations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Mummification rather than decomposition occurs in dry environments, discouraging insect activity\u2014but dermestid beetles can still colonize bodies in arid conditions.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "DNA analysis of insect gut contents can determine what the insect recently ate, helping establish connections between insects and victims in forensic investigations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Parasitoid wasps (Pteromalidae) lay eggs only in the pupae of specific fly species, and their presence can affect postmortem interval calculations by killing developing flies.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Blowfly larvae feeding on wounds indicate that injury occurred before death, as newly hatched maggots cannot break through intact human skin and require pre-existing openings.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Chironomid midges (aquatic insects) have been used to estimate postsubmersion interval in drowning cases where traditional forensic entomology methods don't apply.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Burying beetles (Silphidae) exhibit communal breeding and parental care, digging under small carcasses to bury them\u2014their presence can indicate a body has been partially buried.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Insects are poikilothermic (cold-blooded), meaning their development rate is substantially dependent on environmental temperature\u2014key to accurate postmortem interval calculations.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Hanged bodies dry out faster than ground-level bodies due to increased air exposure, leaving less food for maggots and resulting in different insect colonization patterns.",
+    "source": "https://en.wikipedia.org/wiki/Forensic_entomology",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "Lionel Haward applied an early example of offender profiling to help identify high-ranking Nazis disguised as ordinary troops.",
+    "source": "https://en.wikipedia.org/wiki/Lionel_Haward",
+    "original_category": "forensics_crime_science"
+  },
+  {
+    "text": "The Littlehampton libels saw Edith Swan fool three juries and two judges, have another woman sent to prison twice, and be declared not guilty before finally being convicted.",
+    "source": "https://en.wikipedia.org/wiki/Littlehampton_libels",
+    "original_category": "forensics_crime_science"
+  }
+]

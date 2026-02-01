@@ -1,0 +1,887 @@
+[
+  {
+    "text": "Cats cannot taste sweet things due to a defect in the gene that codes for part of the mammalian sweet taste receptor - this defect occurs in domestic cats, cheetahs, and tigers alike.",
+    "source": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "About half of all cats don't respond to catnip at all - sensitivity to Nepeta cataria is inherited, with cats having one sensitive parent having a 50% chance of developing the sensitivity.",
+    "source": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Penguin coloring is camouflage - from above, their black back blends into ocean depths, while from below, their white belly is hidden against the bright surface.",
+    "source": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Cats have a gene called Taqpep that determines whether they have stripes, spots, or blotched patterns - blotched cats have mutations on both copies of the gene.",
+    "source": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "For some penguin species, pudgy males with enough fat to survive weeks without eating are most desirable mates - males incubate eggs while females hunt for weeks.",
+    "source": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Great white shark teeth are continuously replaced like a conveyor belt, roughly every few weeks - the design changes to match their diet as they grow from fish-eating juveniles to marine-mammal-hunting adults.",
+    "source": "https://www.sciencealert.com/great-white-sharks-grow-deadly-new-types-of-teeth-as-they-age",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Scientists have identified specific epigenetic switches that can slow the production of fat cells.",
+    "source": "https://www.sciencealert.com/scientists-identify-an-epigenetic-switch-that-can-slow-production-of-fat-cells",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Unlike virtually all other birds, the New Caledonian crow has a bill that doesn't curve downward - scientists believe it evolved this way to help grasp tools more easily and see what the tool is doing.",
+    "source": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Goats' horizontal rectangular pupils give them a sharp panoramic view that lets them see nearly all around themselves - this helps them detect predators from various directions.",
+    "source": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Pupil shape reveals an animal's role in the food chain - predators that ambush prey tend to have vertical slit pupils, while herbivores that are prey usually have horizontal pupils.",
+    "source": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Vertical slit pupils help small ambush predators like cats and snakes judge distance for pouncing, while bigger cats and wolves have round pupils because they need to chase down prey.",
+    "source": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "The genetic lines of Poecilia koperi and P. wandae blur in areas where they meet, likely due to occasional hybridization.",
+    "source": "https://en.wikipedia.org/wiki/Poecilia_koperi",
+    "original_category": "genetics_evolution"
+  },
+  {
+    "text": "Humans share 60% of their DNA with bananas and 98.8% with chimpanzees.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Your DNA is bombarded by about 10,000 molecular lesions per cell per day, but repair mechanisms fix most of them before they cause problems.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Your body has enough DNA to stretch from the Sun to Pluto and back \u2014 about 17 times.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Goosebumps evolved to make our ancestors' hair stand up and appear larger to predators \u2014 now they're vestigial.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Whales evolved from land mammals \u2014 they still have tiny leg bones inside their bodies.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Chickens are the closest living relatives to T. rex.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Sharks have been around longer than trees.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Humans share 50% of their DNA with bananas.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Some people are born without fingerprints due to a rare genetic condition called adermatoglyphia.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Goosebumps are a vestigial response \u2014 our ancestors' hair would fluff up to appear larger or for insulation.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Wisdom teeth are becoming less common \u2014 about 35% of people now never develop them.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Humans share 70% of their DNA with slugs.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Sharks have been around longer than trees \u2014 400 million vs 350 million years.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Your DNA could stretch from the Sun to Pluto and back 17 times.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans and bananas share 60% of their DNA.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans and chimps share 98.8% of their DNA, but humans and bananas share about 60%.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The human genome contains about 8% viral DNA \u2014 remnants of ancient infections that became part of us.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Your DNA is bombarded by about 10,000 damaging events per cell per day, but repair mechanisms fix most of them.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Identical twins don't have identical fingerprints because fingerprints are influenced by random developmental factors.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The average person carries 1-2 lethal genetic mutations that would be fatal if inherited from both parents.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Whales evolved from land mammals \u2014 they still have tiny vestigial leg bones inside their bodies.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Snakes have vestigial hips and some species have tiny remnant legs, showing their lizard ancestry.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The human tailbone is a vestigial tail \u2014 some babies are occasionally born with small tails.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Chickens are the closest living relatives of T. rex, and birds are technically dinosaurs.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Evolution has independently created eyes over 40 times in different lineages.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The recurrent laryngeal nerve takes a 15-foot detour in giraffes \u2014 an evolutionary leftover from fish ancestors.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Red hair is caused by a variant of the MC1R gene and is the rarest natural hair color at 1-2% of the population.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Lactose tolerance in adults is a mutation that appeared only 10,000 years ago with dairy farming.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Blue eyes appeared as a mutation 6,000-10,000 years ago \u2014 every blue-eyed person shares a common ancestor.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Wisdom teeth are becoming obsolete \u2014 about 35% of people never develop them.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The appendix isn't vestigial \u2014 it's a refuge for beneficial gut bacteria to repopulate after illness.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Goosebumps are vestigial \u2014 they fluffed up our ancestors' fur for warmth or to appear larger.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Humans are 99.9% genetically identical to each other, yet that 0.1% difference creates all human diversity.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Neanderthal DNA makes up 1-4% of modern non-African human genomes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "CRISPR was discovered as a bacterial immune system that cuts up invading viral DNA.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Epigenetics shows that experiences can affect gene expression and be passed to future generations.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Mitochondrial DNA is inherited only from mothers, allowing us to trace maternal lineages back 200,000 years.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Sharks have been around for over 400 million years \u2014 predating trees and dinosaurs.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Horseshoe crabs have remained virtually unchanged for 450 million years.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Woolly mammoth DNA has been extracted and scientists are attempting to resurrect the species.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Bacteria can exchange genes horizontally, not just through reproduction \u2014 this is how antibiotic resistance spreads.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The Y chromosome is slowly shrinking and may disappear in about 4.6 million years.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have lost the ability to produce vitamin C due to a mutation 61 million years ago.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Some humans can see a fourth primary color due to a mutation that creates tetrachromacy.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The placenta evolved from an ancient viral infection that became beneficial.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Tibetans have a gene from Denisovans that helps them survive at high altitudes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Polar bears evolved from brown bears only about 400,000 years ago \u2014 very recently in evolutionary terms.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Dogs were the first domesticated animal, diverging from wolves about 15,000-40,000 years ago.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Antibiotic-resistant superbugs are an example of evolution happening in real-time.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The common ancestor of all life on Earth is called LUCA \u2014 Last Universal Common Ancestor.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Only 1.5% of human DNA codes for proteins \u2014 the rest was once called 'junk DNA' but has important regulatory functions.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have fewer genes than a grape \u2014 about 20,000 compared to the grape's 30,000.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans are more closely related to fungi than to plants.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The first flowers appeared about 140 million years ago, relatively recently in Earth's history.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Octopus DNA is so different from other animals that some scientists joked they might be alien.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The Cambrian Explosion produced most major animal body plans in just 20 million years.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Feathers evolved before flight \u2014 dinosaurs used them for insulation and display.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Cave fish lose their eyes over generations because maintaining unused organs wastes energy.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "A 2015 study found that the average person has about 400 private genetic variants that are unique to them.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Epigenetics studies gene expression changes without DNA changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "DNA methylation can silence genes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Histone modifications affect gene expression.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Imprinting means some genes are only expressed from one parent.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "X-inactivation silences one X chromosome in females.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Epigenetic changes can be inherited.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Twins can have different epigenomes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Environmental factors can cause epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Stress can alter gene expression epigenetically.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Diet affects epigenetic markers.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Epigenetic clocks can estimate biological age.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Horvath's clock uses DNA methylation patterns.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Biological age can differ from chronological age.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Epigenetic age acceleration predicts mortality.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Lifestyle factors affect epigenetic age.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Exercise can reverse some epigenetic aging.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Caloric restriction slows epigenetic aging.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Smoking accelerates epigenetic aging.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Alcohol affects DNA methylation patterns.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Meditation may slow epigenetic aging.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Sleep deprivation alters gene expression.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Pollution can cause epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Endocrine disruptors affect epigenetics.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Bisphenol A can alter gene expression.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Transgenerational epigenetic inheritance is controversial.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Famine effects may be inherited epigenetically.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The Dutch Hunger Winter study showed transgenerational effects.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Trauma may cause inheritable epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Holocaust survivor descendants show epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Paternal diet can affect offspring epigenetics.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Grandparental experiences may affect grandchildren.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Sperm carry epigenetic information.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Paternal obesity affects offspring metabolism.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Cocaine use alters sperm epigenetics.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Paternal stress affects offspring behavior.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Maternal care affects offspring epigenetics.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Rat pup licking affects stress response genes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Early life stress has lasting epigenetic effects.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Abuse alters glucocorticoid receptor methylation.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Depression is linked to epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Antidepressants may work through epigenetics.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Schizophrenia involves epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Autism is linked to epigenetic factors.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Addiction causes lasting epigenetic changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Drug tolerance involves epigenetic mechanisms.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Reward pathways are epigenetically modified by drugs.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Relapse is linked to epigenetic memory.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Goosebumps are a vestigial response from hairy ancestors.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Wisdom teeth are becoming less common in humans.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The appendix may be a vestigial organ.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The coccyx is a remnant of a tail.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Humans once had a third eyelid.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Arrector pili muscles cause goosebumps.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The palmaris longus muscle is absent in 14% of people.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Darwin's tubercle is a vestigial ear feature.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The plantaris muscle is vestigial in humans.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The pyramidalis muscle is absent in 20% of people.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Male nipples are vestigial structures.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Hiccups may be a remnant from amphibian ancestors.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The pharyngeal arches develop into neck structures.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Human embryos temporarily have tails.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Lanugo is fetal hair humans once kept.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "The vomeronasal organ is vestigial in humans.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Humans have genes for making vitamin C but they're broken.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Olfactory receptor genes are mostly non-functional in humans.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have lost the ability to make 1 of 20 amino acids.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans cannot biosynthesize vitamin B12.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "GULO gene is broken in humans, causing need for vitamin C.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have 3 billion base pairs in their genome.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Only 1.5% of human DNA codes for proteins.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have about 20,000 protein-coding genes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Transposons make up 45% of the human genome.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Mitochondrial DNA is inherited only from mothers.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Y chromosome DNA is inherited only from fathers.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans and chimpanzees share 98.8% of DNA.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans and mice share 85% of protein-coding genes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans and fruit flies share 60% of genes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans have 23 pairs of chromosomes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Chromosome 1 is the largest human chromosome.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Chromosome 21 is the smallest autosome.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The Y chromosome is one of the smallest.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Telomeres shorten with each cell division.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Telomerase can extend telomeres.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Cancer cells have abnormal telomerase activity.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "CRISPR can edit genes with high precision.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Cas9 is the enzyme that cuts DNA in CRISPR.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Guide RNA directs CRISPR to the target gene.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "PCR amplifies DNA exponentially.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "DNA sequencing has become 100 million times cheaper.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The Human Genome Project took 13 years.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Sanger sequencing reads one DNA strand at a time.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Next-gen sequencing reads millions of strands at once.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Oxford Nanopore can sequence DNA in real-time.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "23andMe uses DNA microarrays.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "SNPs are single nucleotide changes.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Indels are insertions or deletions in DNA.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Copy number variants affect large DNA segments.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Octopuses can edit their own RNA on the fly.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans share 60% of DNA with bananas.",
+    "source": "",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Grass appeared only about 55 million years ago \u2014 it's a relatively recent plant.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Avocados evolved to be eaten by giant ground sloths \u2014 now extinct, so humans have taken over seed dispersal.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Fungi were the first organisms to colonize land, paving the way for plants.",
+    "source": "",
+    "original_category": "evolution"
+  },
+  {
+    "text": "Human DNA is 50% identical to banana DNA.",
+    "source": "https://en.wikipedia.org/wiki/Human_genome",
+    "original_category": "genetics"
+  },
+  {
+    "text": "Humans share 60% of their DNA with bananas.",
+    "source": "https://en.wikipedia.org/wiki/Musa_(genus)",
+    "original_category": "genetics"
+  },
+  {
+    "text": "A single human cell contains about 6 feet of DNA.",
+    "source": "https://en.wikipedia.org/wiki/DNA",
+    "original_category": "genetics"
+  },
+  {
+    "text": "The human genome contains about 3 billion base pairs of DNA.",
+    "source": "https://en.wikipedia.org/wiki/Human_genome",
+    "original_category": "genetics"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "text": "Trained elephants in Indonesia help fight forest fires - carrying water pumps and hoses, 23 elephants from a conservation center helped patrol land and prevent new fires during the 2015 East Sumatra fires.",
+    "source": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "YouTube's first-ever video, uploaded April 23, 2005, featured elephants at a zoo - co-founder Jawed Karim stood in front of them discussing their 'cool' long trunks.",
+    "source": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The U.S. Navy trains dolphins to find enemy swimmers, locate underwater mines, and guard nuclear arsenals - utilizing their intelligence, speed, and echolocation abilities.",
+    "source": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Octopuses are masters of invisibility through rapid camouflage - scientists are studying their techniques to develop new technologies.",
+    "source": "https://www.nationalgeographic.com/animals/article/octopus-invisibility-camouflage-technology",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Crows in Japan steal fiber-optic cables for nesting material and cause about 100 power failures per year - between 2006-2008, they stole nearly 1,400 fiber-optic cables from Tokyo power providers.",
+    "source": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The New Caledonian crow is one of only two species that can craft hooks in the wild (the other is Homo sapiens) - they bend pliable twigs into J-shapes to extract insects from tight crevices.",
+    "source": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Artificial light has substantially altered humanity's sleep patterns compared to ancestral humans who slept with natural light cycles.",
+    "source": "Wikipedia",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "Blue light from smartphones and screens suppresses melatonin and is associated with circadian rhythm disruption.",
+    "source": "Wikipedia",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "Wearable sleep trackers and smartphone apps can collect data about movement, sounds, and heart rate during sleep.",
+    "source": "NINDS",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "Light therapy using a light box can help reset circadian rhythms for people with sleep phase disorders.",
+    "source": "Sleep Foundation",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "CPAP (Continuous Positive Airway Pressure) machines are the most common and effective treatment for obstructive sleep apnea.",
+    "source": "Sleep Foundation",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "Hypoglossal nerve stimulation is an implanted device that moves the tongue forward during sleep to treat sleep apnea.",
+    "source": "Sleep Foundation",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "Transcranial alternating current stimulation (tACS) delivering current to the frontal cortex may help induce lucid dreams.",
+    "source": "Sleep Foundation",
+    "original_category": "technology_sleep"
+  },
+  {
+    "text": "The Lockheed SR-71 Blackbird reached speeds of 3,530 km/h (Mach 3.3), making it the fastest air-breathing manned aircraft ever built.",
+    "source": "https://www.wikidata.org/wiki/Q190114",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Nearly 300 construction workers showed up at 8 am to continue building Chernobyl Reactors 5 and 6, despite the Chernobyl disaster earlier that day.",
+    "source": "https://en.wikipedia.org/wiki/Chernobyl_Reactors_5_and_6",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "An official investigation found the Fukushima nuclear accident was foreseeable and preventable.",
+    "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "When the E-Defense earthquake shake table was commissioned in 2005, it was the world's largest 3D earthquake shake table.",
+    "source": "https://en.wikipedia.org/wiki/E-Defense",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The Palace Theater light bulb has been running since 1908.",
+    "source": "https://en.wikipedia.org/wiki/Palace_Theater_Light",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Trembleuse cups and saucers enabled people with unsteady hands to drink hot beverages.",
+    "source": "https://en.wikipedia.org/wiki/Trembleuse",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The world's oldest timepiece with an anchor escapement is in the collection of the Irish Museum of Time.",
+    "source": "https://en.wikipedia.org/wiki/Irish_Museum_of_Time",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The U.S. Air Force considered a bomber version of the F-22 Raptor known as the FB-22.",
+    "source": "https://en.wikipedia.org/wiki/Lockheed_Martin_FB-22",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The Australian Light Weight Air Warning Radar was once loaded using canoes and later manhandled up a 200-foot cliff.",
+    "source": "https://en.wikipedia.org/wiki/Light_Weight_Air_Warning_Radar",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Ferrari FF was, upon its release, the world's fastest four-seater car.",
+    "source": "https://en.wikipedia.org/wiki/Ferrari_FF",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Akari light sculptures were designed by Isamu Noguchi because a Japanese mayor asked him to revitalize the dying paper-lantern industry.",
+    "source": "https://en.wikipedia.org/wiki/Akari_(lamp)",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The freighters James H. Reed and Frank E. Vigor sank in separate collisions on Lake Erie on the same day.",
+    "source": "https://en.wikipedia.org/wiki/SS_James_H._Reed",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The opening of The Empire Brunei was timed to help create hotel capacity in Brunei for an APEC summit.",
+    "source": "https://en.wikipedia.org/wiki/The_Empire_Brunei",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The Advanced Tactical Fighter program resulted in the F-22 Raptor.",
+    "source": "https://en.wikipedia.org/wiki/Advanced_Tactical_Fighter",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Residents reported the first cycling club in Washington, D.C., to the police over concerns that bicycles posed a danger to pedestrians.",
+    "source": "https://en.wikipedia.org/wiki/Capital_Bicycle_Club",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Queen Anne Pool opened to the public one day late, after a thermostat glitch accidentally heated the pool to 100 \u00b0F (38 \u00b0C).",
+    "source": "https://en.wikipedia.org/wiki/Queen_Anne_Pool",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The cupola of Homer House is part of a 19th-century cooling system.",
+    "source": "https://en.wikipedia.org/wiki/Homer_House",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The Free Universal Construction Kit connects ten otherwise incompatible children's construction toys.",
+    "source": "https://en.wikipedia.org/wiki/Free_Universal_Construction_Kit",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "A nuclear reactor was nearly built at the New York Hall of Science, but the money instead went to Yankee Stadium.",
+    "source": "https://en.wikipedia.org/wiki/New_York_Hall_of_Science",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "A class-action lawsuit was filed against Spotify following the discontinuation of the Car Thing.",
+    "source": "https://en.wikipedia.org/wiki/Car_Thing",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "During the Tunisian campaign in World War II, crews carried an AMES Type 6 radar set across a swamp to spy on Luftwaffe aircraft.",
+    "source": "https://en.wikipedia.org/wiki/AMES_Type_6",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The electrification of the Midland Main Line was designated as a high priority in 1981, but work to electrify the northern part did not begin until more than 30 years later.",
+    "source": "https://en.wikipedia.org/wiki/Midland_Main_Line_upgrade",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "The British Army's Submarine Mining Service defended ports and harbours with naval mines and torpedoes.",
+    "source": "https://en.wikipedia.org/wiki/Submarine_Mining_Service",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "Electriquette was an electric wicker vehicle that could be rented at the 1915 Panama\u2013California Exposition.",
+    "source": "https://en.wikipedia.org/wiki/Electriquette",
+    "original_category": "technology_engineering"
+  },
+  {
+    "text": "\u2013 electronic digital computer\nMarcel Audiffren, France \u2013 refrigeration, patent\nAlexander Anim-Mensah, Ghanaian/American \u2013 Chemical engineer, inventor\n\n\n=== B ===\nBoris Babayan (born 1933), Armenia/USSR/Russia \u2013 Soviet computers, Superscalar processor\nCharles Babbage (1791\u20131871), UK \u2013 Analytical engine (semi-automatic)\nTabitha Babbit (1779\u20131853), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Saw mill circular saw\nVictor Babe\u0219 (1854\u20131926), Romania \u2013 Babesia, the founder of serum therapy\nLeo Baekeland (1863\u20131944), Belgian\u2013American \u2013 Velox photographic paper and Bakelite\nRalph H.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 co-inventor of the transistor, with Brattain and Schockley\nVladimir Barmin (1909\u20131993), Russia \u2013 first rocket launch complex (spaceport)\nAnthony R.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 telephone\nNikolay Benardos (1842\u20131905), Russian Empire \u2013 arc welding (specifically carbon arc welding, the first arc welding method)\nRuth R.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Gong and signal chair (adopted by House of Representatives and precursor to flight attendant signal system)\nWilliam R.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 improved ironing board design\nCharlie Booth (1903\u20132008), Australia \u2013 Starting blocks\nBob Born (1924\u20132023), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 created first Genetically modified organism\nWillard Boyle (1924\u20132011) together with George E.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first self-propelled street sweeping truck\nRachel Fuller Brown (1898\u20131980), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Nystatin, the world's first antifungal antibiotic\nWilliam C.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Horseshoe machine, first usable iron railroad spike\n\n\n=== C ===\nTim Cook-the CEO of Apple\nVe Elizabeth Cadie (1893\u20131956), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Internet Protocol (IP)\nClaude Shannon (1916\u20132016), founder of information theory and modern cryptography, invented Minivac 601, and co-invented the first wearable computer (with Edward O.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Coulter principle\nJacques Cousteau (1910\u20131997), France \u2013 co-inventor of the aqualung and the Nikonos underwater camera\nJohn \"Jack\" Higson Cover Jr.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 ENIAC \u2013 the first general purpose programmable digital computer\nThomas Alva Edison (1847\u20131931), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 phonograph, commercially practical incandescent light bulb, etc.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 the pointed lightning rod conductor, bifocal glasses, the Franklin stove, the glass harmonica\nHerman Frasch (1851\u20131914), Germany / U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Gilhoolie\nRobert Fulton (1765\u20131815), United States \u2013 first commercially successful steamboat, first practical submarine\nIvan Fyodorov (c.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 continuous-wave-operating diode lasers (together with Zhores Alferov), high-power diode lasers\nElmer R.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 wheat drill, first successful machine gun\nGeorgy Gause (1910\u20131986), Russia \u2013 gramicidin S, neomycin, lincomycin and other antibiotics\nE.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "First African-American woman to receive a United States patent.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Holter monitor\nRobert Hooke (1635\u20131703), UK \u2013 balance wheel, iris diaphragm, acoustic telephone\nErna Schneider Hoover (born 1926), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first Printing telegraph\nCoenraad Johannes van Houten (1801\u20131887), Netherlands \u2013 cocoa powder, cacao butter, chocolate milk\nElias Howe (1819\u20131867), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 3D printer\nTroy Hurtubise (1963\u20132018), Canada \u2013 Trojan Ballistics Suit of Armor, Ursus suit, Firepaste, Angel Light\nMiller Reese Hutchison (1876\u20131944), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first Genetically modified mouse\nAlcinous Burton Jamison (1851\u20131938), American physician, inventor of medical devices\nKarl Guthe Jansky (1905\u20131950), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 electrical engineer, known for several contributions and over seventy patents related to telecommunications switching systems\nCarl Edvard Johansson (1864\u20131943), Sweden \u2013 Gauge blocks\nJohan Petter Johansson (1853\u20131943), Sweden \u2013 Pipe wrench and adjustable spanner\nReynold B.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "1380\u20131429), Persia/Iran \u2013 plate of conjunctions, analog planetary computer\nAndrew Kay (1919\u20132014), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Digital voltmeter\nAdolphe K\u00e9gresse (1879\u20131943), France/Russia \u2013 K\u00e9gresse track (first half-track and first off-road vehicle with continuous track), dual-clutch transmission\nCarl D.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 three way catalytic converter\nMstislav Keldysh (1911\u20131978), Latvia/Russia \u2013 co-developer of Sputnik 1 (the first artificial satellite) together with Korolyov and Tikhonravov\nJohn Harvey Kellogg (1852\u20131943), cornflake breakfasts\nJohn G.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 BASIC (programming language)\nAlexander Kemurdzhian (1921\u20132003), Armenia/Russia/USSR \u2013 first space exploration rover (Lunokhod)\nMary Kenner (1912\u20132006), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Secure Sockets invented in 1991 for securing Internet applications (World Wide Web, email, etc.)\nHedy Lamarr (1914\u20132000), Austria and U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 gas filled incandescent light bulb, hydrogen welding\nNorm Larsen (1923\u20131970), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 invented the first digital sampling synthesizer\nJoy Mangano (born 1956), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Marsh rack railway system\nKonosuke Matsushita (1894\u20131989), Japan \u2013 battery-powered Bicycle lighting\nTaqi al-Din Muhammad ibn Ma'ruf (1526\u20131585), Syria/Egypt/Turkey \u2013 steam turbine, six-cylinder 'Monobloc' suction pump, framed sextant\nAlex Mashinsky (born 1965), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "born, UK \u2013 first self-powered machine gun\nJames Clerk Maxwell (1831\u20131879) and Thomas Sutton, Scotland \u2013 color photography\nStanley Mazor (born 1941), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 heavier-than-air gliders\nNarcis Monturiol i Estarriol (1819\u20131885), Spain \u2013 steam powered submarine\nRobert Moog (1934\u20132005), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Hypertext, Hypermedia\nSergey Nepobedimiy (1921\u20132014), Russia \u2013 first supersonic anti-tank guided missile Sturm, other Soviet rocket weaponry\nKarl Nessler (1872\u20131951), Germany/U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first Quantum machine\nJoseph John O'Connell (1861\u20131959), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 with Sergey Brin invented Google web search engine\nWilliam Painter (1838\u20131906), UK/U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 electromagnetic field generator to deflect asteroids away from the Earth, an inertial mass reduction device, a room-temperature superconductor, a gravitational wave generator, and a compact fusion reactor\nAlexey Pajitnov (born 1956), Russia/U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 early Automobile air conditioning, shock absorbers\nWilliam Henry Perkin (1838\u20131907), UK \u2013 first synthetic organic chemical dye Mauveine\nHenry Perky (1843\u20131906), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first affordable trampoline safety net enclosure\nGeorge Pullman (1831\u20131897), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Richter magnitude scale\nAdolph Rickenbacker (1886\u20131976), Switzerland \u2013 Electric guitar\nHyman George Rickover (1900\u20131986), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Nuclear submarine\nNiklaus Riggenbach (1817\u20131899), Switzerland \u2013 Riggenbach rack railway system, Counter-pressure brake\nDennis Ritchie (1941\u20132011), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Bra (Maidenform), the standard of cup sizes, nursing bra, full-figured bra, the first seamed uplift bra (all with her husband William)\nSidney Rosenthal (1907\u20131979), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Magic Marker\nEugene Roshal (born 1972), Russia \u2013 FAR file manager, RAR file format, WinRAR file archiver\nBoris Rosing (1869\u20131933), Russia \u2013 CRT television (first television system using cathode-ray tube on the receiving side)\nGuido van Rossum (born 1956), The Netherlands \u2013 Python (programming language)\nMichael Rothman, U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 co-founder and chief executive officer of OceanGate\n\n\n=== S ===\nAlbert Bruce Sabin (1906\u20131993), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Schrader valve for Pneumatic tire\nDavid Schwarz (1852\u20131897), Croatia, \u2013 rigid airship, later called Zeppelin\nRaymond Scott (1908\u20131994), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 Aerosol paint\nLeonty Shamshurenkov (1687\u20131758), Russia \u2013 first self-propelling carriage (a precursor to both bicycle and automobile), projects of an original odometer and self-propelling sledge\nIbn al-Shatir (1304\u20131375), Syria \u2013 \"jewel box\" device which combined a compass with a universal sundial\nBi Sheng (Chinese: \u7562\u6607) (c.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 first four-engine fixed-wing aircraft (Russky Vityaz), first airliner and purpose-designed bomber (Ilya Muromets), helicopter, Sikorsky-series helicopters\nBernard Silver (1924\u20131963), together with Norman Joseph Woodland (1921\u20132012), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 GNU operating system, GNU Emacs, GNU Compiler Collection\nLadislas Starevich (1882\u20131965), Russia/France \u2013 puppet animation, live-action/animated film\nGary Starkweather (1938\u20132019), U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 laser printer, color management\nJohn Kemp Starley (1855\u20131901), U.K.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 First inter-computer email\nEvangelista Torricelli (1608\u20131647), Italy \u2013 barometer\nLinus Torvalds (born 1969), Finland/U.S.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "\u2013 chocolate chip cookie\nPaul Walden (1863\u20131957), Latvia/Russia/Germany \u2013 Walden inversion, Ethylammonium nitrate (the first room temperature ionic liquid)\nAdam Walker (1730\u20131821), UK \u2013 eidouranion\nMadam C.J.",
+    "source": "https://en.wikipedia.org/wiki/List_of_inventors",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer mouse was made of wood.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer bug was an actual insect.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first product to have a barcode was Wrigley's gum.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first webcam was created to monitor a coffee pot.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer virus was created in 1986 by two Pakistani brothers who put their names and phone number in the code so victims could contact them for a cure.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The QWERTY keyboard was designed to slow typists down so mechanical typewriters wouldn't jam.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first webcam was invented to monitor a coffee pot at Cambridge University so researchers wouldn't make wasted trips.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Nintendo was founded in 1889 as a playing card company, over 100 years before they made video games.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The original iPhone had less computing power than today's cheap calculators, but it still revolutionized the smartphone industry.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "GPS satellites must account for both special and general relativity \u2014 without corrections, GPS would be inaccurate by about 10 km per day.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The 'Like' button on Facebook was almost called 'Awesome.'",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The moon landing computer had less processing power than a modern musical greeting card.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first electric traffic light was installed in Cleveland in 1914 and only had red and green lights \u2014 no yellow.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Smartphones have more computing power than all of NASA had in 1969 when it put men on the Moon.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computers used vacuum tubes \u2014 ENIAC used 17,468 tubes and filled an entire room.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first programmable computer was designed in 1837 by Charles Babbage but was never built in his lifetime.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first 1GB hard drive, introduced in 1980, weighed 550 pounds and cost $40,000.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first text message ever sent was 'Merry Christmas' in 1992.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first domain ever registered was Symbolics.com on March 15, 1985.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The inventor of the Ethernet received only a small bonus from his company, which made billions from the technology.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Nintendo's Game Boy survived a bombing in the Gulf War and still works \u2014 it's on display at the Nintendo store in New York.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first YouTube video was uploaded on April 23, 2005, and it was just an 18-second clip of a guy at a zoo.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first website ever created is still online: info.cern.ch.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first YouTube video was uploaded on April 23, 2005.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Email existed before the World Wide Web.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The QWERTY keyboard was designed to slow typists down to prevent typewriter jams.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first emoji was created in 1999 by a Japanese artist.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Google's name comes from 'googol' \u2014 the number 1 followed by 100 zeros.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first webcam watched a coffee pot at Cambridge University.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first text message said 'Merry Christmas.'",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The inventor of the web, Tim Berners-Lee, made it royalty-free for everyone.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first iPhone had less processing power than today's musical greeting cards.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The Apollo 11 computer had less power than a modern calculator.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first commercial computer weighed 27 tons and cost $500,000.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "GPS satellites must account for Einstein's relativity or they'd be 10 km off daily.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first 1GB hard drive weighed 550 pounds and cost $40,000.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "WiFi was invented by an Australian radio astronomer.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first domain name ever registered was Symbolics.com in 1985.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "More people own cell phones than toothbrushes.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The original name for a search engine was 'BackRub' \u2014 before Google.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer virus was created in 1986 and was called 'Brain.'",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first email was sent in 1971 \u2014 the message was 'QWERTYUIOP.'",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "GPS satellites must account for relativity or they'd be off by about 10 km per day.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "Hexadecimal uses 16 digits (0-9 and A-F) and is commonly used in computing for colors and memory addresses.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The world's first computer programmer was a woman named Ada Lovelace.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer virus was called 'Creeper.'",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "A single Google search uses 1,000 computers in 0.2 seconds.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first webcam watched a coffee pot.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first YouTube video was about elephants at a zoo.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The inventor of the World Wide Web made it royalty-free.",
+    "source": "",
+    "original_category": "technology"
+  },
+  {
+    "text": "The Twitter bird has an official name - Larry, after basketball player Larry Bird.",
+    "source": "https://en.wikipedia.org/wiki/Twitter",
+    "original_category": "technology"
+  },
+  {
+    "text": "The Twitter bird has a name - Larry Bird, named after the basketball player.",
+    "source": "https://en.wikipedia.org/wiki/Twitter",
+    "original_category": "technology"
+  },
+  {
+    "text": "The shortest commercial flight in the world is between Westray and Papa Westray in Scotland - it takes 1.5 minutes.",
+    "source": "https://en.wikipedia.org/wiki/Loganair",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first webcam was created at Cambridge University to monitor a coffee pot.",
+    "source": "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first email was sent by Ray Tomlinson to himself in 1971.",
+    "source": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+    "original_category": "technology"
+  },
+  {
+    "text": "The speed of a computer mouse is measured in Mickeys per second.",
+    "source": "https://en.wikipedia.org/wiki/Mouse_(computing)",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first video game Easter egg was hidden in 'Adventure' for the Atari 2600 in 1979.",
+    "source": "https://en.wikipedia.org/wiki/Adventure_(1980_video_game)",
+    "original_category": "gaming"
+  },
+  {
+    "text": "The first SMS text message was sent in 1992 and said 'Merry Christmas'.",
+    "source": "https://en.wikipedia.org/wiki/SMS",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer virus was created in 1983 and was called 'Elk Cloner'.",
+    "source": "https://en.wikipedia.org/wiki/Elk_Cloner",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first message sent over ARPANET (the precursor to the internet) was 'LO' - the system crashed before 'LOGIN' could be completed.",
+    "source": "https://en.wikipedia.org/wiki/ARPANET",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first YouTube video was uploaded on April 23, 2005, titled 'Me at the zoo'.",
+    "source": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first domain name ever registered was Symbolics.com on March 15, 1985.",
+    "source": "https://en.wikipedia.org/wiki/Symbolics",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first ATM was installed in London in 1967.",
+    "source": "https://en.wikipedia.org/wiki/Automated_teller_machine",
+    "original_category": "technology"
+  },
+  {
+    "text": "The world's first programmable computer was the Z3, built by Konrad Zuse in 1941.",
+    "source": "https://en.wikipedia.org/wiki/Z3_(computer)",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first robot was created in 1954 by George Devol.",
+    "source": "https://en.wikipedia.org/wiki/George_Devol",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first smartphone was IBM's Simon Personal Communicator, released in 1994.",
+    "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first email spam was sent in 1978 to 393 ARPANET users.",
+    "source": "https://en.wikipedia.org/wiki/History_of_email_spam",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first website went live on August 6, 1991, created by Tim Berners-Lee.",
+    "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first video game console was the Magnavox Odyssey, released in 1972.",
+    "source": "https://en.wikipedia.org/wiki/Magnavox_Odyssey",
+    "original_category": "gaming"
+  },
+  {
+    "text": "The first mobile phone call was made on April 3, 1973, by Martin Cooper.",
+    "source": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first video uploaded to YouTube was 'Me at the zoo' on April 23, 2005.",
+    "source": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first MP3 player was created in 1997 by SaeHan Information Systems.",
+    "source": "https://en.wikipedia.org/wiki/Digital_audio_player",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first commercial airplane flight occurred in 1914, traveling between St. Petersburg and Tampa, Florida.",
+    "source": "https://en.wikipedia.org/wiki/St._Petersburg%E2%80%93Tampa_Airboat_Line",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first commercial text message was sent in 1992, reading 'Merry Christmas'.",
+    "source": "https://en.wikipedia.org/wiki/SMS",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first commercial jet airliner was the de Havilland Comet, which entered service in 1952.",
+    "source": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first computer hard drive was created in 1956 and weighed over a ton.",
+    "source": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first computer mouse was made of wood, invented by Doug Engelbart in 1964.",
+    "source": "https://en.wikipedia.org/wiki/Computer_mouse",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first supersonic flight occurred in 1947, piloted by Chuck Yeager.",
+    "source": "https://en.wikipedia.org/wiki/Chuck_Yeager",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first fax machine was invented in 1843, before the telephone.",
+    "source": "https://en.wikipedia.org/wiki/Fax",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first refrigerator was invented in 1913 by Fred W. Wolf.",
+    "source": "https://en.wikipedia.org/wiki/Refrigerator",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first escalator was installed in 1897 at a Coney Island amusement park.",
+    "source": "https://en.wikipedia.org/wiki/Escalator",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first commercial airplane flew in 1914 between St. Petersburg and Tampa, Florida.",
+    "source": "https://en.wikipedia.org/wiki/St._Petersburg%E2%80%93Tampa_Airboat_Line",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first digital camera was invented by Kodak engineer Steven Sasson in 1975.",
+    "source": "https://en.wikipedia.org/wiki/Steven_Sasson",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first modern zipper was invented in 1913 by Gideon Sundback.",
+    "source": "https://en.wikipedia.org/wiki/Zipper",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first microwave oven was called the 'Radarange' and cost $5,000 in 1946.",
+    "source": "https://en.wikipedia.org/wiki/Microwave_oven",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first e-commerce transaction was a sale of marijuana in 1971 between Stanford and MIT students.",
+    "source": "https://en.wikipedia.org/wiki/E-commerce",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first transistor was invented at Bell Labs in 1947.",
+    "source": "https://en.wikipedia.org/wiki/Transistor",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first commercially successful video game was Pong, released in 1972.",
+    "source": "https://en.wikipedia.org/wiki/Pong",
+    "original_category": "gaming"
+  },
+  {
+    "text": "The first mechanical calculator was invented by Blaise Pascal in 1642.",
+    "source": "https://en.wikipedia.org/wiki/Pascal%27s_calculator",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first telegraph message was sent by Samuel Morse in 1844: 'What hath God wrought'.",
+    "source": "https://en.wikipedia.org/wiki/Samuel_Morse",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first synthesizer was invented by Robert Moog in 1964.",
+    "source": "https://en.wikipedia.org/wiki/Robert_Moog",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first powered flight by the Wright Brothers lasted only 12 seconds.",
+    "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first electric traffic light was installed in Cleveland, Ohio, in 1914.",
+    "source": "https://en.wikipedia.org/wiki/Traffic_light",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first air-conditioned building was the New York Stock Exchange in 1903.",
+    "source": "https://en.wikipedia.org/wiki/Air_conditioning",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first electric car was built in 1884 by Thomas Parker.",
+    "source": "https://en.wikipedia.org/wiki/Electric_car",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first image transmitted over the internet was a picture of Les Horribles Cernettes in 1992.",
+    "source": "https://en.wikipedia.org/wiki/Les_Horribles_Cernettes",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first public radio broadcast occurred in 1906.",
+    "source": "https://en.wikipedia.org/wiki/History_of_radio",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first solar cell was developed in 1954 at Bell Labs.",
+    "source": "https://en.wikipedia.org/wiki/Solar_cell",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first self-contained underwater breathing apparatus (SCUBA) was invented in 1943.",
+    "source": "https://en.wikipedia.org/wiki/Scuba_diving",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first jet engine was patented by Frank Whittle in 1930.",
+    "source": "https://en.wikipedia.org/wiki/Frank_Whittle",
+    "original_category": "aviation"
+  },
+  {
+    "text": "The first practical submarine was built by John Philip Holland in 1897.",
+    "source": "https://en.wikipedia.org/wiki/John_Philip_Holland",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first hearing aid was invented in 1898.",
+    "source": "https://en.wikipedia.org/wiki/Hearing_aid",
+    "original_category": "technology"
+  },
+  {
+    "text": "The first barcode was scanned on a pack of Wrigley's gum in 1974.",
+    "source": "https://en.wikipedia.org/wiki/Barcode",
+    "original_category": "technology"
+  }
+]
