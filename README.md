@@ -27,6 +27,12 @@ size_categories:
 
 ---
 
+<p align="center">
+  <a href="https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts">📦 View on Hugging Face</a>
+</p>
+
+---
+
 ## 🤔 What is this?
 
 A curated dataset of **10,003 science facts** across 32 categories — from quantum physics to parasites to the history of food.
