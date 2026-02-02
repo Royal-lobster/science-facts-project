@@ -28,7 +28,7 @@ size_categories:
 ---
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts">📦 View on Hugging Face</a>
+  <a href="https://huggingface.co/datasets/Royal-lobster/10001-Science-Facts">📦 View on Hugging Face</a>
 </p>
 
 ---
